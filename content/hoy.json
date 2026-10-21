@@ -1,0 +1,29 @@
+{
+  "fecha": "Martes 20 de octubre de 2026",
+  "actualizado": "19:50 h",
+  "clima": {
+    "ahora": 20,
+    "max": 24,
+    "min": 14,
+    "texto": "Mañana fría, cielo medio nublado y lluvias aisladas por la tarde. Baja a unos 20° hacia las 18 h.",
+    "aire": "Aceptable",
+    "aire_estado": "warn",
+    "contingencia": "No",
+    "contingencia_estado": "ok"
+  },
+  "transporte": [
+    { "nombre": "Metro Línea 3", "icono": "3", "color": "#a39b1e", "estado": "Retrasos", "nivel": "warn" },
+    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Regular", "nivel": "ok" },
+    { "nombre": "Metrobús Línea 6", "icono": "6", "color": "#c2397a", "estado": "Parcial", "nivel": "bad" },
+    { "nombre": "México-Cuernavaca", "icono": "↗", "color": "#14296b", "estado": "Bloqueo", "nivel": "bad" },
+    { "nombre": "México-Querétaro", "icono": "↗", "color": "#14296b", "estado": "Parcial", "nivel": "warn" }
+  ],
+  "hoy_no_circula": { "engomado": "rosa", "color": "#e0287a", "placas": "7 y 8" },
+  "marchas_total": 7,
+  "marchas": [
+    { "hora": "07:30", "texto": "Trabajadores del IMSS en Palacio Nacional" },
+    { "hora": "Día", "texto": "Asamblea contra la tala de más de 100 árboles en el Bosque del Ocotal" },
+    { "hora": "Día", "texto": "Colectivo de la Prepa 8 en la CDHCM" },
+    { "hora": "Día", "texto": "Activistas por los animales colocan un memorial en el Senado" }
+  ]
+}
