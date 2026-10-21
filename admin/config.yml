@@ -1,7 +1,7 @@
 # Panel de publicación de Despierta Ciudad de México
 backend:
   name: github
-  repo: USUARIO/REPOSITORIO   # se completa al conectar GitHub
+  repo: despiertanoticias/despiertacdmx
   branch: main
   commit_messages:
     create: "Nueva nota: {{slug}}"
