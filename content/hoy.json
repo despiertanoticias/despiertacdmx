@@ -1,29 +1,29 @@
 {
-  "fecha": "Martes 20 de octubre de 2026",
-  "actualizado": "19:50 h",
+  "fecha": "Miércoles 21 de octubre de 2026",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 20,
-    "max": 24,
+    "max": 23,
     "min": 14,
-    "texto": "Mañana fría, cielo medio nublado y lluvias aisladas por la tarde. Baja a unos 20° hacia las 18 h.",
+    "texto": "Cielo nublado y lluvias ligeras aisladas; máxima prevista de 23°. Ambiente fresco por la masa de aire polar.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
   "transporte": [
-    { "nombre": "Metro Línea 3", "icono": "3", "color": "#a39b1e", "estado": "Retrasos", "nivel": "warn" },
-    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Regular", "nivel": "ok" },
-    { "nombre": "Metrobús Línea 6", "icono": "6", "color": "#c2397a", "estado": "Parcial", "nivel": "bad" },
-    { "nombre": "México-Cuernavaca", "icono": "↗", "color": "#14296b", "estado": "Bloqueo", "nivel": "bad" },
-    { "nombre": "México-Querétaro", "icono": "↗", "color": "#14296b", "estado": "Parcial", "nivel": "warn" }
+    { "nombre": "Metro Línea 9", "icono": "9", "color": "#5b2c1a", "estado": "Lento", "nivel": "warn" },
+    { "nombre": "Metro Línea 1", "icono": "1", "color": "#e9468f", "estado": "Retrasos", "nivel": "warn" },
+    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Retrasos", "nivel": "warn" },
+    { "nombre": "Metrobús Línea 2", "icono": "2", "color": "#8a3e97", "estado": "Accidente", "nivel": "warn" },
+    { "nombre": "Metrobús Línea 4", "icono": "4", "color": "#f28b20", "estado": "Desvíos", "nivel": "bad" }
   ],
-  "hoy_no_circula": { "engomado": "rosa", "color": "#e0287a", "placas": "7 y 8" },
-  "marchas_total": 7,
+  "hoy_no_circula": { "engomado": "rojo", "color": "#d6232f", "placas": "3 y 4" },
+  "marchas_total": 10,
   "marchas": [
-    { "hora": "07:30", "texto": "Trabajadores del IMSS en Palacio Nacional" },
-    { "hora": "Día", "texto": "Asamblea contra la tala de más de 100 árboles en el Bosque del Ocotal" },
-    { "hora": "Día", "texto": "Colectivo de la Prepa 8 en la CDHCM" },
-    { "hora": "Día", "texto": "Activistas por los animales colocan un memorial en el Senado" }
+    { "hora": "08:30", "texto": "Alianza Nacional de Jubilados, del Senado al Zócalo" },
+    { "hora": "10:00", "texto": "Prepa 8 en Parque Victoria (Álvaro Obregón)" },
+    { "hora": "12:00", "texto": "Plataforma 4:20 en Monumento a la Madre, División del Norte y Gran Canal" },
+    { "hora": "15:00", "texto": "Trabajadores del IMSS, del CMN Siglo XXI al Zócalo" }
   ]
 }
