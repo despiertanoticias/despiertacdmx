@@ -1,0 +1,22 @@
+{
+  "titulo": "Cielo nublado y ambiente fresco en la capital; máxima cercana a 21 grados",
+  "seccion": "ciudad",
+  "fecha": "2026-10-22T06:41",
+  "resumen": "El Servicio Meteorológico Nacional prevé para este jueves cielo mayormente nublado en el Valle de México, con una máxima de alrededor de 21 grados y una mínima de 12. UnoTV reporta posibles chubascos aislados por la tarde y rachas de viento de hasta 50 km/h, con riesgo de tolvaneras.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/cdmx/2026/10/21/clima-en-cdmx-y-edomex-jueves-22-de-octubre-con-temperaturas-frescas-source-ia/"
+    },
+    {
+      "medio": "UnoTV",
+      "enlace": "https://www.unotv.com/clima/clima-en-cdmx-jueves-con-lluvias-frio-y-posibles-tolvaneras/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

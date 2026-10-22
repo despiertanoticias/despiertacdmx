@@ -1,29 +1,29 @@
 {
-  "fecha": "Miércoles 21 de octubre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Jueves 22 de octubre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
     "ahora": 20,
-    "max": 23,
-    "min": 14,
-    "texto": "Cielo nublado y lluvias ligeras aisladas; máxima prevista de 23°. Ambiente fresco por la masa de aire polar.",
+    "max": 21,
+    "min": 12,
+    "texto": "Cielo mayormente nublado y ambiente fresco; posibles chubascos aislados por la tarde y rachas de viento de hasta 50 km/h.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
   "transporte": [
-    { "nombre": "Metro Línea 9", "icono": "9", "color": "#5b2c1a", "estado": "Lento", "nivel": "warn" },
-    { "nombre": "Metro Línea 1", "icono": "1", "color": "#e9468f", "estado": "Retrasos", "nivel": "warn" },
-    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Retrasos", "nivel": "warn" },
-    { "nombre": "Metrobús Línea 2", "icono": "2", "color": "#8a3e97", "estado": "Accidente", "nivel": "warn" },
-    { "nombre": "Metrobús Línea 4", "icono": "4", "color": "#f28b20", "estado": "Desvíos", "nivel": "bad" }
+    { "nombre": "Metro Línea 9", "icono": "9", "color": "#5b2c1a", "estado": "Servicio completo", "nivel": "ok" },
+    { "nombre": "Metro (todas las líneas)", "icono": "M", "color": "#e9468f", "estado": "Todas las estaciones abiertas", "nivel": "ok" },
+    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Regular", "nivel": "ok" },
+    { "nombre": "Metrobús Línea 2", "icono": "2", "color": "#8a3e97", "estado": "Intervención en Metro Coyuya", "nivel": "warn" },
+    { "nombre": "Metrobús Línea 6", "icono": "6", "color": "#e5007e", "estado": "Intervención en Gran Canal", "nivel": "warn" }
   ],
-  "hoy_no_circula": { "engomado": "rojo", "color": "#d6232f", "placas": "3 y 4" },
-  "marchas_total": 10,
+  "hoy_no_circula": { "engomado": "verde", "color": "#2e9e44", "placas": "1 y 2" },
+  "marchas_total": 12,
   "marchas": [
-    { "hora": "08:30", "texto": "Alianza Nacional de Jubilados, del Senado al Zócalo" },
-    { "hora": "10:00", "texto": "Prepa 8 en Parque Victoria (Álvaro Obregón)" },
-    { "hora": "12:00", "texto": "Plataforma 4:20 en Monumento a la Madre, División del Norte y Gran Canal" },
-    { "hora": "15:00", "texto": "Trabajadores del IMSS, del CMN Siglo XXI al Zócalo" }
+    { "hora": "10:00", "texto": "Movimiento Plural de Maquineros, de la Torre del Caballito al SAT (Av. Hidalgo)" },
+    { "hora": "10:30", "texto": "Defendamos el Museo Dolores Olmedo, en Palacio Nacional" },
+    { "hora": "15:00", "texto": "Trabajadores del IMSS en el CMN Siglo XXI; también en La Raza y HGZ 2-A" },
+    { "hora": "17:30", "texto": "Comité \"Hasta Encontrarlos\", frente a Segob" }
   ]
 }
