@@ -1,0 +1,22 @@
+{
+  "titulo": "Viernes nublado y con alta probabilidad de lluvia; máxima de 21 grados",
+  "seccion": "ciudad",
+  "fecha": "2026-10-23T06:44",
+  "resumen": "El pronóstico para la capital marca una máxima de 21 grados y una mínima cercana a 10, con cielo mayormente nublado y 96% de probabilidad de lluvia. Canales de baja presión traerán lluvias fuertes y chubascos al Valle de México, según el Servicio Meteorológico Nacional.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/10/23/las-ultimas-previsiones-para-ciudad-de-mexico-temperatura-lluvias-y-viento-este-23-de-octubre/"
+    },
+    {
+      "medio": "Infobae (en vivo)",
+      "enlace": "https://www.infobae.com/mexico/2026/10/23/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-23-de-octubre-vance-podria-evolucionar-a-huracan-categoria-1/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

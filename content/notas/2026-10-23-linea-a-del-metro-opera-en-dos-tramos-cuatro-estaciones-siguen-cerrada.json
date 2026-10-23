@@ -1,0 +1,22 @@
+{
+  "titulo": "Línea A del Metro opera en dos tramos; cuatro estaciones siguen cerradas",
+  "seccion": "ciudad",
+  "fecha": "2026-10-23T06:50",
+  "resumen": "La caída de una estructura de la catenaria en la estación Guelatao, la noche del jueves, dividió el servicio de la Línea A: los trenes corren de Pantitlán a Canal de San Juan y de Santa Marta a La Paz. Tepalcates, Guelatao, Peñón Viejo y Acatitla permanecen cerradas y autobuses de RTP conectan ambos tramos. El director del Metro, Adrián Rubalcava, dijo que se trabaja sin pausa para restablecerlo.",
+  "cuerpo": "",
+  "imagen_tema": "metro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/cdmx/2026/10/23/linea-a-del-metro-suspende-servicio-tras-caida-de-elemento-de-catenaria-y-explosion-que-estaciones-no-dan-servicio-alternativas/"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/estados/ciudad-de-mexico/atento-usuario-falla-en-linea-a-del-metro-cdmx-provoca-cierre-en-4-estaciones-asi-funciona/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

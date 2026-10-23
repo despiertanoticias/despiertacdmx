@@ -1,11 +1,11 @@
 {
-  "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "18:21 h",
+  "fecha": "Viernes 23 de octubre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
     "ahora": 20,
-    "max": 24,
-    "min": 12,
-    "texto": "Lluvias aisladas por la tarde con posibles descargas eléctricas, sobre todo en el sur y poniente; viento del norte con rachas de 30 a 50 km/h (SMN).",
+    "max": 21,
+    "min": 10,
+    "texto": "Mayormente nublado con 96% de probabilidad de lluvia; canales de baja presión traerán lluvias fuertes y chubascos al Valle de México (SMN). Alerta amarilla por frío de 2:00 a 8:00 en seis alcaldías (SGIRPC).",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -13,63 +13,56 @@
   },
   "transporte": [
     {
-      "nombre": "Metro Línea 9",
-      "icono": "9",
-      "color": "#5b2c1a",
-      "estado": "Servicio completo",
-      "nivel": "ok"
+      "nombre": "Metro Línea A",
+      "icono": "A",
+      "color": "#9c1e6a",
+      "estado": "Dos tramos (Pantitlán–Canal de San Juan y Santa Marta–La Paz); 4 estaciones cerradas, apoyo de RTP",
+      "nivel": "bad"
     },
     {
-      "nombre": "Metro Línea B",
-      "icono": "B",
-      "color": "#8f8f8f",
-      "estado": "Retrasos y alta afluencia por revisión de un tren",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Metrobús Línea 1",
-      "icono": "1",
-      "color": "#b9272b",
-      "estado": "Regular",
-      "nivel": "ok"
-    },
-    {
-      "nombre": "Metrobús Línea 2",
+      "nombre": "Metro Línea 2",
       "icono": "2",
-      "color": "#8a3e97",
-      "estado": "Intervención en Metro Coyuya",
+      "color": "#0071bc",
+      "estado": "Breve corte en Chabacano para retirar un objeto de las vías",
       "nivel": "warn"
     },
     {
-      "nombre": "Metrobús Línea 6",
-      "icono": "6",
-      "color": "#e5007e",
-      "estado": "Intervención en Gran Canal",
-      "nivel": "warn"
+      "nombre": "Resto del Metro",
+      "icono": "M",
+      "color": "#f37021",
+      "estado": "Sin incidencias reportadas al inicio del servicio",
+      "nivel": "ok"
+    },
+    {
+      "nombre": "Metrobús",
+      "icono": "MB",
+      "color": "#b9272b",
+      "estado": "Sin incidencias reportadas al inicio del servicio",
+      "nivel": "ok"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "verde",
-    "color": "#2e9e44",
-    "placas": "1 y 2"
+    "engomado": "azul",
+    "color": "#1f5fbf",
+    "placas": "9 y 0"
   },
-  "marchas_total": 12,
+  "marchas_total": 8,
   "marchas": [
     {
-      "hora": "10:00",
-      "texto": "Movimiento Plural de Maquineros, de la Torre del Caballito al SAT (Av. Hidalgo)"
+      "hora": "07:00",
+      "texto": "Caminata de trabajadores de salud del IMSS, del Ángel de la Independencia al Zócalo"
     },
     {
-      "hora": "10:30",
-      "texto": "Defendamos el Museo Dolores Olmedo, en Palacio Nacional"
+      "hora": "08:00",
+      "texto": "Trabajadores del Poder Judicial de la Federación, en la Cámara de Diputados"
     },
     {
-      "hora": "15:00",
-      "texto": "Trabajadores del IMSS en el CMN Siglo XXI; también en La Raza y HGZ 2-A"
+      "hora": "12:00",
+      "texto": "Estudiantes de la UAM Xochimilco hacia la Rectoría General, en Tlalpan"
     },
     {
-      "hora": "17:30",
-      "texto": "Comité \"Hasta Encontrarlos\", frente a Segob"
+      "hora": "13:00",
+      "texto": "Conductores de plataformas digitales (SUTRAM), en el Ángel de la Independencia"
     }
   ]
 }
