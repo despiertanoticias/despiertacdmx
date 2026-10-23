@@ -1,29 +1,75 @@
 {
   "fecha": "Jueves 22 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:21 h",
   "clima": {
     "ahora": 20,
-    "max": 21,
+    "max": 24,
     "min": 12,
-    "texto": "Cielo mayormente nublado y ambiente fresco; posibles chubascos aislados por la tarde y rachas de viento de hasta 50 km/h.",
+    "texto": "Lluvias aisladas por la tarde con posibles descargas eléctricas, sobre todo en el sur y poniente; viento del norte con rachas de 30 a 50 km/h (SMN).",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
   "transporte": [
-    { "nombre": "Metro Línea 9", "icono": "9", "color": "#5b2c1a", "estado": "Servicio completo", "nivel": "ok" },
-    { "nombre": "Metro (todas las líneas)", "icono": "M", "color": "#e9468f", "estado": "Todas las estaciones abiertas", "nivel": "ok" },
-    { "nombre": "Metrobús Línea 1", "icono": "1", "color": "#b9272b", "estado": "Regular", "nivel": "ok" },
-    { "nombre": "Metrobús Línea 2", "icono": "2", "color": "#8a3e97", "estado": "Intervención en Metro Coyuya", "nivel": "warn" },
-    { "nombre": "Metrobús Línea 6", "icono": "6", "color": "#e5007e", "estado": "Intervención en Gran Canal", "nivel": "warn" }
+    {
+      "nombre": "Metro Línea 9",
+      "icono": "9",
+      "color": "#5b2c1a",
+      "estado": "Servicio completo",
+      "nivel": "ok"
+    },
+    {
+      "nombre": "Metro Línea B",
+      "icono": "B",
+      "color": "#8f8f8f",
+      "estado": "Retrasos y alta afluencia por revisión de un tren",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Metrobús Línea 1",
+      "icono": "1",
+      "color": "#b9272b",
+      "estado": "Regular",
+      "nivel": "ok"
+    },
+    {
+      "nombre": "Metrobús Línea 2",
+      "icono": "2",
+      "color": "#8a3e97",
+      "estado": "Intervención en Metro Coyuya",
+      "nivel": "warn"
+    },
+    {
+      "nombre": "Metrobús Línea 6",
+      "icono": "6",
+      "color": "#e5007e",
+      "estado": "Intervención en Gran Canal",
+      "nivel": "warn"
+    }
   ],
-  "hoy_no_circula": { "engomado": "verde", "color": "#2e9e44", "placas": "1 y 2" },
+  "hoy_no_circula": {
+    "engomado": "verde",
+    "color": "#2e9e44",
+    "placas": "1 y 2"
+  },
   "marchas_total": 12,
   "marchas": [
-    { "hora": "10:00", "texto": "Movimiento Plural de Maquineros, de la Torre del Caballito al SAT (Av. Hidalgo)" },
-    { "hora": "10:30", "texto": "Defendamos el Museo Dolores Olmedo, en Palacio Nacional" },
-    { "hora": "15:00", "texto": "Trabajadores del IMSS en el CMN Siglo XXI; también en La Raza y HGZ 2-A" },
-    { "hora": "17:30", "texto": "Comité \"Hasta Encontrarlos\", frente a Segob" }
+    {
+      "hora": "10:00",
+      "texto": "Movimiento Plural de Maquineros, de la Torre del Caballito al SAT (Av. Hidalgo)"
+    },
+    {
+      "hora": "10:30",
+      "texto": "Defendamos el Museo Dolores Olmedo, en Palacio Nacional"
+    },
+    {
+      "hora": "15:00",
+      "texto": "Trabajadores del IMSS en el CMN Siglo XXI; también en La Raza y HGZ 2-A"
+    },
+    {
+      "hora": "17:30",
+      "texto": "Comité \"Hasta Encontrarlos\", frente a Segob"
+    }
   ]
 }
