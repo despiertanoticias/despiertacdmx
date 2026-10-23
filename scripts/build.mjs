@@ -2,6 +2,7 @@
 // en assets/datos.js, que lee el sitio. Netlify lo ejecuta en cada publicación.
 import fs from "node:fs";
 import path from "node:path";
+import crypto from "node:crypto";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -44,4 +45,16 @@ const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.NOTAS=" + JSON.stringify(notas.slice(0, MAX_NOTAS)) + ";\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
+
+// En Netlify, cada página pide assets/datos.js?v=<huella> para que el navegador
+// nunca use una lista de notas vieja después de publicar.
+if (process.env.NETLIFY) {
+  const v = crypto.createHash("md5").update(salida).digest("hex").slice(0, 10);
+  for (const html of fs.readdirSync(RAIZ).filter(f => f.endsWith(".html"))) {
+    const p = path.join(RAIZ, html);
+    const antes = fs.readFileSync(p, "utf8");
+    const despues = antes.replace(/assets\/datos\.js(\?v=[0-9a-f]*)?"/g, `assets/datos.js?v=${v}"`);
+    if (despues !== antes) fs.writeFileSync(p, despues);
+  }
+}
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas publicadas.`);

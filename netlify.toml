@@ -3,14 +3,15 @@
   command = "node scripts/build.mjs"
 
 [[headers]]
-  for = "/assets/datos.js"
-  [headers.values]
-    Cache-Control = "public, max-age=60"
-
-[[headers]]
   for = "/assets/*"
   [headers.values]
     Cache-Control = "public, max-age=3600"
+
+# Va después de /assets/* para que gane: la lista de notas siempre se revisa.
+[[headers]]
+  for = "/assets/datos.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
 
 [[headers]]
   for = "/*"
