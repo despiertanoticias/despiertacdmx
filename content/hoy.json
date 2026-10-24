@@ -1,11 +1,11 @@
 {
   "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:20 h",
   "clima": {
     "ahora": 20,
     "max": 21,
     "min": 10,
-    "texto": "Mayormente nublado con 96% de probabilidad de lluvia; canales de baja presión traerán lluvias fuertes y chubascos al Valle de México (SMN). Alerta amarilla por frío de 2:00 a 8:00 en seis alcaldías (SGIRPC).",
+    "texto": "Tarde nublada y fresca. Para el sábado el SMN prevé cielo mayormente nublado, mínima de 9 °C y máxima de 20 °C, sin lluvias importantes; el frente frío 3 no afectará directamente al Valle de México.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -16,29 +16,29 @@
       "nombre": "Metro Línea A",
       "icono": "A",
       "color": "#9c1e6a",
-      "estado": "Dos tramos (Pantitlán–Canal de San Juan y Santa Marta–La Paz); 4 estaciones cerradas, apoyo de RTP",
-      "nivel": "bad"
+      "estado": "Servicio restablecido de Pantitlán a La Paz, con todas las estaciones abiertas (Metro, 14:13 h)",
+      "nivel": "ok"
     },
     {
-      "nombre": "Metro Línea 2",
-      "icono": "2",
+      "nombre": "Metro Líneas 1, 2, 7 y 9",
+      "icono": "M",
       "color": "#0071bc",
-      "estado": "Breve corte en Chabacano para retirar un objeto de las vías",
+      "estado": "Alta afluencia y retrasos de más de 10 minutos en varias estaciones",
       "nivel": "warn"
     },
     {
       "nombre": "Resto del Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Sin incidencias reportadas al inicio del servicio",
+      "estado": "Sin incidencias mayores reportadas",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin incidencias reportadas al inicio del servicio",
-      "nivel": "ok"
+      "estado": "Línea 1: San Simón (dirección El Caminero) cerró de forma temporal por obstrucción del carril",
+      "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
@@ -49,20 +49,20 @@
   "marchas_total": 8,
   "marchas": [
     {
-      "hora": "07:00",
-      "texto": "Caminata de trabajadores de salud del IMSS, del Ángel de la Independencia al Zócalo"
+      "hora": "16:00",
+      "texto": "UGTM Sección 26, en la Secretaría de Gobierno (Lucas Alamán 122, Cuauhtémoc)"
     },
     {
-      "hora": "08:00",
-      "texto": "Trabajadores del Poder Judicial de la Federación, en la Cámara de Diputados"
+      "hora": "18:00",
+      "texto": "Rodada ciclista de Av. Tláhuac a Paseo de la Reforma"
     },
     {
-      "hora": "12:00",
-      "texto": "Estudiantes de la UAM Xochimilco hacia la Rectoría General, en Tlalpan"
+      "hora": "19:30",
+      "texto": "Rodada de patinadores del Kiosco de la Alameda al Foro Tonalá (Roma Sur)"
     },
     {
-      "hora": "13:00",
-      "texto": "Conductores de plataformas digitales (SUTRAM), en el Ángel de la Independencia"
+      "hora": "19:45",
+      "texto": "Rueda Libre: rodada de Ermita Iztapalapa a la Plaza Tlaxcoaque"
     }
   ]
 }
