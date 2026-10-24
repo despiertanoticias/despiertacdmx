@@ -1,11 +1,11 @@
 {
-  "fecha": "Viernes 23 de octubre de 2026",
-  "actualizado": "18:20 h",
+  "fecha": "Sábado 24 de octubre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
-    "ahora": 20,
-    "max": 21,
-    "min": 10,
-    "texto": "Tarde nublada y fresca. Para el sábado el SMN prevé cielo mayormente nublado, mínima de 9 °C y máxima de 20 °C, sin lluvias importantes; el frente frío 3 no afectará directamente al Valle de México.",
+    "ahora": 11,
+    "max": 22,
+    "min": 11,
+    "texto": "Mañana fría con niebla y alerta amarilla por frío (2:00 a 8:00) en las partes altas de Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco. Cielo nublado, máxima de 20 a 22 °C, rachas de hasta 50 km/h y sin lluvia, según el SMN. El domingo vuelven los chubascos por la tarde.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -37,32 +37,40 @@
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Línea 1: San Simón (dirección El Caminero) cerró de forma temporal por obstrucción del carril",
+      "estado": "Desde las 18:00 y hasta el cierre, sin servicio en estaciones de la Línea 7 (Hidalgo a Campo Marte) y de la Línea 4 (Plaza de la República, Amajac, Defensoría Pública y Vocacional 5) por el Paseo Nocturno",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "azul",
-    "color": "#1f5fbf",
-    "placas": "9 y 0"
+    "engomado": "cualquier color con holograma 2",
+    "color": "#6b7280",
+    "placas": "par con holograma 1"
   },
-  "marchas_total": 8,
+  "marchas_total": 6,
   "marchas": [
     {
-      "hora": "16:00",
-      "texto": "UGTM Sección 26, en la Secretaría de Gobierno (Lucas Alamán 122, Cuauhtémoc)"
+      "hora": "11:00",
+      "texto": "Disca Picnic en el Parque de los Venados (Benito Juárez)"
+    },
+    {
+      "hora": "12:00",
+      "texto": "Colectiva Hijas de la Cannabis en la Plaza Tlaxcoaque (Centro)"
+    },
+    {
+      "hora": "13:00",
+      "texto": "Liberación Animal MX, protesta en Presidente Masaryk 433 (Polanco)"
+    },
+    {
+      "hora": "13:00",
+      "texto": "Partido y asamblea de la Antimonumenta en la Plaza de la República"
     },
     {
       "hora": "18:00",
-      "texto": "Rodada ciclista de Av. Tláhuac a Paseo de la Reforma"
+      "texto": "Velada de Justicia Histórica Trans en 20 de Noviembre y República de Uruguay (Centro)"
     },
     {
-      "hora": "19:30",
-      "texto": "Rodada de patinadores del Kiosco de la Alameda al Foro Tonalá (Roma Sur)"
-    },
-    {
-      "hora": "19:45",
-      "texto": "Rueda Libre: rodada de Ermita Iztapalapa a la Plaza Tlaxcoaque"
+      "hora": "18:00",
+      "texto": "Paseo Nocturno de Día de Muertos: 19 km de la Glorieta del Ahuehuete a Tlaxcoaque"
     }
   ]
 }
