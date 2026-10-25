@@ -1,11 +1,11 @@
 {
-  "fecha": "Sábado 24 de octubre de 2026",
-  "actualizado": "18:20 h",
+  "fecha": "Domingo 25 de octubre de 2026",
+  "actualizado": "06:30 h",
   "clima": {
-    "ahora": 20,
-    "max": 22,
+    "ahora": 12,
+    "max": 20,
     "min": 11,
-    "texto": "Tarde nublada y sin lluvia, con 20 a 21 °C a las 17:00 (SGIRPC/SIMAT). Por la noche bajará a unos 14 °C. El domingo, según el SMN, cielo nublado con niebla matutina, mínima de 11 a 13 °C, máxima de 18 a 20 °C y chubascos por la tarde, sobre todo en el sur y el poniente.",
+    "texto": "Amanecer frío con bancos de niebla; el SMN prevé una mínima de 11 a 13 °C, máxima de 18 a 20 °C y chubascos por la tarde en algunas zonas, con rachas de viento de hasta 40 km/h. Protección Civil recomienda abrigarse y cubrir nariz y boca.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -13,17 +13,10 @@
   },
   "transporte": [
     {
-      "nombre": "Metro Línea A",
-      "icono": "A",
-      "color": "#9c1e6a",
-      "estado": "Servicio restablecido de Pantitlán a La Paz, con todas las estaciones abiertas (Metro, 14:13 h)",
-      "nivel": "ok"
-    },
-    {
-      "nombre": "Metro Líneas 1, 2, 7 y 9",
-      "icono": "M",
+      "nombre": "Metro Línea 2",
+      "icono": "2",
       "color": "#0071bc",
-      "estado": "Alta afluencia y retrasos de más de 10 minutos en varias estaciones",
+      "estado": "Desde la tarde, posibles restricciones o cierre temporal en Zócalo-Tenochtitlan por la Procesión de Catrinas; alternativas: Allende, Pino Suárez y Bellas Artes",
       "nivel": "warn"
     },
     {
@@ -37,40 +30,36 @@
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Desde las 18:00 y hasta el cierre, sin servicio en estaciones de la Línea 7 (Hidalgo a Campo Marte) y de la Línea 4 (Plaza de la República, Amajac, Defensoría Pública y Vocacional 5) por el Paseo Nocturno",
+      "estado": "Intervenciones en estaciones de las líneas 2, 3, 4, 6 y 7; desde las 18:00, la Línea 7 suspende el servicio sobre Reforma al paso de la Procesión de Catrinas",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "cualquier color con holograma 2",
-    "color": "#6b7280",
-    "placas": "par con holograma 1"
+    "engomado": "ninguno: es domingo",
+    "color": "#16a34a",
+    "placas": "circulan todos los autos"
   },
-  "marchas_total": 6,
+  "marchas_total": 5,
   "marchas": [
     {
-      "hora": "11:00",
-      "texto": "Disca Picnic en el Parque de los Venados (Benito Juárez)"
+      "hora": "10:00",
+      "texto": "Marcha del Museo Indígena al Zócalo por una ley de protección del maguey"
+    },
+    {
+      "hora": "10:30",
+      "texto": "Concentración por el Día Mundial de las Personas de Talla Baja en el Monumento a la Revolución"
+    },
+    {
+      "hora": "11:30",
+      "texto": "Mesa de diálogo sobre el manejo del agua en el Ángel de la Independencia"
     },
     {
       "hora": "12:00",
-      "texto": "Colectiva Hijas de la Cannabis en la Plaza Tlaxcoaque (Centro)"
-    },
-    {
-      "hora": "13:00",
-      "texto": "Liberación Animal MX, protesta en Presidente Masaryk 433 (Polanco)"
-    },
-    {
-      "hora": "13:00",
-      "texto": "Partido y asamblea de la Antimonumenta en la Plaza de la República"
+      "texto": "Actividades por migrantes exiliados en la Plaza Tlaxcoaque y la Suprema Corte"
     },
     {
       "hora": "18:00",
-      "texto": "Velada de Justicia Histórica Trans en 20 de Noviembre y República de Uruguay (Centro)"
-    },
-    {
-      "hora": "18:00",
-      "texto": "Paseo Nocturno de Día de Muertos: 19 km de la Glorieta del Ahuehuete a Tlaxcoaque"
+      "texto": "Mega Procesión de Catrinas: del Ángel al Zócalo por Reforma, Juárez y 5 de Mayo"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "Hoy No Circula: este domingo 25 circulan todos los autos en la capital y el Edomex",
+  "seccion": "ciudad",
+  "fecha": "2026-10-25T06:17",
+  "resumen": "Por ser domingo, el programa Hoy No Circula no aplica: todos los vehículos pueden circular sin importar engomado, terminación de placa u holograma, mientras no se active una contingencia ambiental.",
+  "cuerpo": "",
+  "imagen_tema": "metro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Telediario",
+      "enlace": "https://www.telediario.mx/comunidad/hoy-no-circula-cdmx-y-edomex-25-de-octubre-2026-quienes-descansan"
+    },
+    {
+      "medio": "El Congresista",
+      "enlace": "https://elcongresista.mx/vehicular/hoy-no-circula-25-octubre-2026"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
