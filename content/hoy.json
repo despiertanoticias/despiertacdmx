@@ -1,11 +1,11 @@
 {
   "fecha": "Sábado 24 de octubre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:20 h",
   "clima": {
-    "ahora": 11,
+    "ahora": 20,
     "max": 22,
     "min": 11,
-    "texto": "Mañana fría con niebla y alerta amarilla por frío (2:00 a 8:00) en las partes altas de Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco. Cielo nublado, máxima de 20 a 22 °C, rachas de hasta 50 km/h y sin lluvia, según el SMN. El domingo vuelven los chubascos por la tarde.",
+    "texto": "Tarde nublada y sin lluvia, con 20 a 21 °C a las 17:00 (SGIRPC/SIMAT). Por la noche bajará a unos 14 °C. El domingo, según el SMN, cielo nublado con niebla matutina, mínima de 11 a 13 °C, máxima de 18 a 20 °C y chubascos por la tarde, sobre todo en el sur y el poniente.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
