@@ -1,11 +1,11 @@
 {
   "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "06:30 h",
+  "actualizado": "18:30 h",
   "clima": {
     "ahora": 12,
     "max": 20,
     "min": 11,
-    "texto": "Amanecer frío con bancos de niebla; el SMN prevé una mínima de 11 a 13 °C, máxima de 18 a 20 °C y chubascos por la tarde en algunas zonas, con rachas de viento de hasta 40 km/h. Protección Civil recomienda abrigarse y cubrir nariz y boca.",
+    "texto": "Tarde nublada con chubascos en algunas zonas; el SMN prevé una máxima de 18 a 20 °C y lluvias de 5 a 25 mm en la capital, con ambiente fresco por la noche.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
