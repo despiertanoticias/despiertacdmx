@@ -1,0 +1,18 @@
+{
+  "titulo": "Lunes con niebla y frío al amanecer, máxima de 24 grados y chubascos por la tarde",
+  "seccion": "ciudad",
+  "fecha": "2026-10-26T06:53",
+  "resumen": "El Servicio Meteorológico Nacional prevé una mañana nublada, con niebla y ambiente frío en la capital, con mínimas de 11 a 13 °C. Por la tarde la temperatura subirá a entre 22 y 24 °C y habrá chubascos en algunas zonas, con viento de 10 a 20 km/h y rachas de hasta 40 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/clima-cdmx-lluvias-26-octubre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

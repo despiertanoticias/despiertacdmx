@@ -1,11 +1,11 @@
 {
-  "fecha": "Domingo 25 de octubre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Lunes 26 de octubre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
     "ahora": 12,
-    "max": 20,
+    "max": 24,
     "min": 11,
-    "texto": "Tarde nublada con chubascos en algunas zonas; el SMN prevé una máxima de 18 a 20 °C y lluvias de 5 a 25 mm en la capital, con ambiente fresco por la noche.",
+    "texto": "Mañana nublada, con niebla y frío; el SMN prevé una máxima de 22 a 24 °C y chubascos en algunas zonas por la tarde, con rachas de viento de hasta 40 km/h.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -13,53 +13,57 @@
   },
   "transporte": [
     {
-      "nombre": "Metro Línea 2",
-      "icono": "2",
-      "color": "#0071bc",
-      "estado": "Desde la tarde, posibles restricciones o cierre temporal en Zócalo-Tenochtitlan por la Procesión de Catrinas; alternativas: Allende, Pino Suárez y Bellas Artes",
-      "nivel": "warn"
-    },
-    {
-      "nombre": "Resto del Metro",
+      "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Sin incidencias mayores reportadas",
-      "nivel": "ok"
+      "estado": "Inició operaciones con normalidad; posible liberación de torniquetes o bloqueo en UAM-I (Línea 8) después de las 12:00 por una protesta estudiantil",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Intervenciones en estaciones de las líneas 2, 3, 4, 6 y 7; desde las 18:00, la Línea 7 suspende el servicio sobre Reforma al paso de la Procesión de Catrinas",
+      "estado": "Inició con normalidad; posibles retrasos por tránsito ligado al paro de transportistas y por la marcha de las 16:00 sobre Reforma y Juárez",
       "nivel": "warn"
+    },
+    {
+      "nombre": "Accesos carreteros",
+      "icono": "C",
+      "color": "#6b7280",
+      "estado": "Paro nacional de transportistas: concentraciones y marcha lenta en casetas de México-Querétaro, México-Pachuca, México-Puebla, México-Cuernavaca, México-Toluca y Circuito Exterior Mexiquense",
+      "nivel": "bad"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "ninguno: es domingo",
-    "color": "#16a34a",
-    "placas": "circulan todos los autos"
+    "engomado": "amarillo",
+    "color": "#eab308",
+    "placas": "terminación 5 y 6 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 5,
+  "marchas_total": 34,
   "marchas": [
     {
+      "hora": "07:30",
+      "texto": "Transportistas (AMOTAC) en la Central de Carga Vallejo, GAM, y en casetas de acceso a la capital"
+    },
+    {
       "hora": "10:00",
-      "texto": "Marcha del Museo Indígena al Zócalo por una ley de protección del maguey"
-    },
-    {
-      "hora": "10:30",
-      "texto": "Concentración por el Día Mundial de las Personas de Talla Baja en el Monumento a la Revolución"
-    },
-    {
-      "hora": "11:30",
-      "texto": "Mesa de diálogo sobre el manejo del agua en el Ángel de la Independencia"
+      "texto": "Mitin de La Convención de la CDMX frente a la Embajada de Francia, Polanco"
     },
     {
       "hora": "12:00",
-      "texto": "Actividades por migrantes exiliados en la Plaza Tlaxcoaque y la Suprema Corte"
+      "texto": "Asamblea estudiantil en la UAM Xochimilco; posible bloqueo en la estación UAM-I de la Línea 8"
     },
     {
-      "hora": "18:00",
-      "texto": "Mega Procesión de Catrinas: del Ángel al Zócalo por Reforma, Juárez y 5 de Mayo"
+      "hora": "12:00",
+      "texto": "Mitin frente a la Fiscalía capitalina y memorial en el Centro de Búsqueda de Personas, colonia Doctores"
+    },
+    {
+      "hora": "12:30",
+      "texto": "Extrabajadores de Altos Hornos de México en la Secretaría del Trabajo"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Marcha de madres y padres de los 43 de Ayotzinapa: del Ángel de la Independencia al Hemiciclo a Juárez"
     }
   ]
 }
