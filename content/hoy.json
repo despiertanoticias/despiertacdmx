@@ -1,11 +1,11 @@
 {
   "fecha": "Lunes 26 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 24,
     "min": 11,
-    "texto": "Mañana nublada, con niebla y frío; el SMN prevé una máxima de 22 a 24 °C y chubascos en algunas zonas por la tarde, con rachas de viento de hasta 40 km/h.",
+    "texto": "Tarde nublada con probabilidad de chubascos. Para el martes 27, el SMN prevé niebla al amanecer, de 11 a 13 °C por la mañana, máxima de 21 a 23 °C y 60% de probabilidad de chubascos por la tarde, con rachas de hasta 40 km/h.",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones con normalidad; posible liberación de torniquetes o bloqueo en UAM-I (Línea 8) después de las 12:00 por una protesta estudiantil",
+      "estado": "Opera; por la mañana hubo una suspensión temporal en la Línea A, ya restablecida",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició con normalidad; posibles retrasos por tránsito ligado al paro de transportistas y por la marcha de las 16:00 sobre Reforma y Juárez",
+      "estado": "Retrasos en Línea 1 (Reforma-Durango), Línea 3 (La Raza-Guerrero) y Línea 7 (Hamburgo-Chapultepec); carriles centrales de Reforma cerrados entre la Estela de Luz y el Ángel por retiro de estructuras",
       "nivel": "warn"
     },
     {
       "nombre": "Accesos carreteros",
       "icono": "C",
       "color": "#6b7280",
-      "estado": "Paro nacional de transportistas: concentraciones y marcha lenta en casetas de México-Querétaro, México-Pachuca, México-Puebla, México-Cuernavaca, México-Toluca y Circuito Exterior Mexiquense",
+      "estado": "Más de 80 camiones bloquean parcialmente la Calzada Vallejo a la altura de Júpiter (GAM); cierres parciales en casetas de México-Querétaro, México-Pachuca, México-Puebla y México-Cuernavaca",
       "nivel": "bad"
     }
   ],
@@ -42,28 +42,20 @@
   "marchas_total": 34,
   "marchas": [
     {
-      "hora": "07:30",
-      "texto": "Transportistas (AMOTAC) en la Central de Carga Vallejo, GAM, y en casetas de acceso a la capital"
+      "hora": "Desde el domingo",
+      "texto": "Familiares de un menor bloquean Circuito Interior frente al Hospital La Raza, Azcapotzalco; usar Insurgentes Norte o Eje 1 Poniente"
     },
     {
-      "hora": "10:00",
-      "texto": "Mitin de La Convención de la CDMX frente a la Embajada de Francia, Polanco"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Asamblea estudiantil en la UAM Xochimilco; posible bloqueo en la estación UAM-I de la Línea 8"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Mitin frente a la Fiscalía capitalina y memorial en el Centro de Búsqueda de Personas, colonia Doctores"
-    },
-    {
-      "hora": "12:30",
-      "texto": "Extrabajadores de Altos Hornos de México en la Secretaría del Trabajo"
+      "hora": "15:30",
+      "texto": "Transportistas en la Calzada Vallejo, a la altura de la estación Júpiter del Metrobús; un solo carril libre hacia el sur"
     },
     {
       "hora": "16:00",
       "texto": "Marcha de madres y padres de los 43 de Ayotzinapa: del Ángel de la Independencia al Hemiciclo a Juárez"
+    },
+    {
+      "hora": "17:30",
+      "texto": "Cierre de carriles centrales de Reforma, de la Estela de Luz al Ángel, por retiro de las estructuras de las Catrinas"
     }
   ]
 }
