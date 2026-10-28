@@ -1,0 +1,26 @@
+{
+  "titulo": "Tormenta de la noche del martes inunda calles de Benito Juárez, la Condesa y Lomas de Sotelo",
+  "seccion": "ciudad",
+  "fecha": "2026-10-28T06:59",
+  "resumen": "La lluvia de la noche del 27 de octubre llevó a Protección Civil a activar la alerta púrpura en Benito Juárez y alertas naranja en Álvaro Obregón, Cuauhtémoc y Miguel Hidalgo, con pronóstico de 50 a 70 mm y posible granizo. En San Simón Ticumac el agua alcanzó 50 cm en un tramo de 500 metros y entró a cuatro inmuebles; también hubo encharcamientos en Circuito Interior, en Periférico Norte a la altura de Lomas de Sotelo y en negocios de la Condesa. En la colonia Tlaxpana cayó un poste sobre un auto estacionado, sin personas lesionadas.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Silla Rota",
+      "enlace": "https://lasillarota.com/metropoli/2026/10/27/lluvias-dejan-encharcamientos-en-tres-alcaldias-y-derriban-poste-en-cdmx-534874.html"
+    },
+    {
+      "medio": "Latinus",
+      "enlace": "https://latinus.us/mexico/2026/10/27/se-registran-inundaciones-ante-lluvias-en-la-cdmx-y-activan-alerta-roja-para-benito-juarez-180764.html"
+    },
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/10/28/fuertes-lluvias-inundan-calles-y-restaurantes-de-la-condesa-y-benito-juarez/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

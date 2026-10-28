@@ -1,11 +1,11 @@
 {
-  "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Miércoles 28 de octubre de 2026",
+  "actualizado": "06:55 h",
   "clima": {
     "ahora": 12,
     "max": 25,
     "min": 12,
-    "texto": "Mañana fresca a fría, con mínimas de 9 °C en Tlalpan y Magdalena Contreras. Por la tarde, cielo medio nublado a nublado, máxima de 23 a 25 °C e intervalos de chubascos de 5 a 25 mm; viento variable de 5 a 15 km/h con rachas de hasta 30 km/h (SMN).",
+    "texto": "Mañana medio nublada, con mínimas de 12 a 14 °C. Por la tarde, máxima de 23 a 25 °C e intervalos de chubascos de 5 a 25 mm; viento variable de 5 a 15 km/h con rachas de hasta 30 km/h (SMN).",
     "aire": "Aceptable",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -16,62 +16,66 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Opera con normalidad",
-      "nivel": "ok"
+      "estado": "Todas las estaciones abiertas desde las 5:00; usuarios reportan retrasos en la Línea 8 dirección Garibaldi",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Retrasos en las líneas 1 y 3; intervenciones en Metro Coyuya (L2), L6 y L7 (laterales de Reforma)",
+      "estado": "L1 y L5 regulares; intervenciones en Metro Coyuya (L2), Mina-Balderas (L3), Museo San Carlos-Hidalgo (L4), L6 y L7 (laterales de Reforma por el Show Run)",
       "nivel": "warn"
     },
     {
       "nombre": "Accesos carreteros",
       "icono": "C",
       "color": "#6b7280",
-      "estado": "Transportistas acordaron con Segob retirar bloqueos y pasar a mesas de trabajo; por la tarde aún se reportaban cierres parciales en algunas autopistas",
-      "nivel": "warn"
+      "estado": "Canacar retiró los bloqueos tras acordar mesas de diálogo con Segob",
+      "nivel": "ok"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rosa",
-    "color": "#ec4899",
-    "placas": "terminación 7 y 8 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "rojo",
+    "color": "#d6232f",
+    "placas": "terminación 3 y 4 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 14,
+  "marchas_total": 12,
   "marchas": [
     {
       "hora": "09:00",
-      "texto": "Familiares de un menor atropellado, en los Juzgados Penales de la colonia Doctores"
+      "texto": "Alianza Nacional de Jubilados frente a la Secretaría de Energía (Insurgentes Sur 20, Roma Norte)"
     },
     {
-      "hora": "10:30",
-      "texto": "Peregrinación del Mercado de Flores de la Central de Abasto rumbo a la Basílica de Guadalupe"
+      "hora": "10:00",
+      "texto": "Show Run de Cadillac F1 con Checo Pérez en Reforma, entre el Ángel y la Diana Cazadora"
     },
     {
-      "hora": "13:00",
-      "texto": "Plantón de trabajadoras de guarderías del IMSS en Paseo de la Reforma 476"
+      "hora": "11:00",
+      "texto": "Comuneros de Eloxochitlán de Flores Magón, Oaxaca, frente a la Suprema Corte (Pino Suárez 2)"
     },
     {
-      "hora": "16:00",
-      "texto": "Concentración del colectivo Tejido Antifascista en el Ángel de la Independencia"
+      "hora": "11:00",
+      "texto": "Unión Nacional de Trabajadores Agrícolas en Sedatu (Nuevo León 210, Hipódromo Condesa)"
     },
     {
-      "hora": "16:00",
-      "texto": "Asamblea Nacional de Trabajadores del Seguro Social en Calzada de Tlalpan 1036"
+      "hora": "12:00",
+      "texto": "Partido del Comerciante Popular frente a la Secretaría de Gobierno (Zócalo)"
     },
     {
-      "hora": "16:30",
-      "texto": "Movimiento de Artesanos Indígenas Zapatistas en el Zócalo"
+      "hora": "12:00",
+      "texto": "Plataforma 4:20 recolecta firmas en el Monumento a la Madre, Narvarte Poniente y GAM"
     },
     {
-      "hora": "17:00",
-      "texto": "UGT México frente a la alcaldía Venustiano Carranza"
+      "hora": "Todo el día",
+      "texto": "Celebración de San Judas Tadeo en el templo de San Hipólito, colonia Guerrero"
     },
     {
-      "hora": "22:00",
-      "texto": "Rodada de motociclistas de la avenida Orizaba (GAM) al templo de San Hipólito por San Judas Tadeo"
+      "hora": "19:45",
+      "texto": "Seis rodadas ciclistas nocturnas en Iztapalapa, Coyoacán, Cuauhtémoc y Álvaro Obregón"
+    },
+    {
+      "hora": "21:00",
+      "texto": "América vs. Tijuana en el Estadio Banorte (Coyoacán)"
     }
   ]
 }
