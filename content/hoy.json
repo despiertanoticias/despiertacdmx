@@ -1,6 +1,6 @@
 {
   "fecha": "Martes 27 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:45 h",
   "clima": {
     "ahora": 12,
     "max": 25,
@@ -16,22 +16,22 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones con normalidad",
+      "estado": "Opera con normalidad",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició operaciones con normalidad; posibles afectaciones en Reforma por el plantón de trabajadoras de guarderías del IMSS (13:00)",
-      "nivel": "ok"
+      "estado": "Retrasos en las líneas 1 y 3; intervenciones en Metro Coyuya (L2), L6 y L7 (laterales de Reforma)",
+      "nivel": "warn"
     },
     {
       "nombre": "Accesos carreteros",
       "icono": "C",
       "color": "#6b7280",
-      "estado": "Sigue el paro de transportistas: carriles centrales de la México-Toluca cerrados a la altura del puente del Tren Interurbano, laterales se abren cada 20 minutos; choque e incendio de tráileres a las 3:30",
-      "nivel": "bad"
+      "estado": "Transportistas acordaron con Segob retirar bloqueos y pasar a mesas de trabajo; por la tarde aún se reportaban cierres parciales en algunas autopistas",
+      "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
@@ -56,6 +56,14 @@
     {
       "hora": "16:00",
       "texto": "Concentración del colectivo Tejido Antifascista en el Ángel de la Independencia"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Asamblea Nacional de Trabajadores del Seguro Social en Calzada de Tlalpan 1036"
+    },
+    {
+      "hora": "16:30",
+      "texto": "Movimiento de Artesanos Indígenas Zapatistas en el Zócalo"
     },
     {
       "hora": "17:00",

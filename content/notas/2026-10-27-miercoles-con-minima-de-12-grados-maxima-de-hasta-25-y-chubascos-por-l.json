@@ -1,0 +1,18 @@
+{
+  "titulo": "Miércoles con mínima de 12 grados, máxima de hasta 25 y chubascos por la tarde",
+  "seccion": "ciudad",
+  "fecha": "2026-10-27T18:28",
+  "resumen": "El Servicio Meteorológico Nacional prevé para el miércoles 28 una mañana medio nublada, con temperaturas mínimas de 12 a 14 °C y máximas de 23 a 25 °C. Por la tarde habrá intervalos de chubascos de 5 a 25 mm, con viento variable de 5 a 15 km/h y rachas de hasta 30 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "N+",
+      "enlace": "https://www.nmas.com.mx/ciudad-de-mexico/clima/pronostico-del-tiempo/como-estara-el-clima-el-miercoles-28-de-octubre-en-cdmx-pronostico-del-tiempo-indica-si-habra-lluvia-o-frio/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

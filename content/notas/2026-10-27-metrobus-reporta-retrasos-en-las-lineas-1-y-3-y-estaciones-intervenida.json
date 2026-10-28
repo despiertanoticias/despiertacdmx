@@ -1,0 +1,18 @@
+{
+  "titulo": "Metrobús reporta retrasos en las líneas 1 y 3 y estaciones intervenidas en la 2, 6 y 7",
+  "seccion": "ciudad",
+  "fecha": "2026-10-27T18:26",
+  "resumen": "En su reporte de la tarde, Metrobús informó retrasos en la Línea 1 entre Plaza de la República y Sonora, y en la Línea 3 entre Tlatelolco y Guerrero. Hay intervenciones en la estación Metro Coyuya (Línea 2), entre Hospital Infantil La Villa y De los Misterios (Línea 6), y la Línea 7 tiene afectaciones entre El Ahuehuete y Chapultepec y entre De los Misterios y Gustavo A. Madero. Las líneas 4 y 5 operan con normalidad.",
+  "cuerpo": "",
+  "imagen_tema": "metrobus",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/10/27/conoce-la-mas-reciente-actualizacion-sobre-retrasos-y-cierres-en-el-metrobus-este-27-de-octubre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
