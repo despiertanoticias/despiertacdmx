@@ -1,6 +1,6 @@
 {
   "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "06:55 h",
+  "actualizado": "18:20 h",
   "clima": {
     "ahora": 12,
     "max": 25,
@@ -16,14 +16,14 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones abiertas desde las 5:00; usuarios reportan retrasos en la Línea 8 dirección Garibaldi",
+      "estado": "Todas las estaciones abiertas; durante el día hubo un corte de energía en la Línea 2 para retirar un objeto metálico de las vías y alta afluencia en las líneas 2, 8 y 12",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "L1 y L5 regulares; intervenciones en Metro Coyuya (L2), Mina-Balderas (L3), Museo San Carlos-Hidalgo (L4), L6 y L7 (laterales de Reforma por el Show Run)",
+      "estado": "L1 y L5 regulares; L3 con retrasos por la fiesta de San Judas Tadeo (Hidalgo sin servicio al sur); sin servicio en Metro Coyuya (L2) y tramos de L4, L6 y L7 con servicio parcial",
       "nivel": "warn"
     },
     {
