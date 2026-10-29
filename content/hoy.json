@@ -1,13 +1,13 @@
 {
-  "fecha": "Miércoles 28 de octubre de 2026",
-  "actualizado": "18:20 h",
+  "fecha": "Jueves 29 de octubre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
     "ahora": 12,
-    "max": 25,
+    "max": 26,
     "min": 12,
-    "texto": "Mañana medio nublada, con mínimas de 12 a 14 °C. Por la tarde, máxima de 23 a 25 °C e intervalos de chubascos de 5 a 25 mm; viento variable de 5 a 15 km/h con rachas de hasta 30 km/h (SMN).",
-    "aire": "Aceptable",
-    "aire_estado": "warn",
+    "texto": "Mañana fresca a fría y mayormente nublada, con mínima de 12 a 14 °C; por la tarde, máxima de 24 a 26 °C y lluvias aisladas de 0.1 a 5 mm. Viento de 5 a 15 km/h con rachas de hasta 35 km/h.",
+    "aire": "Muy mala (ozono)",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,66 +16,58 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones abiertas; durante el día hubo un corte de energía en la Línea 2 para retirar un objeto metálico de las vías y alta afluencia en las líneas 2, 8 y 12",
-      "nivel": "warn"
+      "estado": "Sin reportes de afectaciones al momento de esta actualización",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "L1 y L5 regulares; L3 con retrasos por la fiesta de San Judas Tadeo (Hidalgo sin servicio al sur); sin servicio en Metro Coyuya (L2) y tramos de L4, L6 y L7 con servicio parcial",
+      "estado": "L2 sin servicio en Metro Coyuya, L6 sin servicio en Riobamba y L7 sin servicio en De los Misterios y Gustavo A. Madero",
       "nivel": "warn"
     },
     {
-      "nombre": "Accesos carreteros",
-      "icono": "C",
+      "nombre": "Vialidades",
+      "icono": "V",
       "color": "#6b7280",
-      "estado": "Canacar retiró los bloqueos tras acordar mesas de diálogo con Segob",
-      "nivel": "ok"
+      "estado": "Percance en Calzada Ignacio Zaragoza a la altura de Agua Caliente; calle Zamora cerrada por manifestantes en la Condesa",
+      "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rojo",
-    "color": "#d6232f",
-    "placas": "terminación 3 y 4 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "verde",
+    "color": "#2e9e44",
+    "placas": "terminación 1 y 2 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 12,
+  "marchas_total": 9,
   "marchas": [
     {
-      "hora": "09:00",
-      "texto": "Alianza Nacional de Jubilados frente a la Secretaría de Energía (Insurgentes Sur 20, Roma Norte)"
-    },
-    {
       "hora": "10:00",
-      "texto": "Show Run de Cadillac F1 con Checo Pérez en Reforma, entre el Ángel y la Diana Cazadora"
+      "texto": "Aquelarre Violetas frente a la Fiscalía General de Justicia (Doctores)"
     },
     {
       "hora": "11:00",
-      "texto": "Comuneros de Eloxochitlán de Flores Magón, Oaxaca, frente a la Suprema Corte (Pino Suárez 2)"
+      "texto": "Marcha de la Asamblea por el Común y contra la Guerra de la Glorieta de Insurgentes a Gobernación"
     },
     {
       "hora": "11:00",
-      "texto": "Unión Nacional de Trabajadores Agrícolas en Sedatu (Nuevo León 210, Hipódromo Condesa)"
+      "texto": "Direct Action Everywhere frente a la sede nacional de Morena (Juárez)"
     },
     {
       "hora": "12:00",
-      "texto": "Partido del Comerciante Popular frente a la Secretaría de Gobierno (Zócalo)"
+      "texto": "Estudiantes de Ciencias de la UNAM marchan del Prometeo a la Torre de Rectoría (CU)"
     },
     {
       "hora": "12:00",
-      "texto": "Plataforma 4:20 recolecta firmas en el Monumento a la Madre, Narvarte Poniente y GAM"
+      "texto": "Plataforma 4:20 con jornada itinerante en la Narvarte y la GAM"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Celebración de San Judas Tadeo en el templo de San Hipólito, colonia Guerrero"
+      "hora": "16:00",
+      "texto": "Movimiento Mexicano de Solidaridad con Cuba en la Puerta de los Leones (Chapultepec)"
     },
     {
-      "hora": "19:45",
-      "texto": "Seis rodadas ciclistas nocturnas en Iztapalapa, Coyoacán, Cuauhtémoc y Álvaro Obregón"
-    },
-    {
-      "hora": "21:00",
-      "texto": "América vs. Tijuana en el Estadio Banorte (Coyoacán)"
+      "hora": "Desde la madrugada",
+      "texto": "Calle Zamora cerrada por manifestantes entre Juan Escutia y Fernando Montes de Oca (Cuauhtémoc)"
     }
   ]
 }
