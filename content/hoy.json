@@ -1,12 +1,12 @@
 {
-  "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Viernes 30 de octubre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
     "ahora": 12,
-    "max": 26,
+    "max": 27,
     "min": 12,
-    "texto": "Tarde templada con lluvias aisladas de 0.1 a 5 mm. Para el viernes 30, el SMN prevé mínima de 12 a 14 °C, máxima de 25 a 27 °C, cielo medio nublado a nublado y rachas de viento de hasta 40 km/h.",
-    "aire": "Mala (reporte de las 15:00)",
+    "texto": "Mañana fresca y nublada con bancos de niebla; tarde cálida de 25 a 27 °C con lluvias aisladas de 0.1 a 5 mm y posible actividad eléctrica por la noche. Rachas de viento del norte de hasta 40 km/h (SMN). Para el sábado 31 no se prevén lluvias.",
+    "aire": "Mala en BJ, GAM, Merced y Neza (reporte de las 05:00)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,66 +16,66 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Retrasos de más de 10 minutos en las Líneas 3, 8 y B, y en la Línea 9 hacia Tacubaya (último reporte, 12:56)",
-      "nivel": "warn"
+      "estado": "Todas las estaciones abrieron a las 05:00; sin reportes de retrasos al inicio del servicio",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "L6: estación Riobamba cerrada solo en dirección El Rosario por obstrucción del carril (último reporte, 12:49)",
+      "estado": "Servicio desde las 04:30. Las Líneas 7 (Reforma) y 1 (Insurgentes) podrían verse afectadas por la marcha del IMSS; desde las 23:00, paradas entre El Ángel y Chapultepec en carriles laterales",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Carriles centrales de Reforma cerrados entre la Glorieta del Ahuehuete y Lieja; calle Zamora cerrada por manifestantes en la Condesa",
+      "estado": "Desde las 15:00, marcha del IMSS por Reforma, Av. Cuauhtémoc y la colonia Juárez rumbo a Gobernación; homenaje a Cuauhtémoc Cárdenas en Bellas Artes desde las 11:00",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "verde",
-    "color": "#2e9e44",
-    "placas": "terminación 1 y 2 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "azul",
+    "color": "#1f5fbf",
+    "placas": "terminación 9 y 0 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 9,
+  "marchas_total": 22,
   "marchas": [
     {
-      "hora": "10:00",
-      "texto": "Frente Nacional de Lucha por el Socialismo frente a la Suprema Corte (Centro Histórico)"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Aquelarre Violetas frente a la Fiscalía General de Justicia (Doctores)"
+      "hora": "09:00",
+      "texto": "Mercado feminista en San Pedro Atocpan (Milpa Alta) y vecinos de Santa María Tepepan en Pilares 16 de Septiembre (Xochimilco)"
     },
     {
       "hora": "11:00",
-      "texto": "Marcha de la Asamblea por el Común y contra la Guerra de la Glorieta de Insurgentes a Gobernación"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Direct Action Everywhere frente a la sede nacional de Morena (Juárez)"
+      "texto": "Alianza por la Independencia Judicial frente al Tribunal de Disciplina Judicial, Insurgentes Sur 2417 (San Ángel)"
     },
     {
       "hora": "12:00",
-      "texto": "Estudiantes de Ciencias de la UNAM marchan del Prometeo a la Torre de Rectoría (CU)"
+      "texto": "Plataforma 4:20 en el Monumento a la Madre, en División del Norte y Cuauhtémoc (Narvarte) y en Gran Canal y Circuito Interior (GAM)"
     },
     {
-      "hora": "12:00",
-      "texto": "Plataforma 4:20 con jornada itinerante en la Narvarte y la GAM"
+      "hora": "14:00",
+      "texto": "Estudiantes en la UAM Iztapalapa (San Rafael Atlixco 186)"
     },
     {
-      "hora": "16:00",
-      "texto": "Movimiento Mexicano de Solidaridad con Cuba en la Puerta de los Leones (Chapultepec)"
+      "hora": "15:00",
+      "texto": "Marcha de unos 3 mil trabajadores y jubilados del IMSS del CMN Siglo XXI y de Reforma 476 a Gobernación"
     },
     {
-      "hora": "19:00",
-      "texto": "Rodada Paseo Cempasúchil del Monumento a la Revolución por Reforma, Pino Suárez, Viaducto e Insurgentes"
+      "hora": "15:00",
+      "texto": "Trabajadores de salud en apoyo al IMSS en Calzada Vallejo y Paseo de las Jacarandas (La Raza)"
     },
     {
-      "hora": "Desde la madrugada",
-      "texto": "Calle Zamora cerrada por manifestantes entre Juan Escutia y Fernando Montes de Oca (Cuauhtémoc)"
+      "hora": "15:00",
+      "texto": "Sindicatos en apoyo a Palestina en Torre Reforma y ofrenda del colectivo LLECA en la alcaldía Cuauhtémoc"
+    },
+    {
+      "hora": "17:00",
+      "texto": "Ofrenda de la Asamblea Antimundialista en Calzada de Tlalpan 3465; estudiantes en Plaza Luis Cabrera (Roma); firmas en Tlatelolco"
+    },
+    {
+      "hora": "18:15",
+      "texto": "Ocho rodadas nocturnas de ciclistas, motociclistas y patinadores, hasta las 21:30"
     }
   ]
 }
