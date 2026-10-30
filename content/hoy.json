@@ -1,12 +1,12 @@
 {
   "fecha": "Jueves 29 de octubre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 26,
     "min": 12,
-    "texto": "Mañana fresca a fría y mayormente nublada, con mínima de 12 a 14 °C; por la tarde, máxima de 24 a 26 °C y lluvias aisladas de 0.1 a 5 mm. Viento de 5 a 15 km/h con rachas de hasta 35 km/h.",
-    "aire": "Muy mala (ozono)",
+    "texto": "Tarde templada con lluvias aisladas de 0.1 a 5 mm. Para el viernes 30, el SMN prevé mínima de 12 a 14 °C, máxima de 25 a 27 °C, cielo medio nublado a nublado y rachas de viento de hasta 40 km/h.",
+    "aire": "Mala (reporte de las 15:00)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Sin reportes de afectaciones al momento de esta actualización",
-      "nivel": "ok"
+      "estado": "Retrasos de más de 10 minutos en las Líneas 3, 8 y B, y en la Línea 9 hacia Tacubaya (último reporte, 12:56)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "L2 sin servicio en Metro Coyuya, L6 sin servicio en Riobamba y L7 sin servicio en De los Misterios y Gustavo A. Madero",
+      "estado": "L6: estación Riobamba cerrada solo en dirección El Rosario por obstrucción del carril (último reporte, 12:49)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Percance en Calzada Ignacio Zaragoza a la altura de Agua Caliente; calle Zamora cerrada por manifestantes en la Condesa",
+      "estado": "Carriles centrales de Reforma cerrados entre la Glorieta del Ahuehuete y Lieja; calle Zamora cerrada por manifestantes en la Condesa",
       "nivel": "warn"
     }
   ],
@@ -41,6 +41,10 @@
   },
   "marchas_total": 9,
   "marchas": [
+    {
+      "hora": "10:00",
+      "texto": "Frente Nacional de Lucha por el Socialismo frente a la Suprema Corte (Centro Histórico)"
+    },
     {
       "hora": "10:00",
       "texto": "Aquelarre Violetas frente a la Fiscalía General de Justicia (Doctores)"
@@ -64,6 +68,10 @@
     {
       "hora": "16:00",
       "texto": "Movimiento Mexicano de Solidaridad con Cuba en la Puerta de los Leones (Chapultepec)"
+    },
+    {
+      "hora": "19:00",
+      "texto": "Rodada Paseo Cempasúchil del Monumento a la Revolución por Reforma, Pino Suárez, Viaducto e Insurgentes"
     },
     {
       "hora": "Desde la madrugada",
