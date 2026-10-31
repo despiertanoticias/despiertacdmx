@@ -1,12 +1,12 @@
 {
-  "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Sábado 31 de octubre de 2026",
+  "actualizado": "06:30 h",
   "clima": {
     "ahora": 12,
     "max": 27,
     "min": 12,
-    "texto": "Tarde cálida de 25 a 27 °C, más nublada, con posibles lluvias aisladas de 0.1 a 5 mm y rachas del norte de hasta 40 km/h (SMN). Sábado 31 sin lluvia en la capital: mínima de 11 a 13 °C y máxima de 25 a 27 °C.",
-    "aire": "Mala en BJ, GAM, Merced y Neza (reporte de las 05:00)",
+    "texto": "Mañana nublada y con niebla; sin lluvia en la capital. Mínima de 12 a 14 °C y máxima de 25 a 27 °C, con ráfagas de hasta 50 km/h (SMN). Un nuevo frente frío se acercará por el noroeste en la noche.",
+    "aire": "Mala, riesgo alto en el Valle de México (reporte de las 05:00); Coacalco con el peor registro",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,66 +16,50 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Saturación y retrasos por alta afluencia en las Líneas 2, 3 y 12 durante la mañana; el STC reportó después servicio regularizado",
-      "nivel": "warn"
+      "estado": "Servicio regular al inicio del día; se prevé alta afluencia hacia Reforma y el Centro por el desfile",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Servicio desde las 04:30. Las Líneas 7 (Reforma) y 1 (Insurgentes) podrían verse afectadas por la marcha del IMSS; desde las 23:00, paradas entre El Ángel y Chapultepec en carriles laterales",
+      "estado": "De 13:00 a 20:00 sin servicio en Buenavista II, Reforma y Hamburgo (L1); Mina, Hidalgo, Juárez y Balderas (L3), y recortes en la L4. La L7 no opera entre Hidalgo y Campo Marte todo el día",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha del IMSS desde Siglo XXI por Av. Cuauhtémoc, Viaducto, Doctor Vértiz y Bucareli rumbo a Gobernación; homenaje a Cuauhtémoc Cárdenas en Bellas Artes",
+      "estado": "Gran Desfile de Día de Muertos desde las 14:00 por Paseo de la Reforma hasta el Zócalo; cierres en Reforma, Av. Juárez y el Centro Histórico",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "azul",
-    "color": "#1f5fbf",
-    "placas": "terminación 9 y 0 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "cualquier color con holograma 2 y placas foráneas (quinto sábado)",
+    "color": "#6b7280",
+    "placas": "holograma 1: circula con cualquier terminación"
   },
-  "marchas_total": 22,
+  "marchas_total": 9,
   "marchas": [
     {
+      "hora": "08:30",
+      "texto": "Trabajadores activos y jubilados del IMSS, asamblea en Belisario Domínguez 32 (Centro)"
+    },
+    {
       "hora": "09:00",
-      "texto": "Mercado feminista en San Pedro Atocpan (Milpa Alta) y vecinos de Santa María Tepepan en Pilares 16 de Septiembre (Xochimilco)"
+      "texto": "Vecinos de Tlalpan protestan en Six Flags (carretera Picacho-Ajusco km 1.5) por el tráfico del Festival del Terror"
     },
     {
       "hora": "11:00",
-      "texto": "Alianza por la Independencia Judicial frente al Tribunal de Disciplina Judicial, Insurgentes Sur 2417 (San Ángel)"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Plataforma 4:20 en el Monumento a la Madre, en División del Norte y Cuauhtémoc (Narvarte) y en Gran Canal y Circuito Interior (GAM)"
+      "texto": "Campaña World Without Weapons en el Hemiciclo a Juárez (Av. Juárez 50)"
     },
     {
       "hora": "14:00",
-      "texto": "Estudiantes en la UAM Iztapalapa (San Rafael Atlixco 186)"
+      "texto": "Gran Desfile de Día de Muertos de Reforma al Zócalo"
     },
     {
-      "hora": "15:00",
-      "texto": "Marcha de unos 3 mil trabajadores y jubilados del IMSS del CMN Siglo XXI y de Reforma 476 a Gobernación"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Trabajadores de salud en apoyo al IMSS en Calzada Vallejo y Paseo de las Jacarandas (La Raza)"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Sindicatos en apoyo a Palestina en Torre Reforma y ofrenda del colectivo LLECA en la alcaldía Cuauhtémoc"
-    },
-    {
-      "hora": "17:00",
-      "texto": "Ofrenda de la Asamblea Antimundialista en Calzada de Tlalpan 3465; estudiantes en Plaza Luis Cabrera (Roma); firmas en Tlatelolco"
-    },
-    {
-      "hora": "18:15",
-      "texto": "Ocho rodadas nocturnas de ciclistas, motociclistas y patinadores, hasta las 21:30"
+      "hora": "Noche",
+      "texto": "Rodadas del Terror: 15 rodadas de motociclistas y 13 de ciclistas en distintas alcaldías"
     }
   ]
 }
