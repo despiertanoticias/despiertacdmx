@@ -1,11 +1,11 @@
 {
   "fecha": "Viernes 30 de octubre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 12,
     "max": 27,
     "min": 12,
-    "texto": "Mañana fresca y nublada con bancos de niebla; tarde cálida de 25 a 27 °C con lluvias aisladas de 0.1 a 5 mm y posible actividad eléctrica por la noche. Rachas de viento del norte de hasta 40 km/h (SMN). Para el sábado 31 no se prevén lluvias.",
+    "texto": "Tarde cálida de 25 a 27 °C, más nublada, con posibles lluvias aisladas de 0.1 a 5 mm y rachas del norte de hasta 40 km/h (SMN). Sábado 31 sin lluvia en la capital: mínima de 11 a 13 °C y máxima de 25 a 27 °C.",
     "aire": "Mala en BJ, GAM, Merced y Neza (reporte de las 05:00)",
     "aire_estado": "bad",
     "contingencia": "No",
@@ -16,8 +16,8 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones abrieron a las 05:00; sin reportes de retrasos al inicio del servicio",
-      "nivel": "ok"
+      "estado": "Saturación y retrasos por alta afluencia en las Líneas 2, 3 y 12 durante la mañana; el STC reportó después servicio regularizado",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
@@ -30,7 +30,7 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Desde las 15:00, marcha del IMSS por Reforma, Av. Cuauhtémoc y la colonia Juárez rumbo a Gobernación; homenaje a Cuauhtémoc Cárdenas en Bellas Artes desde las 11:00",
+      "estado": "Marcha del IMSS desde Siglo XXI por Av. Cuauhtémoc, Viaducto, Doctor Vértiz y Bucareli rumbo a Gobernación; homenaje a Cuauhtémoc Cárdenas en Bellas Artes",
       "nivel": "warn"
     }
   ],
