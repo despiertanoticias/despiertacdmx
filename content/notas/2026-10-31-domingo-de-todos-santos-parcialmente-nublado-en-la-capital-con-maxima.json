@@ -1,0 +1,22 @@
+{
+  "titulo": "Domingo de Todos Santos parcialmente nublado en la capital, con máxima de 25 °C y sin lluvia prevista",
+  "seccion": "ciudad",
+  "fecha": "2026-10-31T18:07",
+  "resumen": "El pronóstico para el 1 de noviembre marca mínima de 11 °C y vientos del norte de hasta 33 km/h. El frente frío número 4 entra por el noroeste y traerá heladas en las sierras de Chihuahua y Durango y lluvias fuertes en Baja California y Sonora.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Meteored",
+      "enlace": "https://www.meteored.mx/clima_Ciudad+de+Mexico-America+Norte-Mexico-Distrito+Federal--1-21043.html"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/10/31/frente-frio-4-entra-a-mexico-este-31-de-octubre-que-estados-tendran-temperaturas-bajo-cero-y-lluvias-durante-la-noche/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
