@@ -1,11 +1,11 @@
 {
-  "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Lunes 2 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
-    "ahora": 11,
-    "max": 24,
+    "ahora": 12,
+    "max": 28,
     "min": 11,
-    "texto": "Domingo despejado en la capital, con máxima de 24 °C y mínima de 11 °C. Con la llegada del frente frío 4, el lunes 2 de noviembre amanecerá nublado y más frío, con mínima de 8 °C y máxima de 23 °C.",
+    "texto": "Lunes caluroso y sin lluvia en la capital, con mínima de 11 a 13 °C y máxima de 26 a 28 °C, según el SMN. Viento del norte y noreste con rachas de hasta 50 km/h.",
     "aire": "Buena al amanecer en la CDMX y el Estado de México (índice Aire y Salud, 4:00 h)",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,54 +16,50 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las líneas 1, 2, 3, 7 y 9 abrieron a las 5:00 este domingo por el Gran Premio",
-      "nivel": "warn"
+      "estado": "Inició operaciones con normalidad este lunes de Día de Muertos",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Estaciones sin servicio en la Línea 6 (Hospital Infantil La Villa - De Los Misterios) y la Línea 7 (Chapultepec - Alameda Tacubaya y De los Misterios - Gustavo A. Madero); líneas 1 a 5 normales",
-      "nivel": "warn"
+      "estado": "Inició operaciones con normalidad este lunes",
+      "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Salida del público del Autódromo Hermanos Rodríguez tras el Gran Premio y operativo en 120 panteones por Día de Muertos; concentraciones en avenida Juárez y el Hemiciclo",
+      "estado": "Alta afluencia en el Zócalo y Paseo de la Reforma (ofrenda, alebrijes y último día del Festival de Cempasúchil) y en Mixquic por La Alumbrada; protesta en Polanco a las 17:00",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Ninguno: los domingos circulan todos",
-    "color": "#16a34a",
-    "placas": "Sin restricción (no hay contingencia ambiental)"
+    "engomado": "amarillo",
+    "color": "#f2c200",
+    "placas": "terminación 5 y 6 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 20,
+  "marchas_total": 5,
   "marchas": [
     {
-      "hora": "17:00",
-      "texto": "Comité 68 Prolibertades Democráticas, ofrenda en la Plaza de las Tres Culturas (Tlatelolco)"
+      "hora": "05:00",
+      "texto": "Rodada Roma Cycling desde el Parque México hacia Atlixco, Puebla"
+    },
+    {
+      "hora": "07:00",
+      "texto": "Jornada político-cultural \"Mictlán Rebelde 2026\" en la explanada de Bellas Artes"
+    },
+    {
+      "hora": "10:00",
+      "texto": "Comunidad otomí instala ofrenda frente al INPI, av. México-Coyoacán 343 (Xoco, Benito Juárez)"
     },
     {
       "hora": "17:00",
-      "texto": "Direct Action Everywhere CDMX, ofrenda en el Zócalo"
+      "texto": "Movimiento \"Samara Martínez: Ley Trasciende\" frente a la Secretaría de Salud, Homero 213 (Polanco)"
     },
     {
-      "hora": "17:00",
-      "texto": "Colectiva \"Yallah!\", ofrenda por Palestina en el Hemiciclo a Juárez"
-    },
-    {
-      "hora": "20:00",
-      "texto": "Rodada en patines desde la Plaza Tlaxcoaque (Centro)"
-    },
-    {
-      "hora": "20:10",
-      "texto": "Rodada motociclista Los Duros Biker desde Av. Carlos Hank González y Villa Quetzalcóatl (GAM)"
-    },
-    {
-      "hora": "21:10",
-      "texto": "Rodada motociclista desde Av. Río Consulado 2355 (Venustiano Carranza)"
+      "hora": "19:40",
+      "texto": "Rodada Ollin Bike desde Calz. Ermita Iztapalapa y av. Tláhuac hacia San Andrés Mixquic"
     }
   ]
 }
