@@ -1,11 +1,11 @@
 {
   "fecha": "Domingo 1 de noviembre de 2026",
-  "actualizado": "06:20 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 11,
     "max": 24,
     "min": 11,
-    "texto": "Domingo de cielo despejado en la capital: mínima de 11 °C al amanecer y máxima de 24 °C, con 14% de probabilidad de lluvia y viento ligero del noroeste.",
+    "texto": "Domingo despejado en la capital, con máxima de 24 °C y mínima de 11 °C. Con la llegada del frente frío 4, el lunes 2 de noviembre amanecerá nublado y más frío, con mínima de 8 °C y máxima de 23 °C.",
     "aire": "Buena al amanecer en la CDMX y el Estado de México (índice Aire y Salud, 4:00 h)",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las líneas 1, 2, 3, 7 y 9 abren a las 5:00 este domingo por el Gran Premio de México",
+      "estado": "Las líneas 1, 2, 3, 7 y 9 abrieron a las 5:00 este domingo por el Gran Premio",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin avisos de cierres para este domingo al momento de esta actualización",
-      "nivel": "ok"
+      "estado": "Estaciones sin servicio en la Línea 6 (Hospital Infantil La Villa - De Los Misterios) y la Línea 7 (Chapultepec - Alameda Tacubaya y De los Misterios - Gustavo A. Madero); líneas 1 a 5 normales",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Carrera del Gran Premio en el Autódromo Hermanos Rodríguez y operativo en 120 panteones por Día de Muertos; 20 concentraciones y rodadas en la ciudad",
+      "estado": "Salida del público del Autódromo Hermanos Rodríguez tras el Gran Premio y operativo en 120 panteones por Día de Muertos; concentraciones en avenida Juárez y el Hemiciclo",
       "nivel": "warn"
     }
   ],
@@ -42,12 +42,16 @@
   "marchas_total": 20,
   "marchas": [
     {
-      "hora": "10:00",
-      "texto": "Rodada ciclista desde la Plaza de las Tres Culturas (Tlatelolco)"
+      "hora": "17:00",
+      "texto": "Comité 68 Prolibertades Democráticas, ofrenda en la Plaza de las Tres Culturas (Tlatelolco)"
     },
     {
-      "hora": "16:00",
-      "texto": "Familiares de víctimas de feminicidio, concentración en el Hemiciclo a Juárez (Av. Juárez 50)"
+      "hora": "17:00",
+      "texto": "Direct Action Everywhere CDMX, ofrenda en el Zócalo"
+    },
+    {
+      "hora": "17:00",
+      "texto": "Colectiva \"Yallah!\", ofrenda por Palestina en el Hemiciclo a Juárez"
     },
     {
       "hora": "20:00",
