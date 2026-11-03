@@ -1,12 +1,12 @@
 {
-  "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Martes 3 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
-    "ahora": 12,
+    "ahora": 11,
     "max": 28,
     "min": 11,
-    "texto": "Lunes caluroso y sin lluvia en la capital, con mínima de 11 a 13 °C y máxima de 26 a 28 °C, según el SMN. Viento del norte y noreste con rachas de hasta 50 km/h.",
-    "aire": "Mala en la CDMX y el Estado de México, con riesgo alto para actividades al aire libre (índice Aire y Salud, 15:00 h)",
+    "texto": "Amanecer frío y tarde cálida, sin lluvia en la capital: mínima de 11 a 13 °C y máxima de 26 a 28 °C. Viento del noreste de 10 a 20 km/h con rachas de 35 a 45 km/h.",
+    "aire": "Mala en la zona metropolitana, con riesgo alto (reporte de las 5:00 h); sin doble Hoy No Circula decretado hasta el momento",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,58 +16,46 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Opera con normalidad este lunes de Día de Muertos; sin reportes de cierres",
+      "estado": "Inició operaciones con normalidad; sin retrasos ni estaciones cerradas reportadas",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Opera con normalidad este lunes; sin reportes de cierres",
-      "nivel": "ok"
+      "estado": "Sin servicio en L7 entre De los Misterios y Gustavo A. Madero, y en L6 entre Hospital Infantil La Villa y De los Misterios, por mantenimiento",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Alta afluencia esta noche en Mixquic por La Alumbrada y en el Zócalo y Reforma; protesta en Polanco a las 17:00",
+      "estado": "Concentración de trabajadores del IMSS frente a Palacio Nacional desde las 7:30 y de ferrocarrileros en Gobernación a las 11:00",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "amarillo",
-    "color": "#f2c200",
-    "placas": "terminación 5 y 6 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "rosa",
+    "color": "#ec4899",
+    "placas": "terminación 7 y 8 (holograma 1 y 2), de 5:00 a 22:00"
   },
   "marchas_total": 7,
   "marchas": [
     {
-      "hora": "05:00",
-      "texto": "Rodada Roma Cycling desde el Parque México hacia Atlixco, Puebla"
+      "hora": "05:50",
+      "texto": "Rodada \"Roma\" de People for Bikes desde Zacatecas 55 (Roma Norte) hacia Bosques de las Lomas, Cuajimalpa"
     },
     {
-      "hora": "07:00",
-      "texto": "Jornada político-cultural \"Mictlán Rebelde 2026\" en la explanada de Bellas Artes"
+      "hora": "07:30",
+      "texto": "Trabajadores activos y jubilados del IMSS en Palacio Nacional, Plaza de la Constitución (Centro)"
     },
     {
-      "hora": "10:00",
-      "texto": "Comunidad otomí instala ofrenda frente al INPI, av. México-Coyoacán 343 (Xoco, Benito Juárez)"
+      "hora": "11:00",
+      "texto": "Gran Comisión Ferrocarrilera en la Secretaría de Gobernación, Abraham González 48 (col. Juárez)"
     },
     {
-      "hora": "12:00",
-      "texto": "Plataforma 4:20: jornada itinerante del Monumento a la Madre a Gran Canal y Circuito Interior"
-    },
-    {
-      "hora": "17:00",
-      "texto": "Movimiento \"Samara Martínez: Ley Trasciende\" frente a la Secretaría de Salud, Homero 213 (Polanco)"
-    },
-    {
-      "hora": "19:40",
-      "texto": "Rodada Ollin Bike desde Calz. Ermita Iztapalapa y av. Tláhuac hacia San Andrés Mixquic"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Ofrenda por víctimas de feminicidio en el Corredor Ángela Peralta, av. Juárez (Centro)"
+      "hora": "19:45",
+      "texto": "Rodada Ohtlichiqxs LGBTTIQ desde el Kiosco de la Alameda Central"
     }
   ]
 }
