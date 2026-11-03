@@ -1,13 +1,13 @@
 {
   "fecha": "Lunes 2 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 28,
     "min": 11,
     "texto": "Lunes caluroso y sin lluvia en la capital, con mínima de 11 a 13 °C y máxima de 26 a 28 °C, según el SMN. Viento del norte y noreste con rachas de hasta 50 km/h.",
-    "aire": "Buena al amanecer en la CDMX y el Estado de México (índice Aire y Salud, 4:00 h)",
-    "aire_estado": "ok",
+    "aire": "Mala en la CDMX y el Estado de México, con riesgo alto para actividades al aire libre (índice Aire y Salud, 15:00 h)",
+    "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones con normalidad este lunes de Día de Muertos",
+      "estado": "Opera con normalidad este lunes de Día de Muertos; sin reportes de cierres",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició operaciones con normalidad este lunes",
+      "estado": "Opera con normalidad este lunes; sin reportes de cierres",
       "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Alta afluencia en el Zócalo y Paseo de la Reforma (ofrenda, alebrijes y último día del Festival de Cempasúchil) y en Mixquic por La Alumbrada; protesta en Polanco a las 17:00",
+      "estado": "Alta afluencia esta noche en Mixquic por La Alumbrada y en el Zócalo y Reforma; protesta en Polanco a las 17:00",
       "nivel": "warn"
     }
   ],
@@ -39,7 +39,7 @@
     "color": "#f2c200",
     "placas": "terminación 5 y 6 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 5,
+  "marchas_total": 7,
   "marchas": [
     {
       "hora": "05:00",
@@ -54,12 +54,20 @@
       "texto": "Comunidad otomí instala ofrenda frente al INPI, av. México-Coyoacán 343 (Xoco, Benito Juárez)"
     },
     {
+      "hora": "12:00",
+      "texto": "Plataforma 4:20: jornada itinerante del Monumento a la Madre a Gran Canal y Circuito Interior"
+    },
+    {
       "hora": "17:00",
       "texto": "Movimiento \"Samara Martínez: Ley Trasciende\" frente a la Secretaría de Salud, Homero 213 (Polanco)"
     },
     {
       "hora": "19:40",
       "texto": "Rodada Ollin Bike desde Calz. Ermita Iztapalapa y av. Tláhuac hacia San Andrés Mixquic"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Ofrenda por víctimas de feminicidio en el Corredor Ángela Peralta, av. Juárez (Centro)"
     }
   ]
 }
