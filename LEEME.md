@@ -18,3 +18,9 @@ Dos veces al día (alrededor de las 6:15 y las 18:15, hora del centro) una tarea
 - `assets/imagenes.js` — fotos de archivo de Wikimedia Commons por tema
 - `admin/` — panel de publicación
 - `img/subidas/` — fotos que subes desde el panel
+
+## URLs, SEO y contenido patrocinado
+- Cada nota tiene una página estática en `/notas/<slug>/` (el slug sale del titular). La genera `scripts/build.mjs`, con title, description, canonical, Open Graph, Twitter y JSON-LD `Article`, y no necesita JavaScript.
+- Las URLs antiguas `nota.html?id=<id>` redirigen con 301 a la nueva mediante la Edge Function `netlify/edge-functions/nota-antigua.js`.
+- `sitemap.xml` se genera en cada build y aparece en `robots.txt`.
+- Marca `"patrocinado": true` en una nota (o la casilla en el panel) para mostrar la etiqueta "Contenido patrocinado" y poner `rel="sponsored noopener"` en sus enlaces.

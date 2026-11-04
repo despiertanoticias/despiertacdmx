@@ -97,6 +97,8 @@ collections:
           - { label: Medio, name: medio, widget: string }
           - { label: Enlace, name: enlace, widget: string }
       - { label: Destacada en portada, name: destacada, widget: boolean, default: false }
+      - { label: Contenido patrocinado (muestra la etiqueta y marca los enlaces como rel="sponsored"), name: patrocinado, widget: boolean, default: false, required: false }
+      - { label: Fecha de modificación (opcional), name: modificado, widget: datetime, format: "YYYY-MM-DDTHH:mm", date_format: "DD/MM/YYYY", time_format: "HH:mm", required: false }
       - { label: Autor, name: autor, widget: string, default: Redacción }
       - { label: Guardar como borrador (no se publica), name: borrador, widget: boolean, default: false, required: false }
 

@@ -1,2 +1,7 @@
 node_modules/
 .DS_Store
+
+# Generados por scripts/build.mjs
+/notas/
+/sitemap.xml
+/netlify/mapa-notas.js
