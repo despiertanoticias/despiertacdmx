@@ -1,12 +1,12 @@
 {
-  "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Miércoles 4 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
     "ahora": 11,
-    "max": 28,
+    "max": 26,
     "min": 11,
-    "texto": "Tarde templada y seca, sin lluvia. Para la madrugada del miércoles hay alerta amarilla por heladas en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan (mínimas de 4 a 6 °C, de 3:00 a 8:00 h); en el resto de la ciudad, mínima de 11 a 13 °C y máxima de 24 a 26 °C.",
-    "aire": "Mala en la zona metropolitana, con riesgo alto (reporte de las 5:00 h); sin doble Hoy No Circula decretado hasta el momento",
+    "texto": "Mañana fría con bruma y alerta amarilla por heladas de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan (mínimas de 4 a 6 °C). En el resto de la ciudad, mínima de 11 a 13 °C y máxima de 24 a 26 °C, cielo medio nublado y sin lluvia prevista; viento de 10 a 20 km/h.",
+    "aire": "Mala en la zona metropolitana, con riesgo alto para grupos sensibles; la estación de Iztapalapa es la de peor registro (reporte de las 5:00 h). Sin contingencia reportada",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,8 +16,8 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Opera sin cierres de estaciones reportados; hubo alta afluencia en la Línea 3 durante el día",
-      "nivel": "ok"
+      "estado": "Línea B sin trenes entre Deportivo Oceanía y Ciudad Azteca por un incendio que dañó el cableado; opera de Buenavista a Oceanía y RTP apoya entre Oceanía y Villa de Aragón",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
@@ -30,40 +30,19 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Concentraciones por la tarde en el Tribunal Superior de Justicia (Doctores, 16:00) y en la Secretaría de Gobierno junto al Zócalo (16:30); rodada nocturna desde la Alameda",
+      "estado": "Trabajadores del Metro darán una conferencia a las 15:00 afuera de la estación Revolución",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rosa",
-    "color": "#ec4899",
-    "placas": "terminación 7 y 8 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "rojo",
+    "color": "#dc2626",
+    "placas": "terminación 3 y 4 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 10,
   "marchas": [
     {
-      "hora": "08:00",
-      "texto": "Jubilados y pensionados del IPN en la explanada del Palacio de Bellas Artes"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Gran Comisión Ferrocarrilera en la Secretaría de Gobernación, Abraham González 48 (col. Juárez)"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Alianza Nacional de Jubilados frente a la Secretaría de Energía, Insurgentes Sur 20 (Roma Norte)"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Madres Libertarias en el Tribunal Superior de Justicia de la CDMX, Niños Héroes 119 (col. Doctores)"
-    },
-    {
-      "hora": "16:30",
-      "texto": "Frente Amplio de Comunidades Indígenas en la Secretaría de Gobierno, junto al Zócalo"
-    },
-    {
-      "hora": "19:45",
-      "texto": "Rodada Ohtlichiqxs LGBTTIQ desde el Kiosco de la Alameda Central"
+      "hora": "15:00",
+      "texto": "Trabajadores del Metro, conferencia afuera de la estación Revolución"
     }
   ]
 }

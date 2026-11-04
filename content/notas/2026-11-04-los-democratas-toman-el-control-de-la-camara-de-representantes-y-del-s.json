@@ -1,0 +1,22 @@
+{
+  "titulo": "Los demócratas toman el control de la Cámara de Representantes y del Senado de EU",
+  "seccion": "internacional",
+  "fecha": "2026-11-04T06:45",
+  "resumen": "Según proyecciones de CNN, el Partido Demócrata arrebató a los republicanos la mayoría en ambas cámaras del Congreso en las elecciones intermedias del martes. En el Senado sumaron victorias en Maine, donde Troy Jackson derrotó a Susan Collins, y en Ohio, Carolina del Norte, Iowa, Kansas y Texas. El nuevo Congreso prevé investigar a la administración de Donald Trump, incluida la guerra con Irán.",
+  "cuerpo": "",
+  "imagen_tema": "zocalo",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "CNN en Español (vía KVIA)",
+      "enlace": "https://kvia.com/news/noticias/cnn-spanish/2026/11/04/las-5-cosas-que-debes-saber-este-4-de-noviembre/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/estados-unidos/2026/11/04/elecciones-en-eeuu-los-democratas-controlaran-la-camara-de-representantes-y-el-senado-tras-ganar-en-varios-bastiones-republicanos/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

@@ -1,0 +1,22 @@
+{
+  "titulo": "Incendio daña el cableado de la Línea B del Metro: no hay trenes entre Deportivo Oceanía y Ciudad Azteca",
+  "seccion": "ciudad",
+  "fecha": "2026-11-04T06:44",
+  "resumen": "Un incendio que, según el Metro, se habría originado por la quema de basura cerca de las instalaciones dañó el cableado eléctrico entre Oceanía y Deportivo Oceanía. La Línea B opera solo entre Buenavista y Oceanía; unidades de RTP dan servicio provisional entre Oceanía y Villa de Aragón. El Metro no dio un horario para normalizar el servicio y pidió prever más tiempo de traslado.",
+  "cuerpo": "",
+  "imagen_tema": "metro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/04/incendio-dana-cableado-del-metro-y-suspende-servicio-de-la-linea-b-hacia-ciudad-azteca-se-da-servicio-provisional-de-rtp/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/04/que-esta-pasando-en-el-metro-y-metrobus-hoy-4-de-noviembre/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
