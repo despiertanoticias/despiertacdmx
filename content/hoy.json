@@ -1,11 +1,11 @@
 {
   "fecha": "Martes 3 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "clima": {
     "ahora": 11,
     "max": 28,
     "min": 11,
-    "texto": "Amanecer frío y tarde cálida, sin lluvia en la capital: mínima de 11 a 13 °C y máxima de 26 a 28 °C. Viento del noreste de 10 a 20 km/h con rachas de 35 a 45 km/h.",
+    "texto": "Tarde templada y seca, sin lluvia. Para la madrugada del miércoles hay alerta amarilla por heladas en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan (mínimas de 4 a 6 °C, de 3:00 a 8:00 h); en el resto de la ciudad, mínima de 11 a 13 °C y máxima de 24 a 26 °C.",
     "aire": "Mala en la zona metropolitana, con riesgo alto (reporte de las 5:00 h); sin doble Hoy No Circula decretado hasta el momento",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -16,7 +16,7 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones con normalidad; sin retrasos ni estaciones cerradas reportadas",
+      "estado": "Opera sin cierres de estaciones reportados; hubo alta afluencia en la Línea 3 durante el día",
       "nivel": "ok"
     },
     {
@@ -30,7 +30,7 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Concentración de trabajadores del IMSS frente a Palacio Nacional desde las 7:30 y de ferrocarrileros en Gobernación a las 11:00",
+      "estado": "Concentraciones por la tarde en el Tribunal Superior de Justicia (Doctores, 16:00) y en la Secretaría de Gobierno junto al Zócalo (16:30); rodada nocturna desde la Alameda",
       "nivel": "warn"
     }
   ],
@@ -39,19 +39,27 @@
     "color": "#ec4899",
     "placas": "terminación 7 y 8 (holograma 1 y 2), de 5:00 a 22:00"
   },
-  "marchas_total": 7,
+  "marchas_total": 10,
   "marchas": [
     {
-      "hora": "05:50",
-      "texto": "Rodada \"Roma\" de People for Bikes desde Zacatecas 55 (Roma Norte) hacia Bosques de las Lomas, Cuajimalpa"
-    },
-    {
-      "hora": "07:30",
-      "texto": "Trabajadores activos y jubilados del IMSS en Palacio Nacional, Plaza de la Constitución (Centro)"
+      "hora": "08:00",
+      "texto": "Jubilados y pensionados del IPN en la explanada del Palacio de Bellas Artes"
     },
     {
       "hora": "11:00",
       "texto": "Gran Comisión Ferrocarrilera en la Secretaría de Gobernación, Abraham González 48 (col. Juárez)"
+    },
+    {
+      "hora": "12:00",
+      "texto": "Alianza Nacional de Jubilados frente a la Secretaría de Energía, Insurgentes Sur 20 (Roma Norte)"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Madres Libertarias en el Tribunal Superior de Justicia de la CDMX, Niños Héroes 119 (col. Doctores)"
+    },
+    {
+      "hora": "16:30",
+      "texto": "Frente Amplio de Comunidades Indígenas en la Secretaría de Gobierno, junto al Zócalo"
     },
     {
       "hora": "19:45",
