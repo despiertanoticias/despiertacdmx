@@ -1,0 +1,22 @@
+{
+  "titulo": "Jueves fresco por la mañana y cálido por la tarde, con lluvias aisladas en la capital",
+  "seccion": "ciudad",
+  "fecha": "2026-11-05T06:36",
+  "resumen": "Para este jueves se prevé en la CDMX una mínima de 10 a 12 °C y una máxima de 25 a 27 °C, con mañana fresca y bruma. Por la tarde el cielo estará de medio nublado a nublado, con lluvias aisladas de hasta 5 milímetros y posibles descargas eléctricas, y viento del norte con rachas de hasta 40 km/h. En el Estado de México podría haber chubascos.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/cdmx-tendra-calor-y-lluvias-este-jueves-5-de-noviembre/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/05/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-5-de-noviembre-lluvias-fuertes-en-guerrero-oaxaca-y-chiapas/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

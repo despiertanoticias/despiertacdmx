@@ -1,12 +1,12 @@
 {
-  "fecha": "Miércoles 4 de noviembre de 2026",
-  "actualizado": "18:21 h",
+  "fecha": "Jueves 5 de noviembre de 2026",
+  "actualizado": "06:30 h",
   "clima": {
     "ahora": 11,
     "max": 27,
-    "min": 9,
-    "texto": "Tarde templada con cielo parcialmente nublado y sin lluvia prevista en la capital; mínima de 9 a 11 °C y máxima de 25 a 27 °C (SMN). El frente frío 4 se mantiene en el noreste y no llegará a la CDMX; en el Estado de México podría haber chubascos con descargas eléctricas.",
-    "aire": "Aceptable, con riesgo moderado para la salud (reporte de las 14:00 h). Sin contingencia reportada",
+    "min": 10,
+    "texto": "Mañana fresca y con bruma; por la tarde, cielo de medio nublado a nublado con lluvias aisladas (hasta 5 mm) y posibles descargas eléctricas. Mínima de 10 a 12 °C y máxima de 25 a 27 °C; viento del norte con rachas de hasta 40 km/h.",
+    "aire": "Mala en Gustavo A. Madero, con riesgo alto para grupos sensibles; buena a aceptable en el resto de las estaciones (reporte de las 05:00 h). Sin contingencia anunciada",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,8 +16,8 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Línea B sin trenes entre Oceanía y Ciudad Azteca por el incendio de la madrugada; el Metro prevé reabrir hacia las 18:30. RTP gratuito entre Oceanía y Villa de Aragón",
-      "nivel": "warn"
+      "estado": "Línea B opera completa de Buenavista a Ciudad Azteca; el servicio se restableció la noche del miércoles tras el incendio",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
@@ -30,27 +30,31 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Trabajadores del Metro bloquearon la avenida México-Tenochtitlán frente a la estación Revolución; posibles afectaciones en Puente de Alvarado, Insurgentes Centro y Eje 1 Poniente",
+      "estado": "Concentraciones en la Suprema Corte (7:00) y marcha de la Fiscalía capitalina, en la Doctores, al Centro de Búsqueda de Personas (11:00)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rojo",
-    "color": "#dc2626",
-    "placas": "terminación 3 y 4 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "verde",
+    "color": "#16a34a",
+    "placas": "terminación 1 y 2 (holograma 1 y 2), de 5:00 a 22:00"
   },
   "marchas": [
     {
-      "hora": "15:00",
-      "texto": "Sindicato de Trabajadores del Metro, bloqueo en av. México-Tenochtitlán, estación Revolución (Tabacalera)"
+      "hora": "07:00",
+      "texto": "Liberación Animal MX, frente a la Suprema Corte de Justicia, por una ley general de bienestar animal"
     },
     {
-      "hora": "17:30",
-      "texto": "Colectivo Esperanza de Vida CDMX, Centro de Atención Integral para la Búsqueda de Personas, Niños Héroes 102, Doctores"
+      "hora": "08:00",
+      "texto": "Jubilados del IPN, acciones en varios puntos de la ciudad por pagos pendientes"
     },
     {
-      "hora": "20:45",
-      "texto": "Rodada Team Taquitos, desde la Torre del Caballito"
+      "hora": "11:00",
+      "texto": "Colectivo Vulvas Rebeldes, de la Fiscalía (Digna Ochoa y Plácido 56, Doctores) al Centro de Búsqueda de Personas"
+    },
+    {
+      "hora": "11:00",
+      "texto": "Consejo Regional de la Nación Nguiva, Instituto Nacional de los Pueblos Indígenas"
     }
   ]
 }
