@@ -1,12 +1,12 @@
 {
   "fecha": "Miércoles 4 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:21 h",
   "clima": {
     "ahora": 11,
-    "max": 26,
-    "min": 11,
-    "texto": "Mañana fría con bruma y alerta amarilla por heladas de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan (mínimas de 4 a 6 °C). En el resto de la ciudad, mínima de 11 a 13 °C y máxima de 24 a 26 °C, cielo medio nublado y sin lluvia prevista; viento de 10 a 20 km/h.",
-    "aire": "Mala en la zona metropolitana, con riesgo alto para grupos sensibles; la estación de Iztapalapa es la de peor registro (reporte de las 5:00 h). Sin contingencia reportada",
+    "max": 27,
+    "min": 9,
+    "texto": "Tarde templada con cielo parcialmente nublado y sin lluvia prevista en la capital; mínima de 9 a 11 °C y máxima de 25 a 27 °C (SMN). El frente frío 4 se mantiene en el noreste y no llegará a la CDMX; en el Estado de México podría haber chubascos con descargas eléctricas.",
+    "aire": "Aceptable, con riesgo moderado para la salud (reporte de las 14:00 h). Sin contingencia reportada",
     "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Línea B sin trenes entre Deportivo Oceanía y Ciudad Azteca por un incendio que dañó el cableado; opera de Buenavista a Oceanía y RTP apoya entre Oceanía y Villa de Aragón",
+      "estado": "Línea B sin trenes entre Oceanía y Ciudad Azteca por el incendio de la madrugada; el Metro prevé reabrir hacia las 18:30. RTP gratuito entre Oceanía y Villa de Aragón",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin servicio en L7 entre De los Misterios y Gustavo A. Madero, y en L6 entre Hospital Infantil La Villa y De los Misterios, por mantenimiento",
+      "estado": "Retrasos en L1, L6 y L7; intervención en las estaciones Canela (L2), Tenayuca (L3) y Gustavo A. Madero (L6)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Trabajadores del Metro darán una conferencia a las 15:00 afuera de la estación Revolución",
+      "estado": "Trabajadores del Metro bloquearon la avenida México-Tenochtitlán frente a la estación Revolución; posibles afectaciones en Puente de Alvarado, Insurgentes Centro y Eje 1 Poniente",
       "nivel": "warn"
     }
   ],
@@ -42,7 +42,15 @@
   "marchas": [
     {
       "hora": "15:00",
-      "texto": "Trabajadores del Metro, conferencia afuera de la estación Revolución"
+      "texto": "Sindicato de Trabajadores del Metro, bloqueo en av. México-Tenochtitlán, estación Revolución (Tabacalera)"
+    },
+    {
+      "hora": "17:30",
+      "texto": "Colectivo Esperanza de Vida CDMX, Centro de Atención Integral para la Búsqueda de Personas, Niños Héroes 102, Doctores"
+    },
+    {
+      "hora": "20:45",
+      "texto": "Rodada Team Taquitos, desde la Torre del Caballito"
     }
   ]
 }

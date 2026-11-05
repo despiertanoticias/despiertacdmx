@@ -1,0 +1,22 @@
+{
+  "titulo": "Tarde templada y sin lluvia en la capital; el frente frío 4 no llegará a la CDMX",
+  "seccion": "ciudad",
+  "fecha": "2026-11-04T18:33",
+  "resumen": "El Servicio Meteorológico Nacional prevé para la Ciudad de México una máxima de 25 a 27 grados y cielo parcialmente nublado, sin lluvias, gracias a una circulación anticiclónica que mantiene estable el centro del país. El frente frío 4 permanece en el noreste y no se espera que alcance la capital. En el Estado de México podrían registrarse chubascos con descargas eléctricas. La calidad del aire se reportó aceptable al corte de las 14:00, con riesgo moderado.",
+  "cuerpo": "",
+  "imagen_tema": "centro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/11/04/el-frente-frio-4-se-acerca-a-cdmx-conagua-alerta-por-lluvias-y-bajas-temperaturas/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/04/cual-es-la-calidad-del-aire-en-cdmx-este-4-de-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

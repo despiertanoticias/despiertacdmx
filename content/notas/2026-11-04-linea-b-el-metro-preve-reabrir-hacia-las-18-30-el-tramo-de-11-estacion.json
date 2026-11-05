@@ -1,0 +1,26 @@
+{
+  "titulo": "Línea B: el Metro prevé reabrir hacia las 18:30 el tramo de 11 estaciones cerrado por el incendio",
+  "seccion": "ciudad",
+  "fecha": "2026-11-04T18:44",
+  "resumen": "El director del Metro, Adrián Rubalcava, estimó que el servicio entre Oceanía y Ciudad Azteca volvería alrededor de las 18:30, aunque el horario podía moverse. Técnicos empalman cables de alta y baja tensión dañados entre Oceanía y Deportivo Oceanía, y después deben hacer pruebas antes de liberar la vía. Rubalcava atribuyó el fuego a basura quemada junto a una columna; la persona señalada fue presentada ante un juez cívico. Mientras tanto, los trenes corren de Buenavista a Oceanía y RTP da servicio gratuito entre Oceanía y Villa de Aragón. Es el segundo incendio que afecta al Metro en menos de un mes, tras el de la Línea 9 el 20 de octubre.",
+  "cuerpo": "",
+  "imagen_tema": "metro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/04/metro-de-cdmx-preve-restablecer-servicio-de-la-linea-b-la-tarde-de-este-4-de-noviembre/"
+    },
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/cdmx/2026/11/04/caos-en-linea-b-del-metro-de-cdmx-que-estaciones-no-dan-servicio-hoy-y-por-que/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/04/dos-incendios-en-el-metro-cdmx-han-afectado-el-servicio-a-usuarios-en-menos-de-un-mes/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
