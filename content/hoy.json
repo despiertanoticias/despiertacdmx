@@ -1,13 +1,13 @@
 {
-  "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "18:20 h",
+  "fecha": "Viernes 6 de noviembre de 2026",
+  "actualizado": "06:50 h",
   "clima": {
     "ahora": 11,
     "max": 27,
-    "min": 10,
-    "texto": "Tarde con aumento de nubosidad y lluvias fuertes en el norte y poniente, ligeras en el resto (SGIRPC); máxima de 26 °C y mínima de 13 °C en la madrugada del viernes. Viernes 6: poco nublado, de 11 a 24 °C y baja probabilidad de lluvia.",
-    "aire": "Mala en Gustavo A. Madero, con riesgo alto para grupos sensibles; buena a aceptable en el resto de las estaciones (reporte de las 05:00 h). Sin contingencia anunciada",
-    "aire_estado": "warn",
+    "min": 11,
+    "texto": "Fresco al amanecer, con bruma; por la tarde nublado con chubascos aislados y descargas eléctricas (5 a 25 mm). Mínima de 11 a 13 °C y máxima de 25 a 27 °C; viento del norte con rachas de hasta 45 km/h (SMN).",
+    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado; la peor lectura en Venustiano Carranza (reporte de las 05:00 h). Sin contingencia",
+    "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,53 +16,57 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Servicio regular en la red; Línea B opera completa de Buenavista a Ciudad Azteca (reporte de las 11:10 h)",
+      "estado": "Todas las estaciones iniciaron servicio a las 05:00 h; posibles marchas de seguridad por lluvia por la tarde",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin servicio en Tenayuca (L3, hasta el 9 de nov.) y Archivo General de la Nación (L5, hasta el 6); Canela (L2) y Gustavo A. Madero (L6) sin servicio en un sentido",
+      "estado": "Intervenciones en Canela (L2), Tenayuca (L3, hasta el 9 de nov.) y Garibaldi-Lagunilla (L7); Poniente 128 (L3) cierra del 7 al 20 de nov.",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Por la noche, rodadas desde Ermita Iztapalapa (19:45) y Parque Tezontle al Zócalo (19:50); concierto de Aitana en el Auditorio Nacional",
+      "estado": "Por la noche, conciertos de Morat (Palacio de los Deportes, 20:00) y Aitana (Auditorio Nacional, 20:30); rodada de autos de Hemiciclo a Juárez a Reforma 2654 (20:00)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "verde",
-    "color": "#16a34a",
-    "placas": "terminación 1 y 2 (holograma 1 y 2), de 5:00 a 22:00"
+    "engomado": "azul",
+    "color": "#1f5fbf",
+    "placas": "terminación 9 y 0 (holograma 1 y 2), de 5:00 a 22:00; placas foráneas de 5:00 a 11:00"
   },
   "marchas": [
     {
-      "hora": "07:00",
-      "texto": "Liberación Animal MX, frente a la Suprema Corte de Justicia, por una ley general de bienestar animal"
+      "hora": "10:00",
+      "texto": "Cooperativa Excélsior, frente al diario (Bucareli 17, Juárez)"
     },
     {
-      "hora": "08:00",
-      "texto": "Jubilados del IPN, acciones en varios puntos de la ciudad por pagos pendientes"
+      "hora": "10:00",
+      "texto": "Caminata del ISSSTE por el Día Mundial del Ictus, del CMN 20 de Noviembre (Félix Cuevas 540) al Parque Acacias"
     },
     {
-      "hora": "11:00",
-      "texto": "Colectivo Vulvas Rebeldes, de la Fiscalía (Digna Ochoa y Plácido 56, Doctores) al Centro de Búsqueda de Personas"
+      "hora": "10:00",
+      "texto": "Estudiantes de la ENP 1, en División del Norte y Muyuguarda (Xochimilco) y la glorieta de Vaqueritos (Tlalpan)"
     },
     {
-      "hora": "11:00",
-      "texto": "Consejo Regional de la Nación Nguiva, Instituto Nacional de los Pueblos Indígenas"
+      "hora": "12:00",
+      "texto": "Plataforma 4:20, recolección de firmas en el Monumento a la Madre, División del Norte y Av. Cuauhtémoc, y Gran Canal con Circuito Interior"
     },
     {
-      "hora": "18:00",
-      "texto": "Movimiento de Trabajadores en Defensa de la Seguridad Social, charla en la sede del SNTSS (Condesa)"
+      "hora": "15:30",
+      "texto": "Sindicato de Bomberos Jubilados y Activos, mesa de trabajo en Plaza de la Constitución y Pino Suárez"
     },
     {
-      "hora": "19:50",
-      "texto": "Rodada Rueda Libre, del Parque Tezontle al Zócalo"
+      "hora": "17:00",
+      "texto": "Vecinos de Parque San Andrés, Consejo de la Alcaldía Coyoacán, por una obra del INVI"
+    },
+    {
+      "hora": "20:00",
+      "texto": "Rodada Beta Rollers, del Hemiciclo a Juárez a Torre Quadrata (Reforma 2654)"
     }
   ]
 }

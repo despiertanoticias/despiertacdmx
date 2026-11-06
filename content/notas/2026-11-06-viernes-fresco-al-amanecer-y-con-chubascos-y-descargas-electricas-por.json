@@ -1,0 +1,22 @@
+{
+  "titulo": "Viernes fresco al amanecer y con chubascos y descargas eléctricas por la tarde",
+  "seccion": "ciudad",
+  "fecha": "2026-11-06T06:44",
+  "resumen": "El Servicio Meteorológico Nacional prevé para la capital una mínima de 11 a 13 °C y una máxima de 25 a 27 °C. Por la tarde habrá chubascos aislados con descargas eléctricas y acumulados de 5 a 25 mm, además de viento del norte con rachas de hasta 45 km/h. Puede haber encharcamientos y retrasos en el transporte.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/cdmx-tendra-clima-frio-al-amanecer-y-lluvias-por-la-tarde-este-viernes/"
+    },
+    {
+      "medio": "Ámbito",
+      "enlace": "https://www.ambito.com/mexico/informacion-general/tormenta-electrica-cdmx-y-edomex-el-pronostico-del-tiempo-este-viernes-6-noviembre-2026-n6342041"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

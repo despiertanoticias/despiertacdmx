@@ -1,0 +1,22 @@
+{
+  "titulo": "Wall Street se desploma: el Nasdaq cae 5.52%, su peor jornada en 19 meses, por el temor a un freno de la IA",
+  "seccion": "economia",
+  "fecha": "2026-11-06T06:50",
+  "resumen": "El Nasdaq perdió 5.52% el jueves y cerró en 24,315 puntos; el S&P 500 bajó 4.36% y el Dow Jones 3.44%. Los fabricantes de chips encabezaron la venta (Micron -17.8%, AMD -17.4%, Nvidia -8.9%) ante el temor de que el triunfo demócrata en el Congreso de EU frene la construcción de centros de datos de inteligencia artificial. En México, el IPC de la BMV subió 0.36%.",
+  "cuerpo": "",
+  "imagen_tema": "bolsa",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "TV Azteca",
+      "enlace": "https://www.tvazteca.com/aztecanoticias/como-cerro-la-bols-mexicana-de-valores-hoy-5-de-noviembre-de-2026/"
+    },
+    {
+      "medio": "Teleamazonas",
+      "enlace": "https://www.teleamazonas.com/actualidad/noticias/internacional/wall-street-cierra-fuerte-caida-temores-sector-ia-132260/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
