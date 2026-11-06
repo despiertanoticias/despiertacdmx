@@ -1,11 +1,11 @@
 {
   "fecha": "Jueves 5 de noviembre de 2026",
-  "actualizado": "06:30 h",
+  "actualizado": "18:20 h",
   "clima": {
     "ahora": 11,
     "max": 27,
     "min": 10,
-    "texto": "Mañana fresca y con bruma; por la tarde, cielo de medio nublado a nublado con lluvias aisladas (hasta 5 mm) y posibles descargas eléctricas. Mínima de 10 a 12 °C y máxima de 25 a 27 °C; viento del norte con rachas de hasta 40 km/h.",
+    "texto": "Tarde con aumento de nubosidad y lluvias fuertes en el norte y poniente, ligeras en el resto (SGIRPC); máxima de 26 °C y mínima de 13 °C en la madrugada del viernes. Viernes 6: poco nublado, de 11 a 24 °C y baja probabilidad de lluvia.",
     "aire": "Mala en Gustavo A. Madero, con riesgo alto para grupos sensibles; buena a aceptable en el resto de las estaciones (reporte de las 05:00 h). Sin contingencia anunciada",
     "aire_estado": "warn",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Línea B opera completa de Buenavista a Ciudad Azteca; el servicio se restableció la noche del miércoles tras el incendio",
+      "estado": "Servicio regular en la red; Línea B opera completa de Buenavista a Ciudad Azteca (reporte de las 11:10 h)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Retrasos en L1, L6 y L7; intervención en las estaciones Canela (L2), Tenayuca (L3) y Gustavo A. Madero (L6)",
+      "estado": "Sin servicio en Tenayuca (L3, hasta el 9 de nov.) y Archivo General de la Nación (L5, hasta el 6); Canela (L2) y Gustavo A. Madero (L6) sin servicio en un sentido",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Concentraciones en la Suprema Corte (7:00) y marcha de la Fiscalía capitalina, en la Doctores, al Centro de Búsqueda de Personas (11:00)",
+      "estado": "Por la noche, rodadas desde Ermita Iztapalapa (19:45) y Parque Tezontle al Zócalo (19:50); concierto de Aitana en el Auditorio Nacional",
       "nivel": "warn"
     }
   ],
@@ -55,6 +55,14 @@
     {
       "hora": "11:00",
       "texto": "Consejo Regional de la Nación Nguiva, Instituto Nacional de los Pueblos Indígenas"
+    },
+    {
+      "hora": "18:00",
+      "texto": "Movimiento de Trabajadores en Defensa de la Seguridad Social, charla en la sede del SNTSS (Condesa)"
+    },
+    {
+      "hora": "19:50",
+      "texto": "Rodada Rueda Libre, del Parque Tezontle al Zócalo"
     }
   ]
 }
