@@ -1,6 +1,6 @@
 {
   "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "06:50 h",
+  "actualizado": "18:45 h",
   "clima": {
     "ahora": 11,
     "max": 27,
@@ -16,7 +16,7 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones iniciaron servicio a las 05:00 h; posibles marchas de seguridad por lluvia por la tarde",
+      "estado": "Todas las estaciones en servicio, según el reporte del Metro de las 11:00 h; usuarios reportaron avance lento en la Línea B por la mañana",
       "nivel": "ok"
     },
     {
@@ -30,7 +30,7 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Por la noche, conciertos de Morat (Palacio de los Deportes, 20:00) y Aitana (Auditorio Nacional, 20:30); rodada de autos de Hemiciclo a Juárez a Reforma 2654 (20:00)",
+      "estado": "Por la noche, Atlante-Santos (Estadio Banorte, 21:00), Morat (Palacio de los Deportes, 20:00), Aitana (Auditorio Nacional, 20:30) y Rubio (Auditorio BlackBerry, 20:00); rodada de autos de Hemiciclo a Juárez a Reforma 2654 (20:00)",
       "nivel": "warn"
     }
   ],
@@ -67,6 +67,10 @@
     {
       "hora": "20:00",
       "texto": "Rodada Beta Rollers, del Hemiciclo a Juárez a Torre Quadrata (Reforma 2654)"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Colectiva Las Tonantzin, frente a los Juzgados de Control del Reclusorio Oriente (Av. Reforma 100, Iztapalapa)"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "Sábado nublado y con chubascos por la tarde; máxima de 23 grados en la capital",
+  "seccion": "ciudad",
+  "fecha": "2026-11-06T18:32",
+  "resumen": "Para este sábado 7 de noviembre se pronostica en la Ciudad de México una mínima de 10 °C y una máxima de 23 °C, con cielo mayormente nublado. El SMN prevé chubascos con descargas eléctricas y posible granizo en el Valle de México por la tarde, y lluvias fuertes en zonas del Estado de México; en Toluca la mínima será de 6 °C.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Financiero",
+      "enlace": "https://www.elfinanciero.com.mx/cdmx/2026/11/06/clima-en-cdmx-y-edomex-sabado-7-de-noviembre-con-temperaturas-de-6c-a-24c-source-ia/"
+    },
+    {
+      "medio": "N+",
+      "enlace": "https://www.nmas.com.mx/ciudad-de-mexico/clima/pronostico-del-tiempo/clima-cdmx-sabado-7-de-noviembre-2026-conagua-advierte-lluvia-tormentas-electricas/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
