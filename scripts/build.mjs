@@ -8,6 +8,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import crypto from "node:crypto";
+import { agregarVivo } from "./vivo.mjs";
 
 const RAIZ = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 const CARPETA = path.join(RAIZ, "content/notas");
@@ -189,7 +190,7 @@ ${fuentes}
 </div>
 <script src="/assets/imagenes.js"></script>
 <script src="/assets/datos.js?v=${v}"></script>
-<script src="/assets/app.js"></script>
+<script src="/assets/en-vivo.js"></script><script src="/assets/app.js"></script>
 </body>
 </html>
 `;
@@ -219,3 +220,6 @@ fs.writeFileSync(path.join(RAIZ, "netlify/mapa-notas.js"),
   "// Generado por scripts/build.mjs — no editar a mano.\nexport default " + JSON.stringify(mapa) + ";\n");
 
 console.log(`Listo: ${Math.min(notas.length, MAX_NOTAS)} notas en datos.js, ${notas.length} páginas en /notas/, sitemap con ${notas.length + 1} URLs.`);
+
+// Datos para assets/en-vivo.js (notas publicadas desde /admin sin volver a publicar).
+agregarVivo(RAIZ);
