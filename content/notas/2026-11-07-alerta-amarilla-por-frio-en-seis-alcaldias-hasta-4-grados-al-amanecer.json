@@ -1,0 +1,22 @@
+{
+  "titulo": "Alerta amarilla por frío en seis alcaldías: hasta 4 grados al amanecer y posible granizo por la tarde",
+  "seccion": "ciudad",
+  "fecha": "2026-11-07T06:58",
+  "resumen": "La Secretaría de Gestión Integral de Riesgos y Protección Civil activó la alerta amarilla por temperaturas de 4 a 6 °C entre las 02:00 y las 08:00 horas de este sábado en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco. Para el resto del día, el SMN prevé en la capital una máxima de 24 a 26 °C, 40% de probabilidad de chubascos por la tarde (5 a 25 mm) con descargas eléctricas y posible caída de granizo en algunas zonas del Valle de México. Protección Civil recomienda abrigarse en capas y ventilar los espacios donde se usen calentadores.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/11/06/regresa-el-frio-a-cdmx-alerta-en-seis-alcaldias-por-temperaturas-de-hasta-4-grados/"
+    },
+    {
+      "medio": "Cadena Política",
+      "enlace": "https://cadenapolitica.com/2026/11/07/clima-en-cdmx-7-de-noviembre-conagua-alerta-por-lluvias-tormentas-electricas-y-posible-granizo/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

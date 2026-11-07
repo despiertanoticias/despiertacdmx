@@ -1,12 +1,12 @@
 {
-  "fecha": "Viernes 6 de noviembre de 2026",
-  "actualizado": "18:45 h",
+  "fecha": "Sábado 7 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 11,
-    "max": 27,
+    "max": 26,
     "min": 11,
-    "texto": "Fresco al amanecer, con bruma; por la tarde nublado con chubascos aislados y descargas eléctricas (5 a 25 mm). Mínima de 11 a 13 °C y máxima de 25 a 27 °C; viento del norte con rachas de hasta 45 km/h (SMN).",
-    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado; la peor lectura en Venustiano Carranza (reporte de las 05:00 h). Sin contingencia",
+    "texto": "Frío al amanecer, con alerta amarilla en seis alcaldías por 4 a 6 °C; bruma y nubes, y por la tarde 40% de probabilidad de chubascos (5 a 25 mm) con descargas eléctricas y posible granizo. Mínima de 11 a 13 °C y máxima de 24 a 26 °C; rachas de hasta 40 km/h (SMN).",
+    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado (reporte de las 05:00 h); varias estaciones sin datos. Sin contingencia",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -23,21 +23,21 @@
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Intervenciones en Canela (L2), Tenayuca (L3, hasta el 9 de nov.) y Garibaldi-Lagunilla (L7); Poniente 128 (L3) cierra del 7 al 20 de nov.",
+      "estado": "Poniente 128 (L3) cierra desde hoy y hasta el 20 de nov.; intervenciones en Tenayuca (L3, hasta el 9 de nov.) y Garibaldi-Lagunilla (L7); Canela (L2) cierra en ambos sentidos desde el lunes",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Por la noche, Atlante-Santos (Estadio Banorte, 21:00), Morat (Palacio de los Deportes, 20:00), Aitana (Auditorio Nacional, 20:30) y Rubio (Auditorio BlackBerry, 20:00); rodada de autos de Hemiciclo a Juárez a Reforma 2654 (20:00)",
+      "estado": "Clásico Capitalino Pumas-América a las 21:00 en el Estadio Olímpico Universitario (CU); Hoy No Circula sabatino de 5:00 a 22:00",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "azul",
-    "color": "#1f5fbf",
-    "placas": "terminación 9 y 0 (holograma 1 y 2), de 5:00 a 22:00; placas foráneas de 5:00 a 11:00"
+    "engomado": "cualquier color con holograma 2, holograma 1 con placa impar y placas foráneas",
+    "color": "#6b7280",
+    "placas": "holograma 1 con terminación 1, 3, 5, 7 y 9, todos los holograma 2 y foráneos, de 5:00 a 22:00"
   },
   "marchas": [
     {
