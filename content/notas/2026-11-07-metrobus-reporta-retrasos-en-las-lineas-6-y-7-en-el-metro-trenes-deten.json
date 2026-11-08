@@ -1,0 +1,22 @@
+{
+  "titulo": "Metrobús reporta retrasos en las líneas 6 y 7; en el Metro, trenes detenidos en la Línea A",
+  "seccion": "ciudad",
+  "fecha": "2026-11-07T18:50",
+  "resumen": "En su reporte de la tarde, el Metrobús registró retrasos en toda la Línea 6 y la Línea 7, además de intervenciones en las estaciones Canela (L2), Poniente 128 (L3), Tenayuca (L4) y 416 Oriente (L6); las líneas 1 y 5 operaban con normalidad. Por la mañana, usuarios de la Línea A del Metro reportaron trenes detenidos más de 10 minutos en la zona de San Juan; el STC dijo que el servicio se agilizaría tras revisar un tren.",
+  "cuerpo": "",
+  "imagen_tema": "metrobus",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/07/estaciones-del-metrobus-sin-servicio-en-esta-ultima-hora-de-este-7-de-noviembre/"
+    },
+    {
+      "medio": "N+",
+      "enlace": "https://www.nmas.com.mx/movilidad/que-paso-hoy-7-de-noviembre-2026-en-la-linea-a-del-metro/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

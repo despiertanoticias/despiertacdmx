@@ -1,11 +1,11 @@
 {
   "fecha": "Sábado 7 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:30 h",
   "clima": {
     "ahora": 11,
-    "max": 26,
+    "max": 25,
     "min": 11,
-    "texto": "Frío al amanecer, con alerta amarilla en seis alcaldías por 4 a 6 °C; bruma y nubes, y por la tarde 40% de probabilidad de chubascos (5 a 25 mm) con descargas eléctricas y posible granizo. Mínima de 11 a 13 °C y máxima de 24 a 26 °C; rachas de hasta 40 km/h (SMN).",
+    "texto": "Tarde templada, con máxima de hasta 25 °C en el centro, norte y oriente, y chubascos ligeros solo en los cerros de Milpa Alta y Tlalpan; por la noche, 15 a 17 °C en la zona urbana y 7 a 9 °C en el sur y poniente (Meteored). Alerta amarilla por frío para el domingo de 02:00 a 07:00 h, con 4 a 6 °C en seis alcaldías (SGIRPC).",
     "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado (reporte de las 05:00 h); varias estaciones sin datos. Sin contingencia",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones en servicio, según el reporte del Metro de las 11:00 h; usuarios reportaron avance lento en la Línea B por la mañana",
-      "nivel": "ok"
+      "estado": "Por la mañana, trenes detenidos y retrasos en ambos sentidos en la Línea A (zona San Juan); el STC informó que el servicio se agilizaría tras revisar un tren",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Poniente 128 (L3) cierra desde hoy y hasta el 20 de nov.; intervenciones en Tenayuca (L3, hasta el 9 de nov.) y Garibaldi-Lagunilla (L7); Canela (L2) cierra en ambos sentidos desde el lunes",
+      "estado": "Retrasos en las líneas 6 y 7 (reporte de las 14:45 h); intervenciones en Canela (L2), Poniente 128 (L3, hasta el 20 de nov.), Tenayuca (L4) y 416 Oriente (L6). Líneas 1 y 5, normales",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Clásico Capitalino Pumas-América a las 21:00 en el Estadio Olímpico Universitario (CU); Hoy No Circula sabatino de 5:00 a 22:00",
+      "estado": "Pumas-América a las 21:00 en CU (Insurgentes Sur, Universidad y Periférico Sur); Ultra México en el Estadio Banorte, Morat en el Palacio de los Deportes (Viaducto) y Aitana en el Auditorio Nacional; Hoy No Circula sabatino hasta las 22:00",
       "nivel": "warn"
     }
   ],
@@ -41,36 +41,32 @@
   },
   "marchas": [
     {
-      "hora": "10:00",
-      "texto": "Cooperativa Excélsior, frente al diario (Bucareli 17, Juárez)"
+      "hora": "09:00",
+      "texto": "Familiares de una víctima de feminicidio, en Sur de los 100 Metros y Calzada Vallejo (GAM)"
     },
     {
-      "hora": "10:00",
-      "texto": "Caminata del ISSSTE por el Día Mundial del Ictus, del CMN 20 de Noviembre (Félix Cuevas 540) al Parque Acacias"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Estudiantes de la ENP 1, en División del Norte y Muyuguarda (Xochimilco) y la glorieta de Vaqueritos (Tlalpan)"
+      "hora": "11:00",
+      "texto": "Pinta de un mural por Palestina en el Hemiciclo a Juárez"
     },
     {
       "hora": "12:00",
       "texto": "Plataforma 4:20, recolección de firmas en el Monumento a la Madre, División del Norte y Av. Cuauhtémoc, y Gran Canal con Circuito Interior"
     },
     {
-      "hora": "15:30",
-      "texto": "Sindicato de Bomberos Jubilados y Activos, mesa de trabajo en Plaza de la Constitución y Pino Suárez"
+      "hora": "14:00",
+      "texto": "Concentración por presos políticos en Rosa Venus y Rosa de Bengala (Álvaro Obregón)"
     },
     {
-      "hora": "17:00",
-      "texto": "Vecinos de Parque San Andrés, Consejo de la Alcaldía Coyoacán, por una obra del INVI"
+      "hora": "15:30",
+      "texto": "Partido Comunista de México, del Hemiciclo a Juárez a la Sección IX de la CNTE (Belisario Domínguez); acto político a las 17:00"
+    },
+    {
+      "hora": "17:30",
+      "texto": "Fiesta de Culturas Comunitarias «Voces vivas» en el Zócalo"
     },
     {
       "hora": "20:00",
       "texto": "Rodada Beta Rollers, del Hemiciclo a Juárez a Torre Quadrata (Reforma 2654)"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Colectiva Las Tonantzin, frente a los Juzgados de Control del Reclusorio Oriente (Av. Reforma 100, Iztapalapa)"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "Otra alerta amarilla por frío: el domingo, de 4 a 6 grados en seis alcaldías del sur y poniente",
+  "seccion": "ciudad",
+  "fecha": "2026-11-07T18:57",
+  "resumen": "La Secretaría de Gestión Integral de Riesgos y Protección Civil activó la alerta amarilla por temperaturas de 4 a 6 °C entre las 02:00 y las 07:00 horas del domingo 8 de noviembre en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco. Recomienda vestir al menos tres capas de ropa, tomar agua, evitar cambios bruscos de temperatura y ventilar los espacios si se usan calentadores. Para emergencias, el 911 y Locatel (55 5658 1111).",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Proceso",
+      "enlace": "https://www.proceso.com.mx/nacional/cdmx/2026/11/7/se-activa-alerta-amarilla-por-bajas-temperaturas-en-seis-alcaldias-de-la-cdmx-383298.html"
+    },
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/11/07/alerta-amarilla-por-frio-en-cdmx-temperaturas-bajaran-hasta-4-grados-este-domingo-8/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
