@@ -1,12 +1,12 @@
 {
-  "fecha": "Sábado 7 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Domingo 8 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 11,
     "max": 25,
     "min": 11,
-    "texto": "Tarde templada, con máxima de hasta 25 °C en el centro, norte y oriente, y chubascos ligeros solo en los cerros de Milpa Alta y Tlalpan; por la noche, 15 a 17 °C en la zona urbana y 7 a 9 °C en el sur y poniente (Meteored). Alerta amarilla por frío para el domingo de 02:00 a 07:00 h, con 4 a 6 °C en seis alcaldías (SGIRPC).",
-    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado (reporte de las 05:00 h); varias estaciones sin datos. Sin contingencia",
+    "texto": "Madrugada fría, con alerta amarilla en seis alcaldías del sur y poniente (SGIRPC). De día, cielo medio nublado a nublado con chubascos y lluvias puntuales de 5 a 25 mm, posibles descargas eléctricas y rachas de viento de hasta 40 km/h; máxima de 24 a 26 °C (SMN, vía Uno TV).",
+    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado (reporte de las 05:00 h); lecturas más altas en GAM, Venustiano Carranza, Cuautitlán Izcalli y Coacalco. Sin contingencia",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -23,50 +23,30 @@
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Retrasos en las líneas 6 y 7 (reporte de las 14:45 h); intervenciones en Canela (L2), Poniente 128 (L3, hasta el 20 de nov.), Tenayuca (L4) y 416 Oriente (L6). Líneas 1 y 5, normales",
+      "estado": "Intervenciones en Canela (L2), Poniente 128 (L3), Tenayuca (L4) y 416 Oriente (L6); eventos temporales en Chapultepec–Alameda Tacubaya (L7). Líneas 1 y 5, normales (reporte matutino)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Pumas-América a las 21:00 en CU (Insurgentes Sur, Universidad y Periférico Sur); Ultra México en el Estadio Banorte, Morat en el Palacio de los Deportes (Viaducto) y Aitana en el Auditorio Nacional; Hoy No Circula sabatino hasta las 22:00",
+      "estado": "Ciclotón de 8:00 a 14:00 con cierres parciales en Reforma, Calzada de Guadalupe y Av. Universidad; desde las 16:00, Vitae Fest gratuito en el Zócalo; domingo sin Hoy No Circula",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "cualquier color con holograma 2, holograma 1 con placa impar y placas foráneas",
+    "engomado": "ninguno: los domingos circulan todos",
     "color": "#6b7280",
-    "placas": "holograma 1 con terminación 1, 3, 5, 7 y 9, todos los holograma 2 y foráneos, de 5:00 a 22:00"
+    "placas": "sin restricción, salvo que se active una contingencia ambiental"
   },
   "marchas": [
     {
-      "hora": "09:00",
-      "texto": "Familiares de una víctima de feminicidio, en Sur de los 100 Metros y Calzada Vallejo (GAM)"
+      "hora": "08:00",
+      "texto": "Ciclotón, de 8:00 a 14:00, con cierres parciales en Paseo de la Reforma, Calzada de Guadalupe y Avenida Universidad"
     },
     {
-      "hora": "11:00",
-      "texto": "Pinta de un mural por Palestina en el Hemiciclo a Juárez"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Plataforma 4:20, recolección de firmas en el Monumento a la Madre, División del Norte y Av. Cuauhtémoc, y Gran Canal con Circuito Interior"
-    },
-    {
-      "hora": "14:00",
-      "texto": "Concentración por presos políticos en Rosa Venus y Rosa de Bengala (Álvaro Obregón)"
-    },
-    {
-      "hora": "15:30",
-      "texto": "Partido Comunista de México, del Hemiciclo a Juárez a la Sección IX de la CNTE (Belisario Domínguez); acto político a las 17:00"
-    },
-    {
-      "hora": "17:30",
-      "texto": "Fiesta de Culturas Comunitarias «Voces vivas» en el Zócalo"
-    },
-    {
-      "hora": "20:00",
-      "texto": "Rodada Beta Rollers, del Hemiciclo a Juárez a Torre Quadrata (Reforma 2654)"
+      "hora": "16:00",
+      "texto": "Vitae Fest, recital gratuito por la paz en el Zócalo con Mau y Ricky, Enjambre, Alexander Acha y Banda Los Recoditos"
     }
   ]
 }
