@@ -1,12 +1,12 @@
 {
-  "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "18:50 h",
+  "fecha": "Lunes 9 de noviembre de 2026",
+  "actualizado": "06:25 h",
   "clima": {
-    "ahora": 11,
-    "max": 25,
-    "min": 11,
-    "texto": "Tarde con lluvias: la SGIRPC activó alerta amarilla por lluvias fuertes y posible granizo en Álvaro Obregón, Benito Juárez, Coyoacán, Iztapalapa y Magdalena Contreras, de 16:35 a 20:00 h, con 15 a 29 mm. Máxima prevista de 24 a 26 °C (SMN, vía Uno TV).",
-    "aire": "Mala en la CDMX y el Edomex, riesgo alto (reporte de las 15:00 h); 12 estaciones en mala calidad, entre ellas Benito Juárez, Coyoacán, Miguel Hidalgo, Iztapalapa y Nezahualcóyotl. Sin contingencia anunciada",
+    "ahora": 12,
+    "max": 26,
+    "min": 12,
+    "texto": "Mañana fría con niebla y alerta amarilla por frío (SGIRPC) de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan, con 4 a 6 °C. Por la tarde, lluvias ligeras dispersas con posible actividad eléctrica; mínima de 12 a 14 °C y máxima de 24 a 26 °C (SMN, vía UnoTV).",
+    "aire": "Último reporte disponible (domingo, 15:00 h): mala en la CDMX y el Edomex, riesgo alto. La CAMe no ha anunciado contingencia para este lunes",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,37 +16,45 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Por la tarde, usuarios reportaron trenes detenidos en la Línea 3 y retrasos de hasta 15 minutos en la Línea 9; por la mañana hubo trenes detenidos en la Línea A",
-      "nivel": "warn"
+      "estado": "Las 12 líneas iniciaron a las 5:00 con todas sus estaciones abiertas y sin cierres programados; por lluvia en la tarde podría activarse la marcha de seguridad (UnoTV)",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Intervenciones en Canela (L2), Poniente 128 (L3), Tenayuca (L4) y 416 Oriente (L6); eventos temporales en Chapultepec–Alameda Tacubaya (L7). Líneas 1 y 5, normales (reporte matutino)",
-      "nivel": "warn"
+      "estado": "Inició servicio a las 4:30 en sus 7 líneas; sin reporte de afectaciones al amanecer",
+      "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Ciclotón de 8:00 a 14:00 con cierres parciales en Reforma, Calzada de Guadalupe y Av. Universidad; desde las 16:00, Vitae Fest gratuito en el Zócalo; domingo sin Hoy No Circula",
+      "estado": "36 movilizaciones previstas por la SSC; posibles afectaciones en Cuauhtémoc, Benito Juárez y GAM, sobre todo en el eje Siglo XXI–Reforma–Zócalo por la marcha del IMSS desde las 15:00",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "ninguno: los domingos circulan todos",
-    "color": "#6b7280",
-    "placas": "sin restricción, salvo que se active una contingencia ambiental"
+    "engomado": "amarillo",
+    "color": "#f2c200",
+    "placas": "terminación 5 y 6 (hologramas 1 y 2), de 5:00 a 22:00 h"
   },
   "marchas": [
     {
-      "hora": "08:00",
-      "texto": "Ciclotón, de 8:00 a 14:00, con cierres parciales en Paseo de la Reforma, Calzada de Guadalupe y Avenida Universidad"
+      "hora": "12:00",
+      "texto": "Trabajadores del IMSS en Resistencia se concentran en la sede sindical de Pestalozzi"
     },
     {
-      "hora": "16:00",
-      "texto": "Vitae Fest, recital gratuito por la paz en el Zócalo con Mau y Ricky, Enjambre, Alexander Acha y Banda Los Recoditos"
+      "hora": "15:00",
+      "texto": "Marcha de trabajadores y jubilados del IMSS del Centro Médico Nacional Siglo XXI al Zócalo, con parada en el Senado"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Concentraciones: Consejo Nacional Motociclista frente a la Semovi; sindicato de la UNAM en la Cámara de Diputados; triquis del MULTI frente a Gobernación"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Paro convocado en módulos del INE en 20 estados, incluida la CDMX; podrían cerrar vialidades como Periférico"
     }
   ]
 }
