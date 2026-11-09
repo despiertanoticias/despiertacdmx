@@ -1,13 +1,13 @@
 {
   "fecha": "Domingo 8 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:50 h",
   "clima": {
     "ahora": 11,
     "max": 25,
     "min": 11,
-    "texto": "Madrugada fría, con alerta amarilla en seis alcaldías del sur y poniente (SGIRPC). De día, cielo medio nublado a nublado con chubascos y lluvias puntuales de 5 a 25 mm, posibles descargas eléctricas y rachas de viento de hasta 40 km/h; máxima de 24 a 26 °C (SMN, vía Uno TV).",
-    "aire": "Aceptable en la CDMX y el Edomex, riesgo moderado (reporte de las 05:00 h); lecturas más altas en GAM, Venustiano Carranza, Cuautitlán Izcalli y Coacalco. Sin contingencia",
-    "aire_estado": "ok",
+    "texto": "Tarde con lluvias: la SGIRPC activó alerta amarilla por lluvias fuertes y posible granizo en Álvaro Obregón, Benito Juárez, Coyoacán, Iztapalapa y Magdalena Contreras, de 16:35 a 20:00 h, con 15 a 29 mm. Máxima prevista de 24 a 26 °C (SMN, vía Uno TV).",
+    "aire": "Mala en la CDMX y el Edomex, riesgo alto (reporte de las 15:00 h); 12 estaciones en mala calidad, entre ellas Benito Juárez, Coyoacán, Miguel Hidalgo, Iztapalapa y Nezahualcóyotl. Sin contingencia anunciada",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,7 +16,7 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Por la mañana, trenes detenidos y retrasos en ambos sentidos en la Línea A (zona San Juan); el STC informó que el servicio se agilizaría tras revisar un tren",
+      "estado": "Por la tarde, usuarios reportaron trenes detenidos en la Línea 3 y retrasos de hasta 15 minutos en la Línea 9; por la mañana hubo trenes detenidos en la Línea A",
       "nivel": "warn"
     },
     {
