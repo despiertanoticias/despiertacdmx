@@ -1,12 +1,12 @@
 {
-  "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 10 de noviembre de 2026",
+  "actualizado": "06:30 h",
   "clima": {
     "ahora": 12,
     "max": 26,
-    "min": 12,
-    "texto": "Tarde con lluvias ligeras aisladas. Para el martes 10, alerta amarilla por frío (SGIRPC) de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C; el SMN prevé mínima de 12 a 14 °C, máxima de 24 a 26 °C y lluvias aisladas por la tarde (vía N+).",
-    "aire": "Reporte de las 15:00 h: mala en la CDMX y el Edomex, riesgo alto; seis estaciones capitalinas en mala calidad (Benito Juárez, Coyoacán, Iztacalco, V. Carranza, Álvaro Obregón e Iztapalapa). Sin contingencia anunciada",
+    "min": 4,
+    "texto": "Amanecer frío y nublado, con niebla. Alerta amarilla por frío (SGIRPC) en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C; máxima de 24 a 26 °C y lluvias ligeras con posibles tormentas eléctricas por la tarde (SMN, vía UnoTV).",
+    "aire": "Reporte de las 5:00 h: mala, riesgo alto; en la CDMX solo la estación Azcapotzalco (CAM) en mala calidad, el resto entre aceptable y buena (vía Infobae). Sin contingencia",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,45 +16,45 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las 12 líneas iniciaron a las 5:00 con todas sus estaciones abiertas y sin cierres programados; por lluvia en la tarde podría activarse la marcha de seguridad (UnoTV)",
+      "estado": "Inició operaciones de manera normal este martes (Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Opera en sus 7 líneas; la Línea 7 dio servicio por tramos por la presencia de manifestantes (Infobae)",
+      "estado": "Sin servicio las estaciones Canela (L2), Poniente 128 (L3) y Plaza de la República–Vocacional 5 (L4) por intervenciones; líneas 1, 5, 6 y 7 regulares (Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha de unos 3 mil trabajadores del IMSS de Siglo XXI al Zócalo desde las 15:00, con cierres graduales en Cuauhtémoc, Reforma, Bucareli, Eje Central y el Centro Histórico; 36 movilizaciones en el día (SSC)",
+      "estado": "Mitin del sindicato del Metro en el Zócalo con reducción de carriles; protesta de comerciantes mazahuas en Diagonal 20 de Noviembre (afecta Eje 2 Sur y Pino Suárez) y tránsito lento frente a la Cámara de Diputados (Ámbito)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "amarillo",
-    "color": "#f2c200",
-    "placas": "terminación 5 y 6 (hologramas 1 y 2), de 5:00 a 22:00 h"
+    "engomado": "rosa",
+    "color": "#ec4899",
+    "placas": "terminación 7 y 8 (hologramas 1 y 2), de 5:00 a 22:00 h; placas foráneas de 5:00 a 11:00"
   },
   "marchas": [
     {
-      "hora": "12:00",
-      "texto": "Trabajadores del IMSS en Resistencia se concentran en la sede sindical de Pestalozzi"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Marcha de trabajadores y jubilados del IMSS del Centro Médico Nacional Siglo XXI al Zócalo, con parada en el Senado"
+      "hora": "Todo el día",
+      "texto": "Mitin del Sindicato de Trabajadores del Metro frente a la Secretaría de Gobierno, en el Zócalo"
     },
     {
       "hora": "Todo el día",
-      "texto": "Concentraciones: Consejo Nacional Motociclista frente a la Semovi; sindicato de la UNAM en la Cámara de Diputados; triquis del MULTI frente a Gobernación"
+      "texto": "Comerciantes mazahuas de la Alameda protestan en Diagonal 20 de Noviembre 294, col. Obrera, contra operativos de la Policía Auxiliar"
     },
     {
       "hora": "Todo el día",
-      "texto": "Paro convocado en módulos del INE en 20 estados, incluida la CDMX; podrían cerrar vialidades como Periférico"
+      "texto": "Contingentes sindicales y universitarios frente a la Cámara de Diputados, Congreso de la Unión 66"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Plantones en la Suprema Corte (Pino Suárez), oficinas centrales del IMSS (Reforma 476) y Segob"
     }
   ]
 }

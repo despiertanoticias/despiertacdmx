@@ -1,0 +1,22 @@
+{
+  "titulo": "Metrobús cierra tres estaciones por intervenciones: Canela, Poniente 128 y Plaza de la República",
+  "seccion": "ciudad",
+  "fecha": "2026-11-10T06:21",
+  "resumen": "El Metrobús reporta sin servicio la estación Canela de la Línea 2, Poniente 128 de la Línea 3 y Plaza de la República–Vocacional 5 de la Línea 4, por intervenciones en las estaciones; las líneas 1, 5, 6 y 7 operan con normalidad. El Metro también inició su servicio de manera regular este martes.",
+  "cuerpo": "",
+  "imagen_tema": "metrobus",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/10/informacion-en-tiempo-real-estaciones-del-metrobus-sin-servicio-este-10-de-noviembre/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/10/que-esta-pasando-en-el-metro-y-metrobus-hoy-10-de-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
