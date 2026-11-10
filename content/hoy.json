@@ -1,12 +1,12 @@
 {
   "fecha": "Lunes 9 de noviembre de 2026",
-  "actualizado": "06:25 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 12,
     "max": 26,
     "min": 12,
-    "texto": "Mañana fría con niebla y alerta amarilla por frío (SGIRPC) de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras y Tlalpan, con 4 a 6 °C. Por la tarde, lluvias ligeras dispersas con posible actividad eléctrica; mínima de 12 a 14 °C y máxima de 24 a 26 °C (SMN, vía UnoTV).",
-    "aire": "Último reporte disponible (domingo, 15:00 h): mala en la CDMX y el Edomex, riesgo alto. La CAMe no ha anunciado contingencia para este lunes",
+    "texto": "Tarde con lluvias ligeras aisladas. Para el martes 10, alerta amarilla por frío (SGIRPC) de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C; el SMN prevé mínima de 12 a 14 °C, máxima de 24 a 26 °C y lluvias aisladas por la tarde (vía N+).",
+    "aire": "Reporte de las 15:00 h: mala en la CDMX y el Edomex, riesgo alto; seis estaciones capitalinas en mala calidad (Benito Juárez, Coyoacán, Iztacalco, V. Carranza, Álvaro Obregón e Iztapalapa). Sin contingencia anunciada",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -23,14 +23,14 @@
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició servicio a las 4:30 en sus 7 líneas; sin reporte de afectaciones al amanecer",
-      "nivel": "ok"
+      "estado": "Opera en sus 7 líneas; la Línea 7 dio servicio por tramos por la presencia de manifestantes (Infobae)",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "36 movilizaciones previstas por la SSC; posibles afectaciones en Cuauhtémoc, Benito Juárez y GAM, sobre todo en el eje Siglo XXI–Reforma–Zócalo por la marcha del IMSS desde las 15:00",
+      "estado": "Marcha de unos 3 mil trabajadores del IMSS de Siglo XXI al Zócalo desde las 15:00, con cierres graduales en Cuauhtémoc, Reforma, Bucareli, Eje Central y el Centro Histórico; 36 movilizaciones en el día (SSC)",
       "nivel": "warn"
     }
   ],
