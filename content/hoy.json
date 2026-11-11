@@ -1,12 +1,12 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "06:30 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 12,
     "max": 26,
     "min": 4,
-    "texto": "Amanecer frío y nublado, con niebla. Alerta amarilla por frío (SGIRPC) en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C; máxima de 24 a 26 °C y lluvias ligeras con posibles tormentas eléctricas por la tarde (SMN, vía UnoTV).",
-    "aire": "Reporte de las 5:00 h: mala, riesgo alto; en la CDMX solo la estación Azcapotzalco (CAM) en mala calidad, el resto entre aceptable y buena (vía Infobae). Sin contingencia",
+    "texto": "Tarde con nubes y lluvias aisladas, vientos de 30 a 50 km/h (SMN, vía Infobae). Para el miércoles 11: mínima de 11 a 13 °C, máxima de 23 a 25 °C y chubascos con posibles tormentas eléctricas por la tarde (SMN/Conagua, vía N+).",
+    "aire": "Reporte de las 15:00 h: mala, riesgo alto, en las estaciones Ajusco Medio, Benito Juárez, Merced, Pedregal y Tláhuac; Edomex entre buena y aceptable (vía Infobae). Sin contingencia",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones de manera normal este martes (Infobae)",
-      "nivel": "ok"
+      "estado": "Por la tarde, usuarios reportaron trenes detenidos y saturación en las líneas A, 1, 3, 8, 9 y 12; sin balance oficial (Publimetro)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin servicio las estaciones Canela (L2), Poniente 128 (L3) y Plaza de la República–Vocacional 5 (L4) por intervenciones; líneas 1, 5, 6 y 7 regulares (Infobae)",
+      "estado": "Desde la mañana, sin servicio Canela (L2) y Poniente 128 (L3); afectaciones en la L4 Ruta Sur (Plaza de la República–Vocacional 5). L5 e Hidalgo–Bellas Artes restablecidas (ADN40, Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Mitin del sindicato del Metro en el Zócalo con reducción de carriles; protesta de comerciantes mazahuas en Diagonal 20 de Noviembre (afecta Eje 2 Sur y Pino Suárez) y tránsito lento frente a la Cámara de Diputados (Ámbito)",
+      "estado": "Rodadas nocturnas desde Alameda Central, Tlaxcoaque y Pilares-Pestalozzi pueden afectar Circuito Interior, Insurgentes, Reforma y Calzada de Tlalpan; partido en el Olímpico Universitario a las 19:00 (Infobae)",
       "nivel": "warn"
     }
   ],
@@ -41,20 +41,20 @@
   },
   "marchas": [
     {
-      "hora": "Todo el día",
-      "texto": "Mitin del Sindicato de Trabajadores del Metro frente a la Secretaría de Gobierno, en el Zócalo"
+      "hora": "13:00",
+      "texto": "Jugadores y entrenadores de Colts de Aragón protestan en el edificio del Gobierno de la CDMX, Plaza de la Constitución, por el cierre de su campo"
+    },
+    {
+      "hora": "Mediodía",
+      "texto": "Trabajadores de plataformas digitales se manifiestan frente a oficinas de VEMO Impulso, en Polanco"
     },
     {
       "hora": "Todo el día",
-      "texto": "Comerciantes mazahuas de la Alameda protestan en Diagonal 20 de Noviembre 294, col. Obrera, contra operativos de la Policía Auxiliar"
+      "texto": "Movimientos por vivienda frente al Congreso capitalino y en el Zócalo; mitin del sindicato del Metro en la Secretaría de Gobierno"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Contingentes sindicales y universitarios frente a la Cámara de Diputados, Congreso de la Unión 66"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Plantones en la Suprema Corte (Pino Suárez), oficinas centrales del IMSS (Reforma 476) y Segob"
+      "hora": "Noche",
+      "texto": "Rodadas ciclistas desde Alameda Central, Plaza Tlaxcoaque y Pilares-Pestalozzi"
     }
   ]
 }
