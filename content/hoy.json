@@ -1,13 +1,13 @@
 {
-  "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Miércoles 11 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 12,
-    "max": 26,
-    "min": 4,
-    "texto": "Tarde con nubes y lluvias aisladas, vientos de 30 a 50 km/h (SMN, vía Infobae). Para el miércoles 11: mínima de 11 a 13 °C, máxima de 23 a 25 °C y chubascos con posibles tormentas eléctricas por la tarde (SMN/Conagua, vía N+).",
-    "aire": "Reporte de las 15:00 h: mala, riesgo alto, en las estaciones Ajusco Medio, Benito Juárez, Merced, Pedregal y Tláhuac; Edomex entre buena y aceptable (vía Infobae). Sin contingencia",
-    "aire_estado": "bad",
+    "max": 24,
+    "min": 12,
+    "texto": "Mínima de 10 a 14 °C y máxima de 20 a 24 °C; chubascos de 5 a 25 mm por la tarde con descargas eléctricas y rachas de 30 a 40 km/h (SMN/Conagua, vía Publimetro).",
+    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado para grupos sensibles, en CDMX y Edomex (Dirección de Monitoreo Atmosférico, vía Infobae). Sin contingencia",
+    "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,45 +16,45 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Por la tarde, usuarios reportaron trenes detenidos y saturación en las líneas A, 1, 3, 8, 9 y 12; sin balance oficial (Publimetro)",
-      "nivel": "warn"
+      "estado": "Inició servicio a las 5:00 con todas sus estaciones abiertas, según el Metro (vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Desde la mañana, sin servicio Canela (L2) y Poniente 128 (L3); afectaciones en la L4 Ruta Sur (Plaza de la República–Vocacional 5). L5 e Hidalgo–Bellas Artes restablecidas (ADN40, Infobae)",
-      "nivel": "warn"
+      "estado": "Inició servicio a las 4:30; sin cierres reportados en el primer corte (Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Rodadas nocturnas desde Alameda Central, Tlaxcoaque y Pilares-Pestalozzi pueden afectar Circuito Interior, Insurgentes, Reforma y Calzada de Tlalpan; partido en el Olímpico Universitario a las 19:00 (Infobae)",
+      "estado": "Peregrinación de unas 25 mil personas de Tlaxcala por Calzada Ignacio Zaragoza hacia la Basílica; marcha de la ANUEE y el SME de Reforma al Zócalo. Afectaciones en Cuauhtémoc, Coyoacán, Azcapotzalco y GAM (Infobae)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rosa",
-    "color": "#ec4899",
-    "placas": "terminación 7 y 8 (hologramas 1 y 2), de 5:00 a 22:00 h; placas foráneas de 5:00 a 11:00"
+    "engomado": "rojo",
+    "color": "#dc2626",
+    "placas": "terminación 3 y 4 (hologramas 1 y 2), de 5:00 a 22:00 h"
   },
   "marchas": [
     {
-      "hora": "13:00",
-      "texto": "Jugadores y entrenadores de Colts de Aragón protestan en el edificio del Gobierno de la CDMX, Plaza de la Constitución, por el cierre de su campo"
+      "hora": "7:30",
+      "texto": "ANUEE y SME (unas 3 mil personas) se concentran en Reforma 164 y Antonio Caso 45 para marchar a Palacio Nacional"
     },
     {
-      "hora": "Mediodía",
-      "texto": "Trabajadores de plataformas digitales se manifiestan frente a oficinas de VEMO Impulso, en Polanco"
+      "hora": "8:00",
+      "texto": "Vecinos de Coyoacán protestan en Calzada de Tlalpan 2169 contra el proyecto Skyline; peregrinos de Azcapotzalco salen de su catedral"
     },
     {
-      "hora": "Todo el día",
-      "texto": "Movimientos por vivienda frente al Congreso capitalino y en el Zócalo; mitin del sindicato del Metro en la Secretaría de Gobierno"
+      "hora": "11:00",
+      "texto": "SITUAM marcha de la UAM Xochimilco a la Rectoría General; Unión de Colonias Populares, del Monumento a la Revolución a la sede de Morena; repartidores en la Glorieta de Camarones"
     },
     {
-      "hora": "Noche",
-      "texto": "Rodadas ciclistas desde Alameda Central, Plaza Tlaxcoaque y Pilares-Pestalozzi"
+      "hora": "18:00",
+      "texto": "Frente Antigentrificación, del Edificio Trevi (Doctor Mora y Colón) a República de Cuba 34"
     }
   ]
 }
