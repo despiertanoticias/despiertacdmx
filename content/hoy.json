@@ -1,13 +1,13 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "06:20 h",
   "clima": {
     "ahora": 12,
-    "max": 24,
+    "max": 22,
     "min": 12,
-    "texto": "Mínima de 10 a 14 °C y máxima de 20 a 24 °C; chubascos de 5 a 25 mm por la tarde con descargas eléctricas y rachas de 30 a 40 km/h (SMN/Conagua, vía Publimetro).",
-    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado para grupos sensibles, en CDMX y Edomex (Dirección de Monitoreo Atmosférico, vía Infobae). Sin contingencia",
-    "aire_estado": "warn",
+    "texto": "Nublado, con bruma y niebla en zonas altas por la mañana; mínima de 11 a 13 °C y máxima de 21 a 23 °C; chubascos de 5 a 25 mm con posibles descargas eléctricas y rachas de hasta 45 km/h (SMN, vía UnoTV).",
+    "aire": "Reporte de las 5:00 h: mala, riesgo alto, en la CDMX y el Edomex; la estación de Gustavo A. Madero registra mala calidad (vía Infobae)",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -30,31 +30,31 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Peregrinación de unas 25 mil personas de Tlaxcala por Calzada Ignacio Zaragoza hacia la Basílica; marcha de la ANUEE y el SME de Reforma al Zócalo. Afectaciones en Cuauhtémoc, Coyoacán, Azcapotzalco y GAM (Infobae)",
+      "estado": "Protesta en la caseta La Venta de la México-Toluca desde las 5:00; marcha de Mottu de Iztacalco al Zócalo a las 10:00; concentración de docentes del IPN en Zacatenco (Infobae)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "rojo",
-    "color": "#dc2626",
-    "placas": "terminación 3 y 4 (hologramas 1 y 2), de 5:00 a 22:00 h"
+    "engomado": "verde",
+    "color": "#16a34a",
+    "placas": "terminación 1 y 2 (hologramas 1 y 2), de 5:00 a 22:00 h"
   },
   "marchas": [
     {
-      "hora": "7:30",
-      "texto": "ANUEE y SME (unas 3 mil personas) se concentran en Reforma 164 y Antonio Caso 45 para marchar a Palacio Nacional"
+      "hora": "5:00",
+      "texto": "Vecinos de Xalpa, Acopilco y otros pueblos de Cuajimalpa protestan en la caseta La Venta de la autopista México-Toluca por el tráfico"
     },
     {
-      "hora": "8:00",
-      "texto": "Vecinos de Coyoacán protestan en Calzada de Tlalpan 2169 contra el proyecto Skyline; peregrinos de Azcapotzalco salen de su catedral"
+      "hora": "9:30",
+      "texto": "Defensores de animales en la Unidad de Gestión Judicial 1 (Doctores) por el envenenamiento de perros en el Parque España"
     },
     {
-      "hora": "11:00",
-      "texto": "SITUAM marcha de la UAM Xochimilco a la Rectoría General; Unión de Colonias Populares, del Monumento a la Revolución a la sede de Morena; repartidores en la Glorieta de Camarones"
+      "hora": "10:00",
+      "texto": "Mottu México marcha de Río Churubusco y av. Té (Iztacalco) al Zócalo contra grúas y corralones; docentes del IPN en Zacatenco; colectivo Seamos su Voz en Pedregal de San Nicolás, Tlalpan"
     },
     {
-      "hora": "18:00",
-      "texto": "Frente Antigentrificación, del Edificio Trevi (Doctor Mora y Colón) a República de Cuba 34"
+      "hora": "12:00",
+      "texto": "Jubilados de la Cámara de Diputados se manifiestan en San Lázaro"
     }
   ]
 }

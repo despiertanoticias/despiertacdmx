@@ -1,0 +1,22 @@
+{
+  "titulo": "Hoy No Circula: descansan los autos de engomado verde, placas 1 y 2",
+  "seccion": "ciudad",
+  "fecha": "2026-11-12T06:30",
+  "resumen": "Este jueves no circulan de 5:00 a 22:00 los vehículos con engomado verde y placas con terminación 1 y 2, con holograma 1 o 2, en la Ciudad de México y los municipios conurbados del Estado de México. Quedan exentos los autos con holograma 0 y 00, eléctricos e híbridos, motocicletas, taxis y transporte público.",
+  "cuerpo": "",
+  "imagen_tema": "centro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "La Razón",
+      "enlace": "https://www.razon.com.mx/ciudad/2026/11/11/hoy-no-circula-jueves-12-de-noviembre-de-2026-que-autos-descansan-en-cdmx-y-edomex/"
+    },
+    {
+      "medio": "Excélsior",
+      "enlace": "https://www.excelsior.com.mx/ciudad-de-mexico/hoy-no-circula-cdmx-edomex-jueves-12-noviembre-2026"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
