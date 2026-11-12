@@ -75,6 +75,13 @@ const salida = "/* Generado por scripts/build.mjs — no editar a mano. */\n" +
   "window.NOTAS=" + JSON.stringify(notas.slice(0, MAX_NOTAS).map(({ m, ...n }) => n)) + ";\n" +
   "window.HOY=" + JSON.stringify(hoy) + ";\n";
 fs.writeFileSync(path.join(RAIZ, "assets/datos.js"), salida);
+
+// Archivo: cada nota en assets/notas/<id>.json. datos.js solo lleva las MAX_NOTAS más recientes;
+// nota.html carga de aquí las más viejas para que sus enlaces sigan funcionando.
+const ARCHIVO = path.join(RAIZ, "assets/notas");
+fs.rmSync(ARCHIVO, { recursive: true, force: true });
+fs.mkdirSync(ARCHIVO, { recursive: true });
+for (const n of notas) fs.writeFileSync(path.join(ARCHIVO, n.id + ".json"), JSON.stringify(n));
 const v = crypto.createHash("md5").update(salida).digest("hex").slice(0, 10);
 
 // En Netlify, cada página pide assets/datos.js?v=<huella> para que el navegador
