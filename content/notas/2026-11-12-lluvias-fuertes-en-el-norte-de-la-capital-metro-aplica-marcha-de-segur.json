@@ -1,0 +1,22 @@
+{
+  "titulo": "Lluvias fuertes en el norte de la capital: Metro aplica marcha de seguridad en siete líneas y el Cablebús Línea 1 se detuvo casi una hora",
+  "seccion": "ciudad",
+  "fecha": "2026-11-12T18:39",
+  "resumen": "La SGIRPC activó la alerta amarilla por lluvias fuertes en Azcapotzalco, Gustavo A. Madero y Venustiano Carranza, con acumulados previstos de 15 a 29 milímetros hasta las 21:00 h. El Metro redujo la velocidad de sus trenes en las líneas 2, 3, 4, 5, 8, 9 y B, lo que alarga los trayectos. Hacia las 16:00 h, la Línea 1 del Cablebús (Indios Verdes–Cuautepec) desembarcó pasajeros por una tormenta eléctrica y reanudó el servicio casi una hora después.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Eje Central",
+      "enlace": "https://www.ejecentral.com.mx/nuestro-eje/fuertes-lluvias-en-cdmx-hoy-12-de-noviembre-cablebus-suspende-servicio-y-metro-activa-marcha-de-seguridad"
+    },
+    {
+      "medio": "El Heraldo de México",
+      "enlace": "https://heraldodemexico.com.mx/nacional/2026/11/12/metro-cdmx-lluvias-provocan-marcha-de-seguridad-en-lineas-2-3-4-5-8-9-y-b-este-jueves-12-de-noviembre-de-2026-2917999.html"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}

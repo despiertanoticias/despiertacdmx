@@ -1,11 +1,11 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "06:20 h",
+  "actualizado": "18:20 h",
   "clima": {
     "ahora": 12,
     "max": 22,
     "min": 12,
-    "texto": "Nublado, con bruma y niebla en zonas altas por la mañana; mínima de 11 a 13 °C y máxima de 21 a 23 °C; chubascos de 5 a 25 mm con posibles descargas eléctricas y rachas de hasta 45 km/h (SMN, vía UnoTV).",
+    "texto": "Tarde con lluvias: la SGIRPC activó alerta amarilla por lluvias fuertes en Azcapotzalco, Gustavo A. Madero y Venustiano Carranza, con 15 a 29 mm previstos hasta las 21:00 h (vía Eje Central). Para el viernes 13, el SMN prevé mínima de 11 a 13 °C, máxima de 19 a 21 °C y chubascos por la tarde.",
     "aire": "Reporte de las 5:00 h: mala, riesgo alto, en la CDMX y el Edomex; la estación de Gustavo A. Madero registra mala calidad (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
@@ -16,8 +16,8 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició servicio a las 5:00 con todas sus estaciones abiertas, según el Metro (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Marcha de seguridad por lluvia en las líneas 2, 3, 4, 5, 8, 9 y B; trayectos más lentos (vía Eje Central). Cablebús Línea 1 se detuvo hacia las 16:00 por tormenta eléctrica y reanudó casi una hora después",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
@@ -30,7 +30,7 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Protesta en la caseta La Venta de la México-Toluca desde las 5:00; marcha de Mottu de Iztacalco al Zócalo a las 10:00; concentración de docentes del IPN en Zacatenco (Infobae)",
+      "estado": "Lluvias fuertes en el norte de la ciudad por la tarde; por la noche, rodadas ciclistas en Iztapalapa y Tlalpan y alta afluencia en Santa Fe por el estreno de Cirque du Soleil (Infobae)",
       "nivel": "warn"
     }
   ],
@@ -55,6 +55,10 @@
     {
       "hora": "12:00",
       "texto": "Jubilados de la Cámara de Diputados se manifiestan en San Lázaro"
+    },
+    {
+      "hora": "Noche",
+      "texto": "Cuatro rodadas ciclistas en Iztapalapa y Tlalpan y una rodada en patines desde la calle Doctor Mora, en el Centro Histórico (Infobae)"
     }
   ]
 }

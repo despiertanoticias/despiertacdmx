@@ -1,0 +1,18 @@
+{
+  "titulo": "Falla de Outlook y Microsoft 365 deja sin correo a miles en México; la CDMX concentra los reportes",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-12T18:29",
+  "resumen": "Usuarios de Outlook en México reportaron fallas en la app, el sitio y el inicio de sesión durante el horario laboral, con un pico de 4,858 reportes en Downdetector, la mayoría desde la Ciudad de México, Querétaro y Guadalajara. Microsoft abrió el incidente EX1550543 sobre problemas de acceso a buzones de Exchange Online en América y dijo que revisaba errores de conectividad en parte de su infraestructura, sin dar un tiempo estimado de solución.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/12/no-es-tu-internet-se-cae-outlook-en-mexico-y-deja-sin-correo-a-miles-en-pleno-horario-laboral-que-paso-con-microsoft/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
