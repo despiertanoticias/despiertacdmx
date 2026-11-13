@@ -1,0 +1,22 @@
+{
+  "titulo": "Amanece con calidad del aire aceptable; se esperan chubascos por la tarde y máxima de 20 a 22 grados",
+  "seccion": "ciudad",
+  "fecha": "2026-11-13T06:31",
+  "resumen": "El reporte de las 5:00 marca calidad aceptable y riesgo moderado en la CDMX y el Edomex, con la mayoría de las estaciones en nivel bueno. El SMN y la SGIRPC prevén mañana nublada con niebla, mínima de 12 a 14 °C, chubascos con posibles descargas eléctricas y rachas de hasta 40 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/13/contingencia-ambiental-en-cdmx-la-calidad-del-aire-del-13-de-noviembre/"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/lluvias-cdmx-viernes-13-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
