@@ -1,12 +1,12 @@
 {
-  "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Sábado 14 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
-    "ahora": 12,
-    "max": 22,
-    "min": 12,
-    "texto": "Viernes con chubascos aislados por la tarde y rachas de hasta 40 km/h; máxima de 20 a 22 °C. El sábado será el día más frío del megapuente: mínimas de 6 °C en Tlalpan y de hasta 10 °C en 14 alcaldías, con máximas de 20 a 22 °C (SMN, vía Infobae).",
-    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; Tlalpan y Álvaro Obregón en aceptable y el resto de las estaciones en buena (vía Infobae)",
+    "ahora": 10,
+    "max": 25,
+    "min": 9,
+    "texto": "Mañana fría con mínima de 9 a 11 °C y tarde templada con máxima de 23 a 25 °C; sin lluvias previstas en la capital y rachas del oeste de hasta 40 km/h (SMN, vía Uno TV).",
+    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; Azcapotzalco e Iztapalapa en aceptable y el resto de las estaciones en buena (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,61 +16,37 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Servicio en todas las estaciones; durante el Buen Fin cierra a las 24:00. Sábado abre a las 6:00, domingo y lunes a las 7:00 (N+)",
+      "estado": "Servicio de 6:00 a 24:00 por el Buen Fin; domingo y lunes 16 abre a las 7:00 (N+)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Servicio regular desde las 4:30; Infobae reportó algunas estaciones sin servicio a mediodía",
+      "estado": "Reporte de las 7:00: obstrucción de carril en UPIICSA (L2) e intervenciones en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6); líneas 1, 5 y 7 regulares (Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "AICM: vuelos hacia y desde EU con afectaciones por la suspensión de despegues de la FAA; confirme con su aerolínea. En la ciudad, protestas de repartidores durante el día (UnoTV, Proceso)",
+      "estado": "AICM: tras la falla del control aéreo de EU, la operación se normaliza de forma gradual; confirme su vuelo con la aerolínea. Semovi sin trámites de licencias y control vehicular del 14 al 17 (Infobae, Uno TV)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "azul",
-    "color": "#1f5fbf",
-    "placas": "terminación 9 y 0 (hologramas 1 y 2), de 5:00 a 22:00 h"
+    "engomado": "cualquier color con holograma 2, holograma 1 con placa par y placas foráneas",
+    "color": "#6b7280",
+    "placas": "holograma 1 con terminación 0, 2, 4, 6 y 8, todos los holograma 2 y foráneos, de 5:00 a 22:00"
   },
   "marchas": [
     {
-      "hora": "6:30",
-      "texto": "Luciérnagas Buscadoras se reúnen en Metro Chabacano y Ermita para ir a una búsqueda en Huitzilac, Morelos"
-    },
-    {
-      "hora": "8:00",
-      "texto": "Jubilados Pie de Lucha frente a la Suprema Corte (Centro) por amparos sobre ahorros de Afores; la SSC no descarta plantón"
-    },
-    {
-      "hora": "8:30",
-      "texto": "Haciendo Comunidad en Tlalpan marcha de la col. Isidro Fabela a la Casa de la Cultura de Tlalpan"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Antorcha Campesina de Tláhuac en la Secretaría de Gobierno capitalina por el predio Los Pozos"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Caminata de La Comuna 4:20 de Metro Hidalgo a la Plaza Cándido Mayo (col. Obrera); concentración en Cuajimalpa por el Refugio Franciscano"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Repartidores bloquean de forma intermitente Reforma, Insurgentes, Tlalpan, Bucareli y Río Churubusco; estudiantes del CCH Vallejo marchan en CU a Rectoría; trabajadores del IMSS en la Delegación Sur (Narvarte)"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Caminata y velada del Ángel de la Independencia a la Estela de Luz"
+      "hora": "15:00",
+      "texto": "Noche de las Estrellas en Las Islas de CU (hasta las 22:00) y en el Museo de Historia Natural de Chapultepec (18:00 a 21:30); afluencia en la zona"
     },
     {
       "hora": "20:00",
-      "texto": "Rodada motociclista de Canal de Garay (Iztapalapa) al centro de Coyoacán"
+      "texto": "Concierto gratuito de Garbage en el Zócalo; se esperan cierres en el Centro Histórico. La agenda de movilizaciones de la SSC para hoy no estaba publicada al corte"
     }
   ]
 }
