@@ -1,11 +1,11 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 22,
     "min": 12,
-    "texto": "Mañana nublada con niebla y ambiente frío; por la tarde, chubascos con posibles descargas eléctricas y rachas de hasta 40 km/h. Mínima de 12 a 14 °C y máxima de 20 a 22 °C (SMN / SGIRPC, vía Uno TV).",
+    "texto": "Viernes con chubascos aislados por la tarde y rachas de hasta 40 km/h; máxima de 20 a 22 °C. El sábado será el día más frío del megapuente: mínimas de 6 °C en Tlalpan y de hasta 10 °C en 14 alcaldías, con máximas de 20 a 22 °C (SMN, vía Infobae).",
     "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; Tlalpan y Álvaro Obregón en aceptable y el resto de las estaciones en buena (vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició servicio a las 5:00 en todas las estaciones (vía Infobae)",
+      "estado": "Servicio en todas las estaciones; durante el Buen Fin cierra a las 24:00. Sábado abre a las 6:00, domingo y lunes a las 7:00 (N+)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició servicio a las 4:30; sin cierres reportados en el primer corte (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Servicio regular desde las 4:30; Infobae reportó algunas estaciones sin servicio a mediodía",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Desde las 12:00, cierres intermitentes de 20 a 30 min por repartidores en Reforma, Insurgentes, Calzada de Tlalpan, Bucareli y Río Churubusco; posibles cierres en Insurgentes Sur por la marcha del CCH Vallejo (N+, Infobae)",
+      "estado": "AICM: vuelos hacia y desde EU con afectaciones por la suspensión de despegues de la FAA; confirme con su aerolínea. En la ciudad, protestas de repartidores durante el día (UnoTV, Proceso)",
       "nivel": "warn"
     }
   ],
