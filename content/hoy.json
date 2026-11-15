@@ -1,12 +1,12 @@
 {
-  "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Domingo 15 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
-    "ahora": 10,
+    "ahora": 11,
     "max": 25,
-    "min": 9,
-    "texto": "Mañana fría con mínima de 9 a 11 °C y tarde templada con máxima de 23 a 25 °C; sin lluvias previstas en la capital y rachas del oeste de hasta 40 km/h (SMN, vía Uno TV).",
-    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; Azcapotzalco e Iztapalapa en aceptable y el resto de las estaciones en buena (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "min": 11,
+    "texto": "Mañana fría con niebla, mínima de 11 a 13 °C y tarde templada de 23 a 25 °C; sin lluvia y rachas de hasta 35 km/h (SMN, vía Uno TV). Alerta amarilla por frío de 4 a 6 °C hasta las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC).",
+    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; GAM, Nezahualcóyotl y Coacalco en aceptable y el resto de las estaciones en buena (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,41 +16,41 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Servicio hasta las 24:00 por el Buen Fin; domingo 15 y lunes 16 (descanso por la Revolución) abre a las 7:00 (Claro Sports)",
+      "estado": "Domingo 15 y lunes 16 (descanso por la Revolución): servicio de 7:00 a 24:00 en las 12 líneas (Crónica)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Corte del mediodía: obstrucción de carril en UPIICSA (L2) e intervenciones en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6), cerrada hasta el domingo; líneas 1, 5 y 7 regulares (Infobae, Claro Sports)",
+      "estado": "Posibles afectaciones en el Centro y en avenida Juárez por la marcha de la Generación Z del Monumento a la Revolución al Zócalo (hora sin confirmar); consulte las cuentas oficiales",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Afluencia en el Zócalo por el concierto de Garbage (20:00) y en el Estadio GNP por Karol G. AICM: operación normalizada tras la falla del control aéreo de EU; confirme su vuelo (Infobae, AFAC)",
+      "estado": "Vallas metálicas en calles del Centro Histórico como 5 de Mayo e Isabel la Católica; la SSC prevé una marcha, ocho concentraciones y rodadas en la alcaldía Cuauhtémoc (Excélsior, N+)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "cualquier color con holograma 2, holograma 1 con placa par y placas foráneas",
-    "color": "#6b7280",
-    "placas": "holograma 1 con terminación 0, 2, 4, 6 y 8, todos los holograma 2 y foráneos, de 5:00 a 22:00"
+    "engomado": "Domingo: circulan todos los vehículos",
+    "color": "#16a34a",
+    "placas": "Sin restricción en la CDMX y el Edomex"
   },
   "marchas": [
     {
-      "hora": "12:00",
-      "texto": "Marcha contra el especismo desde el Ángel de la Independencia; unas 250 personas, destino por definir (SSC, vía La Razón)"
+      "hora": "Por confirmar",
+      "texto": "Marcha de la Generación Z del Monumento a la Revolución al Zócalo contra la violencia, la inseguridad y la corrupción (Uno TV, Excélsior)"
     },
     {
-      "hora": "16:00",
-      "texto": "Tendedero de denuncias sobre la ley de rentas en la Fuente de los Cántaros, Parque México (SSC)"
+      "hora": "Todo el día",
+      "texto": "La SSC prevé una marcha, ocho concentraciones, dos rodadas motociclistas y tres ciclistas, sobre todo en la alcaldía Cuauhtémoc (N+)"
     },
     {
-      "hora": "20:00",
-      "texto": "Concierto gratuito de Garbage en el Zócalo; Noche de las Estrellas en CU (hasta las 22:00) y Chapultepec (hasta las 21:30)"
+      "hora": "Mañana",
+      "texto": "Alerta amarilla por frío hasta las 8:00 en seis alcaldías del sur y poniente; abríguese si sale temprano (SGIRPC)"
     }
   ]
 }
