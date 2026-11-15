@@ -1,6 +1,6 @@
 {
   "fecha": "Sábado 14 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:30 h",
   "clima": {
     "ahora": 10,
     "max": 25,
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Servicio de 6:00 a 24:00 por el Buen Fin; domingo y lunes 16 abre a las 7:00 (N+)",
+      "estado": "Servicio hasta las 24:00 por el Buen Fin; domingo 15 y lunes 16 (descanso por la Revolución) abre a las 7:00 (Claro Sports)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Reporte de las 7:00: obstrucción de carril en UPIICSA (L2) e intervenciones en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6); líneas 1, 5 y 7 regulares (Infobae)",
+      "estado": "Corte del mediodía: obstrucción de carril en UPIICSA (L2) e intervenciones en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6), cerrada hasta el domingo; líneas 1, 5 y 7 regulares (Infobae, Claro Sports)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "AICM: tras la falla del control aéreo de EU, la operación se normaliza de forma gradual; confirme su vuelo con la aerolínea. Semovi sin trámites de licencias y control vehicular del 14 al 17 (Infobae, Uno TV)",
+      "estado": "Afluencia en el Zócalo por el concierto de Garbage (20:00) y en el Estadio GNP por Karol G. AICM: operación normalizada tras la falla del control aéreo de EU; confirme su vuelo (Infobae, AFAC)",
       "nivel": "warn"
     }
   ],
@@ -41,12 +41,16 @@
   },
   "marchas": [
     {
-      "hora": "15:00",
-      "texto": "Noche de las Estrellas en Las Islas de CU (hasta las 22:00) y en el Museo de Historia Natural de Chapultepec (18:00 a 21:30); afluencia en la zona"
+      "hora": "12:00",
+      "texto": "Marcha contra el especismo desde el Ángel de la Independencia; unas 250 personas, destino por definir (SSC, vía La Razón)"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Tendedero de denuncias sobre la ley de rentas en la Fuente de los Cántaros, Parque México (SSC)"
     },
     {
       "hora": "20:00",
-      "texto": "Concierto gratuito de Garbage en el Zócalo; se esperan cierres en el Centro Histórico. La agenda de movilizaciones de la SSC para hoy no estaba publicada al corte"
+      "texto": "Concierto gratuito de Garbage en el Zócalo; Noche de las Estrellas en CU (hasta las 22:00) y Chapultepec (hasta las 21:30)"
     }
   ]
 }
