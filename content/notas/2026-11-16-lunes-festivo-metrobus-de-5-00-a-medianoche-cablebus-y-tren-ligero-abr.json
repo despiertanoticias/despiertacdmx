@@ -1,0 +1,18 @@
+{
+  "titulo": "Lunes festivo: Metrobús de 5:00 a medianoche; Cablebús y Tren Ligero abren a las 7:00",
+  "seccion": "ciudad",
+  "fecha": "2026-11-16T06:36",
+  "resumen": "Por el día de descanso, la Semovi informó que el Metrobús opera de 5:00 a 00:00 horas en todas sus líneas y el Metro de 7:00 a 24:00. El Trolebús da servicio de 5:00 a 00:00 en las líneas 0, 1, 10, 11 y 13, y de 6:00 a 23:30 en la mayoría de las demás; el Tren Ligero corre de 7:00 a 23:30, el Cablebús de 7:00 a 23:00 y Ecobici de 5:00 a 00:30.",
+  "cuerpo": "",
+  "imagen_tema": "metrobus",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/16/que-horarios-tendran-el-metro-cdmx-metrobus-cablebus-trolebus-y-demas-transporte-el-lunes-16-de-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

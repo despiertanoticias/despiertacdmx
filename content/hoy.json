@@ -1,13 +1,13 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 11,
-    "max": 25,
-    "min": 11,
-    "texto": "Tarde templada y parcialmente nublada, máxima de 23 a 25 °C; mínima de 11 a 13 °C. Viento de 10 a 20 km/h con rachas de hasta 35 km/h; el SMN no descarta chubascos aislados por la tarde (Uno TV, Infobae).",
-    "aire": "Reporte de las 15:00 h: mala, riesgo alto, en la CDMX y el Edomex; peores registros en Azcapotzalco, Miguel Hidalgo, Atizapán, Cuautitlán Izcalli, Naucalpan y Tultitlán (vía Infobae)",
-    "aire_estado": "warn",
+    "max": 24,
+    "min": 9,
+    "texto": "Mañana fría y nublada con niebla, mínima de 9 a 11 °C; alerta amarilla de 4:00 a 8:00 h en Milpa Alta, Tlalpan y Xochimilco (4 a 6 °C). Tarde con máxima de 22 a 24 °C, lluvias aisladas y viento del norte con rachas de hasta 40 km/h (SGIRPC, vía Publimetro y Uno TV).",
+    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; solo Azcapotzalco fuera del rango bueno (vía Infobae)",
+    "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,41 +16,41 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Estación Zócalo/Tenochtitlan (Línea 2) cerrada hasta nuevo aviso; use Pino Suárez, Allende, San Juan de Letrán o Bellas Artes. Lunes 16: servicio de 7:00 a 24:00 (STC, vía Infobae y Crónica)",
+      "estado": "Horario de día festivo: de 7:00 a 24:00 h. La estación Zócalo/Tenochtitlan (Línea 2) sigue cerrada hasta nuevo aviso (Semovi y STC, vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Retrasos en líneas 1 y 2; trabajos en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6); eventos temporales en L7 entre Chapultepec y Alameda Tacubaya; L5 normal (vía Infobae)",
-      "nivel": "warn"
+      "estado": "Todas las líneas de 5:00 a 00:00 h por el día festivo; Trolebús, Tren Ligero y Cablebús con horario especial (Semovi, vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Periférico, Reforma e Insurgentes ya reabiertos tras L'Étape CDMX; la marcha de la Generación Z concluyó sin incidentes en el Zócalo (Merca2.0, Crónica)",
+      "estado": "Lunes festivo; verificentros cerrados hasta el martes 17 (Sedema)",
       "nivel": "ok"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Domingo: circulan todos los vehículos",
-    "color": "#16a34a",
-    "placas": "Lunes 16: no circulan engomado amarillo, placas 5 y 6 (holograma 1 y 2), de 5:00 a 22:00 (vía Infobae)"
+    "engomado": "Engomado amarillo",
+    "color": "#eab308",
+    "placas": "Hoy lunes no circulan placas terminadas en 5 y 6 (holograma 1 y 2), de 5:00 a 22:00 h (vía Uno TV y Milenio)"
   },
   "marchas": [
     {
       "hora": "11:00",
-      "texto": "Concluyó sin incidentes la marcha de la Generación Z del Monumento a la Revolución al Zócalo, con unas 120 personas (SECGOB, vía Crónica)"
+      "texto": "Domingo 15: Concluyó sin incidentes la marcha de la Generación Z del Monumento a la Revolución al Zócalo, con unas 120 personas (SECGOB, vía Crónica)"
     },
     {
       "hora": "16:00",
-      "texto": "Asamblea contra el Plan General de Desarrollo en la Fuente de los Cántaros, Parque México, Cuauhtémoc (SSC, vía Infobae)"
+      "texto": "Domingo 15: Asamblea contra el Plan General de Desarrollo en la Fuente de los Cántaros, Parque México, Cuauhtémoc (SSC, vía Infobae)"
     },
     {
       "hora": "20:00",
-      "texto": "Reunión de club motociclista en Bodega Aurrera Alta Tensión, Álvaro Obregón; además, dos rodadas motociclistas (SSC, vía Infobae)"
+      "texto": "Domingo 15: Reunión de club motociclista en Bodega Aurrera Alta Tensión, Álvaro Obregón; además, dos rodadas motociclistas (SSC, vía Infobae)"
     }
   ]
 }

@@ -1,0 +1,22 @@
+{
+  "titulo": "Alerta amarilla por frío en Milpa Alta, Tlalpan y Xochimilco; por la tarde, hasta 24 grados y lluvias aisladas",
+  "seccion": "ciudad",
+  "fecha": "2026-11-16T06:39",
+  "resumen": "La Secretaría de Gestión Integral de Riesgos y Protección Civil activó la alerta amarilla de 4:00 a 8:00 horas de este lunes por temperaturas de 4 a 6 grados en esas tres alcaldías. Para el resto de la ciudad se esperan mínimas de 9 a 11 grados con niebla, máximas de 22 a 24 por la tarde, cielo mayormente nublado con lluvias aisladas y viento del norte de 10 a 20 km/h con rachas de hasta 40 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/11/16/activan-alerta-amarilla-por-frio-en-cdmx-tres-alcaldias-llegaran-a-4-grados/"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/clima-cdmx-lluvias-16-noviembre/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
