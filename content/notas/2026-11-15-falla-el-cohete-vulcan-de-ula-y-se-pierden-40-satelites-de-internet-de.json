@@ -1,0 +1,18 @@
+{
+  "titulo": "Falla el cohete Vulcan de ULA y se pierden 40 satélites de internet de Amazon Leo",
+  "seccion": "tecnologia",
+  "fecha": "2026-11-15T18:27",
+  "resumen": "El cohete despegó a las 12:40 (hora local) de Cabo Cañaveral, Florida, y unos 10 minutos después sufrió una anomalía que impidió poner en órbita los 40 satélites. Medios especializados señalan que es el primer lanzamiento fallido de United Launch Alliance, empresa de Boeing y Lockheed Martin, desde 2006. La compañía dijo que aún no conoce la causa; Amazon tiene contratados 38 vuelos del Vulcan para su red que compite con Starlink.",
+  "cuerpo": "",
+  "imagen_tema": "tech",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "El Tiempo",
+      "enlace": "https://www.eltiempo.com/mundo/eeuu-y-canada/desastre-espacial-en-ee-uu-fallo-durante-el-lanzamiento-del-cohete-vulcan-provoca-la-destruccion-de-40-satelites-de-internet-de-amazon-leo-3601316"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

@@ -1,13 +1,13 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 11,
     "max": 25,
     "min": 11,
-    "texto": "Mañana fría con niebla, mínima de 11 a 13 °C y tarde templada de 23 a 25 °C; sin lluvia y rachas de hasta 35 km/h (SMN, vía Uno TV). Alerta amarilla por frío de 4 a 6 °C hasta las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC).",
-    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; GAM, Nezahualcóyotl y Coacalco en aceptable y el resto de las estaciones en buena (Dirección de Monitoreo Atmosférico, vía Infobae)",
-    "aire_estado": "ok",
+    "texto": "Tarde templada y parcialmente nublada, máxima de 23 a 25 °C; mínima de 11 a 13 °C. Viento de 10 a 20 km/h con rachas de hasta 35 km/h; el SMN no descarta chubascos aislados por la tarde (Uno TV, Infobae).",
+    "aire": "Reporte de las 15:00 h: mala, riesgo alto, en la CDMX y el Edomex; peores registros en Azcapotzalco, Miguel Hidalgo, Atizapán, Cuautitlán Izcalli, Naucalpan y Tultitlán (vía Infobae)",
+    "aire_estado": "warn",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,41 +16,41 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Domingo 15 y lunes 16 (descanso por la Revolución): servicio de 7:00 a 24:00 en las 12 líneas (Crónica)",
-      "nivel": "ok"
+      "estado": "Estación Zócalo/Tenochtitlan (Línea 2) cerrada hasta nuevo aviso; use Pino Suárez, Allende, San Juan de Letrán o Bellas Artes. Lunes 16: servicio de 7:00 a 24:00 (STC, vía Infobae y Crónica)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Posibles afectaciones en el Centro y en avenida Juárez por la marcha de la Generación Z del Monumento a la Revolución al Zócalo (hora sin confirmar); consulte las cuentas oficiales",
+      "estado": "Retrasos en líneas 1 y 2; trabajos en Canela (L3), Doctor Márquez (L4) y Gran Canal (L6); eventos temporales en L7 entre Chapultepec y Alameda Tacubaya; L5 normal (vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Vallas metálicas en calles del Centro Histórico como 5 de Mayo e Isabel la Católica; la SSC prevé una marcha, ocho concentraciones y rodadas en la alcaldía Cuauhtémoc (Excélsior, N+)",
-      "nivel": "warn"
+      "estado": "Periférico, Reforma e Insurgentes ya reabiertos tras L'Étape CDMX; la marcha de la Generación Z concluyó sin incidentes en el Zócalo (Merca2.0, Crónica)",
+      "nivel": "ok"
     }
   ],
   "hoy_no_circula": {
     "engomado": "Domingo: circulan todos los vehículos",
     "color": "#16a34a",
-    "placas": "Sin restricción en la CDMX y el Edomex"
+    "placas": "Lunes 16: no circulan engomado amarillo, placas 5 y 6 (holograma 1 y 2), de 5:00 a 22:00 (vía Infobae)"
   },
   "marchas": [
     {
-      "hora": "Por confirmar",
-      "texto": "Marcha de la Generación Z del Monumento a la Revolución al Zócalo contra la violencia, la inseguridad y la corrupción (Uno TV, Excélsior)"
+      "hora": "11:00",
+      "texto": "Concluyó sin incidentes la marcha de la Generación Z del Monumento a la Revolución al Zócalo, con unas 120 personas (SECGOB, vía Crónica)"
     },
     {
-      "hora": "Todo el día",
-      "texto": "La SSC prevé una marcha, ocho concentraciones, dos rodadas motociclistas y tres ciclistas, sobre todo en la alcaldía Cuauhtémoc (N+)"
+      "hora": "16:00",
+      "texto": "Asamblea contra el Plan General de Desarrollo en la Fuente de los Cántaros, Parque México, Cuauhtémoc (SSC, vía Infobae)"
     },
     {
-      "hora": "Mañana",
-      "texto": "Alerta amarilla por frío hasta las 8:00 en seis alcaldías del sur y poniente; abríguese si sale temprano (SGIRPC)"
+      "hora": "20:00",
+      "texto": "Reunión de club motociclista en Bodega Aurrera Alta Tensión, Álvaro Obregón; además, dos rodadas motociclistas (SSC, vía Infobae)"
     }
   ]
 }
