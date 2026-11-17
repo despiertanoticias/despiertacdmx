@@ -1,13 +1,13 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:45 h",
   "clima": {
     "ahora": 11,
     "max": 24,
     "min": 9,
-    "texto": "Mañana fría y nublada con niebla, mínima de 9 a 11 °C; alerta amarilla de 4:00 a 8:00 h en Milpa Alta, Tlalpan y Xochimilco (4 a 6 °C). Tarde con máxima de 22 a 24 °C, lluvias aisladas y viento del norte con rachas de hasta 40 km/h (SGIRPC, vía Publimetro y Uno TV).",
-    "aire": "Reporte de las 5:00 h: aceptable, riesgo moderado, en la CDMX y el Edomex; solo Azcapotzalco fuera del rango bueno (vía Infobae)",
-    "aire_estado": "ok",
+    "texto": "Lunes frío por la mañana, con alerta amarilla en Milpa Alta, Tlalpan y Xochimilco; máxima de 22 a 24 °C por la tarde. En las zonas serranas se esperan mínimas de 0 a 5 °C en las madrugadas del martes 17 al jueves 19 (SGIRPC y SMN, vía Infobae).",
+    "aire": "Corte de las 15:00 h: mala en la CDMX y el Edomex, riesgo alto; Ajusco Medio (Tlalpan) y Tláhuac con los peores registros (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,41 +16,41 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Horario de día festivo: de 7:00 a 24:00 h. La estación Zócalo/Tenochtitlan (Línea 2) sigue cerrada hasta nuevo aviso (Semovi y STC, vía Infobae)",
-      "nivel": "warn"
+      "estado": "Horario de día festivo, de 7:00 a 24:00 h. La estación Zócalo/Tenochtitlan reabrió y la Línea 2 opera con normalidad (reporte de las 13:17 h, vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Todas las líneas de 5:00 a 00:00 h por el día festivo; Trolebús, Tren Ligero y Cablebús con horario especial (Semovi, vía Infobae)",
+      "estado": "Servicio especial de día festivo, de 5:00 a 00:00 h, sin incidentes reportados (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Lunes festivo; verificentros cerrados hasta el martes 17 (Sedema)",
+      "estado": "Lunes festivo; sin bloqueos reportados. Verificentros reabren el martes 17 (Sedema)",
       "nivel": "ok"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado amarillo",
-    "color": "#eab308",
-    "placas": "Hoy lunes no circulan placas terminadas en 5 y 6 (holograma 1 y 2), de 5:00 a 22:00 h (vía Uno TV y Milenio)"
+    "engomado": "Engomado rosa (martes 17)",
+    "color": "#ec4899",
+    "placas": "Hoy lunes no circularon placas 5 y 6 (engomado amarillo). Mañana martes 17 no circulan placas terminadas en 7 y 8, holograma 1 y 2, de 5:00 a 22:00 h (vía UnoTV e Infobae)"
   },
   "marchas": [
     {
+      "hora": "07:00",
+      "texto": "Concentración del Movimiento Estudiantil UAM-I, unas 50 personas, en la UAM Iztapalapa (SSC, vía UnoTV)"
+    },
+    {
       "hora": "11:00",
-      "texto": "Domingo 15: Concluyó sin incidentes la marcha de la Generación Z del Monumento a la Revolución al Zócalo, con unas 120 personas (SECGOB, vía Crónica)"
+      "texto": "Día Nacional de Oración por México en el Monumento a la Revolución, hasta 5 mil asistentes (SSC, vía Infobae)"
     },
     {
-      "hora": "16:00",
-      "texto": "Domingo 15: Asamblea contra el Plan General de Desarrollo en la Fuente de los Cántaros, Parque México, Cuauhtémoc (SSC, vía Infobae)"
-    },
-    {
-      "hora": "20:00",
-      "texto": "Domingo 15: Reunión de club motociclista en Bodega Aurrera Alta Tensión, Álvaro Obregón; además, dos rodadas motociclistas (SSC, vía Infobae)"
+      "hora": "12:00",
+      "texto": "Concentración en solidaridad con Palestina en la Plaza de la República, unas 150 personas; siguen 20 plantones (SSC, vía UnoTV)"
     }
   ]
 }
