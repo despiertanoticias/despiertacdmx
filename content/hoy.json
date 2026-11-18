@@ -1,11 +1,11 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "06:30 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 11,
-    "max": 23,
-    "min": 4,
-    "texto": "Martes frío al amanecer, con alerta amarilla de 0:00 a 7:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (4 a 6 °C). Por la tarde, máxima de 21 a 23 °C y 60% de probabilidad de lluvias aisladas (SGIRPC y SMN, vía N+ y UnoTV).",
+    "max": 21,
+    "min": 11,
+    "texto": "Martes con máxima cercana a 21 °C, cielo mayormente nublado y 9% de probabilidad de lluvia (vía Infobae). Para el miércoles 18, alerta amarilla por frío de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C, y lluvias aisladas por el frente frío (SGIRPC y SMN, vía Crónica).",
     "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado; Ajusco Medio, Benito Juárez, Camarones, Coyoacán, Santa Catarina y UAM Iztapalapa con las lecturas más altas (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,49 +16,49 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Último día del horario del Buen Fin, de 5:00 a 24:00 h; inició operaciones con normalidad (vía N+ e Infobae)",
+      "estado": "Opera con normalidad; el Metro y el Metrobús iniciaron el día sin incidentes, último día del horario del Buen Fin (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició operaciones con normalidad, sin incidentes reportados (vía Infobae)",
+      "estado": "Servicio normal en sus siete líneas, sin incidentes reportados (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha de electricistas de la Estela de Luz a la CFE (9:00 h) y de la UGTM de Fray Servando al Zócalo (16:30 h); verificentros reabren hoy (SinEmbargo, Sedema)",
+      "estado": "Esta noche: Karol G en el Estadio GNP (21:00), Morat en el Palacio de los Deportes (20:00) y Jerry Rivera en el Auditorio Nacional (20:30) (agenda de la SSC, vía UnoTV)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado rosa (martes 17)",
-    "color": "#ec4899",
-    "placas": "Hoy martes no circulan placas terminadas en 7 y 8, holograma 1 y 2, de 5:00 a 22:00 h. Mañana miércoles 18 descansa el engomado rojo (placas 3 y 4) (vía UnoTV y Expansión)"
+    "engomado": "Engomado rojo (miércoles 18)",
+    "color": "#dc2626",
+    "placas": "Mañana miércoles 18 no circulan placas terminadas en 3 y 4, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Infobae)"
   },
   "marchas": [
     {
-      "hora": "09:00",
-      "texto": "Movimiento Nacional del Sector Eléctrico marcha de la Estela de Luz a la CFE (Río Ródano 14) por sus pensiones (vía SinEmbargo)"
+      "hora": "08:30",
+      "texto": "Trabajadores del IMSS se concentraron frente al Senado por democracia sindical, unas 100 personas (SSC, vía UnoTV)"
     },
     {
-      "hora": "11:00",
-      "texto": "Asamblea vecinal contra megaconstrucciones bajo el puente del Estadio Azteca, Calzada de Tlalpan, unas 100 personas (SSC, vía UnoTV)"
+      "hora": "09:00",
+      "texto": "Movimiento Nacional del Sector Eléctrico marchó de la Estela de Luz a la CFE por sus pensiones; sindicato del Metro en Gobernación (SSC, vía UnoTV)"
     },
     {
       "hora": "13:00",
-      "texto": "Mitin de la Coalición Estudiantil Interunidades de la UAM en la Rectoría General, Tlalpan (vía SinEmbargo)"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Concentración del Observatorio de Derechos Humanos de los Pueblos en el Consulado de Colombia, Reforma 379, unas 120 personas (SSC, vía UnoTV)"
+      "texto": "Colectivo Nuestra América marchó de la Facultad de Economía a la Rectoría de la UNAM; mitin de estudiantes de la UAM en su Rectoría (vía UnoTV)"
     },
     {
       "hora": "16:30",
-      "texto": "Unión General de Trabajadores de México marcha de Fray Servando Teresa de Mier 77 al Zócalo (vía SinEmbargo)"
+      "texto": "Unión General de Trabajadores de México, de Fray Servando Teresa de Mier al Zócalo, unas 90 personas (vía UnoTV)"
+    },
+    {
+      "hora": "17:00",
+      "texto": "Colectivos ciclistas se concentran en la Comisión de Derechos Humanos de la CDMX, Av. Universidad 1449 (SSC, vía UnoTV y El Gráfico)"
     }
   ]
 }
