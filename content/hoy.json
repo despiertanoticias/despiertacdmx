@@ -1,12 +1,12 @@
 {
-  "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Miércoles 18 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 11,
-    "max": 21,
-    "min": 11,
-    "texto": "Martes con máxima cercana a 21 °C, cielo mayormente nublado y 9% de probabilidad de lluvia (vía Infobae). Para el miércoles 18, alerta amarilla por frío de 3:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta y Tlalpan, con 4 a 6 °C, y lluvias aisladas por el frente frío (SGIRPC y SMN, vía Crónica).",
-    "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado; Ajusco Medio, Benito Juárez, Camarones, Coyoacán, Santa Catarina y UAM Iztapalapa con las lecturas más altas (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "max": 23,
+    "min": 10,
+    "texto": "Miércoles frío con bancos de niebla al amanecer, mínima de 10 a 12 °C y máxima de 21 a 23 °C; por la tarde, lluvias y chubascos de 5 a 25 mm y viento del norte con rachas de hasta 45 km/h. Posibles heladas en zonas altas del Valle de México (vía UnoTV).",
+    "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado para grupos sensibles; siete estaciones sin datos o en mantenimiento (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,7 +16,7 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Opera con normalidad; el Metro y el Metrobús iniciaron el día sin incidentes, último día del horario del Buen Fin (vía Infobae)",
+      "estado": "El Metro inició operaciones este miércoles sin incidentes reportados al arranque (vía Infobae)",
       "nivel": "ok"
     },
     {
@@ -30,35 +30,39 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Esta noche: Karol G en el Estadio GNP (21:00), Morat en el Palacio de los Deportes (20:00) y Jerry Rivera en el Auditorio Nacional (20:30) (agenda de la SSC, vía UnoTV)",
+      "estado": "Posibles afectaciones por movilizaciones en Iztacalco, Cuauhtémoc, Miguel Hidalgo, Iztapalapa y Azcapotzalco; marcha de Mottu por Río Churubusco al Zócalo a las 10:00 (SSC, vía Infobae)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
     "engomado": "Engomado rojo (miércoles 18)",
     "color": "#dc2626",
-    "placas": "Mañana miércoles 18 no circulan placas terminadas en 3 y 4, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Infobae)"
+    "placas": "Hoy no circulan placas terminadas en 3 y 4, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
   },
   "marchas": [
     {
-      "hora": "08:30",
-      "texto": "Trabajadores del IMSS se concentraron frente al Senado por democracia sindical, unas 100 personas (SSC, vía UnoTV)"
+      "hora": "07:00",
+      "texto": "Petroleros Unidos por México, frente a la Torre Ejecutiva de Pemex en Marina Nacional, por ajustes salariales y pensiones (SSC, vía SinEmbargo)"
     },
     {
       "hora": "09:00",
-      "texto": "Movimiento Nacional del Sector Eléctrico marchó de la Estela de Luz a la CFE por sus pensiones; sindicato del Metro en Gobernación (SSC, vía UnoTV)"
+      "texto": "Colectivos No Más Presos Inocentes y Las Tonantzin, en los Juzgados del Reclusorio Oriente, Iztapalapa (SSC, vía SinEmbargo)"
     },
     {
-      "hora": "13:00",
-      "texto": "Colectivo Nuestra América marchó de la Facultad de Economía a la Rectoría de la UNAM; mitin de estudiantes de la UAM en su Rectoría (vía UnoTV)"
+      "hora": "10:00",
+      "texto": "Marcha de Mottu México de la Alcaldía Iztacalco (Río Churubusco) al Zócalo, contra abusos de grúas y corralones (SSC, vía SinEmbargo)"
     },
     {
-      "hora": "16:30",
-      "texto": "Unión General de Trabajadores de México, de Fray Servando Teresa de Mier al Zócalo, unas 90 personas (vía UnoTV)"
+      "hora": "11:00",
+      "texto": "Alianza Nacional Telefonista, mitin frente a Telmex en Parque Vía 190; trabajadores de seguridad en el Parque de la Ciudadela (vía SinEmbargo)"
     },
     {
-      "hora": "17:00",
-      "texto": "Colectivos ciclistas se concentran en la Comisión de Derechos Humanos de la CDMX, Av. Universidad 1449 (SSC, vía UnoTV y El Gráfico)"
+      "hora": "14:00",
+      "texto": "Mazahuas de la Alameda en Diagonal 20 de Noviembre y colonos en la Secretaría de Vivienda, Luis Moya 87 (vía Infobae)"
+    },
+    {
+      "hora": "17:30",
+      "texto": "Comité Hasta Encontrarlos, mitin en la Secretaría de Gobernación, colonia Juárez (SSC, vía SinEmbargo)"
     }
   ]
 }
