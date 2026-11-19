@@ -1,11 +1,11 @@
 {
   "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 11,
     "max": 23,
     "min": 10,
-    "texto": "Miércoles frío con bancos de niebla al amanecer, mínima de 10 a 12 °C y máxima de 21 a 23 °C; por la tarde, lluvias y chubascos de 5 a 25 mm y viento del norte con rachas de hasta 45 km/h. Posibles heladas en zonas altas del Valle de México (vía UnoTV).",
+    "texto": "Miércoles frío con lluvias aisladas posibles por la noche. Para el jueves 19 el SMN prevé cielo nublado sin lluvia, mínima de 10 y máxima cercana a 21 °C; alerta amarilla por frío de 4 a 6 °C entre las 4:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía Publimetro y El Financiero).",
     "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado para grupos sensibles; siete estaciones sin datos o en mantenimiento (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
@@ -16,15 +16,15 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "El Metro inició operaciones este miércoles sin incidentes reportados al arranque (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Línea 12 suspendió servicio unos 20 minutos hacia las 8:40 h por una persona en vías y se reanudó cerca de las 9:00; Línea 3 con esperas de hasta 20 minutos por la mañana (vía N+)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició el día con servicio normal, sin incidentes reportados (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Corte de la tarde: Línea 3 afectada por una manifestación; obstrucción de carril en Chilpancingo (L1) e intervención en Poniente 128 (L4); demás líneas regulares (vía Infobae)",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
