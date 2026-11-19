@@ -1,12 +1,12 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Jueves 19 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 11,
     "max": 23,
-    "min": 10,
-    "texto": "Miércoles frío con lluvias aisladas posibles por la noche. Para el jueves 19 el SMN prevé cielo nublado sin lluvia, mínima de 10 y máxima cercana a 21 °C; alerta amarilla por frío de 4 a 6 °C entre las 4:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía Publimetro y El Financiero).",
-    "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado para grupos sensibles; siete estaciones sin datos o en mantenimiento (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "min": 11,
+    "texto": "Mañana fría y nublada con niebla en zonas altas; chubascos por la tarde (5 a 25 mm) y viento del norte con rachas de 30 km/h. Mínima de 11 a 13 y máxima de 21 a 23 °C. Alerta amarilla por frío de 4 a 6 °C entre las 4:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SMN y SGIRPC, vía N+).",
+    "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado para grupos sensibles; 14 de 16 estaciones capitalinas en nivel bueno, Cuajimalpa sin datos (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,53 +16,49 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Línea 12 suspendió servicio unos 20 minutos hacia las 8:40 h por una persona en vías y se reanudó cerca de las 9:00; Línea 3 con esperas de hasta 20 minutos por la mañana (vía N+)",
-      "nivel": "warn"
+      "estado": "Inició operaciones con normalidad este jueves; sin incidentes reportados al primer corte (vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Corte de la tarde: Línea 3 afectada por una manifestación; obstrucción de carril en Chilpancingo (L1) e intervención en Poniente 128 (L4); demás líneas regulares (vía Infobae)",
+      "estado": "Inició operaciones este jueves; sin afectaciones reportadas al primer corte. Posibles desvíos por el bloqueo en Insurgentes y Reforma desde las 9:30 (vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Posibles afectaciones por movilizaciones en Iztacalco, Cuauhtémoc, Miguel Hidalgo, Iztapalapa y Azcapotzalco; marcha de Mottu por Río Churubusco al Zócalo a las 10:00 (SSC, vía Infobae)",
+      "estado": "Bloqueo vecinal previsto en Insurgentes y Reforma (col. Juárez) desde las 9:00-9:30; cierre de la lateral de av. Universidad, alternativas Insurgentes y División del Norte; alcaldías más afectadas: Cuauhtémoc, Iztacalco, Miguel Hidalgo y Benito Juárez (vía Infobae y SinEmbargo)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado rojo (miércoles 18)",
-    "color": "#dc2626",
-    "placas": "Hoy no circulan placas terminadas en 3 y 4, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
+    "engomado": "Engomado verde (jueves 19)",
+    "color": "#16a34a",
+    "placas": "Hoy no circulan placas terminadas en 1 y 2, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
   },
   "marchas": [
     {
-      "hora": "07:00",
-      "texto": "Petroleros Unidos por México, frente a la Torre Ejecutiva de Pemex en Marina Nacional, por ajustes salariales y pensiones (SSC, vía SinEmbargo)"
+      "hora": "06:30",
+      "texto": "Colectivo Hasta Encontrarles, en Metro Chabacano, rumbo a una jornada de búsqueda en las Lagunas de Zempoala (SSC, vía SinEmbargo)"
     },
     {
       "hora": "09:00",
-      "texto": "Colectivos No Más Presos Inocentes y Las Tonantzin, en los Juzgados del Reclusorio Oriente, Iztapalapa (SSC, vía SinEmbargo)"
+      "texto": "Comité de Lucha contra el Plan General de Desarrollo: bloqueo en Insurgentes Sur y Paseo de la Reforma, col. Juárez; unas 150 personas (SSC, vía SinEmbargo)"
     },
     {
       "hora": "10:00",
-      "texto": "Marcha de Mottu México de la Alcaldía Iztacalco (Río Churubusco) al Zócalo, contra abusos de grúas y corralones (SSC, vía SinEmbargo)"
+      "texto": "Colectiva Somos Ellas pinta un mural contra la violencia sexual infantil frente a la Fiscalía CDMX, col. Doctores (SSC, vía SinEmbargo)"
     },
     {
-      "hora": "11:00",
-      "texto": "Alianza Nacional Telefonista, mitin frente a Telmex en Parque Vía 190; trabajadores de seguridad en el Parque de la Ciudadela (vía SinEmbargo)"
+      "hora": "12:00",
+      "texto": "Sorece A.C. en Metro Pino Suárez; a las 14:00 en el Kiosco Morisco, Santa María la Ribera (SSC, vía SinEmbargo)"
     },
     {
-      "hora": "14:00",
-      "texto": "Mazahuas de la Alameda en Diagonal 20 de Noviembre y colonos en la Secretaría de Vivienda, Luis Moya 87 (vía Infobae)"
-    },
-    {
-      "hora": "17:30",
-      "texto": "Comité Hasta Encontrarlos, mitin en la Secretaría de Gobernación, colonia Juárez (SSC, vía SinEmbargo)"
+      "hora": "13:00",
+      "texto": "Alianza Mexicana de Trabajadoras Sexuales en el Monumento a la Mexicanidad, Centro Histórico (SSC, vía SinEmbargo)"
     }
   ]
 }

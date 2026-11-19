@@ -1,0 +1,22 @@
+{
+  "titulo": "La Corte avala que las telefónicas guarden datos y den la geolocalización a autoridades sin orden judicial en emergencias",
+  "seccion": "nacional",
+  "fecha": "2026-11-19T06:23",
+  "resumen": "El pleno de la SCJN validó, al resolver un amparo, las reformas a la ley de telecomunicaciones de julio de 2025 que obligan a los concesionarios a conservar hasta dos años metadatos, registros de llamadas y ubicación de usuarios, y a entregarlos a autoridades de seguridad, incluso sin orden judicial cuando hay peligro para la vida. El proyecto fue de la ministra María Estela Ríos.",
+  "cuerpo": "",
+  "imagen_tema": "zocalo",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Excélsior",
+      "enlace": "https://www.excelsior.com.mx/nacional/scjn-valida-reforma-telecomunicaciones-datos-usuarios-geolocalizacion"
+    },
+    {
+      "medio": "La Silla Rota",
+      "enlace": "https://lasillarota.com/nacion/2026/11/17/scjn-avala-acceso-a-geolocalizacion-de-celulares-sin-orden-de-un-juez-536635.html"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
