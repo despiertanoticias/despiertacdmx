@@ -1,0 +1,22 @@
+{
+  "titulo": "Viernes de mañana fría y tarde templada en la CDMX; sin lluvia, pero con rachas de viento de hasta 40 km/h",
+  "seccion": "ciudad",
+  "fecha": "2026-11-20T06:32",
+  "resumen": "El Servicio Meteorológico Nacional prevé para la capital una mínima de 8 a 10 grados con bruma y una máxima de 23 a 25 grados por la tarde, sin lluvias. Habrá viento del norte y noreste de 10 a 20 km/h con rachas de hasta 40 km/h y bancos de niebla en las zonas altas del Valle de México; en las partes serranas la temperatura podría bajar a entre 0 y 5 grados.",
+  "cuerpo": "",
+  "imagen_tema": "centro",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/cdmx-tendra-manana-fria-y-tarde-calida-este-viernes-llovera/"
+    },
+    {
+      "medio": "Uno TV",
+      "enlace": "https://www.unotv.com/clima/lluvias-mexico-viernes-20-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}

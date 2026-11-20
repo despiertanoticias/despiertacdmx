@@ -1,13 +1,13 @@
 {
-  "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Viernes 20 de noviembre de 2026",
+  "actualizado": "06:20 h",
   "clima": {
-    "ahora": 11,
-    "max": 23,
-    "min": 11,
-    "texto": "Jueves con máxima de 21 a 23 °C y chubascos intermitentes por la tarde (SMN, vía Infobae). Para el viernes 20 se esperan mínima de 11 y máxima de 23 °C con cielo mayormente nublado (SMN, vía El Financiero), y alerta amarilla por frío de 4 a 6 °C entre las 2:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC, vía Diario de México).",
-    "aire": "Corte de las 15:00 h: calidad mala y riesgo alto para actividades al aire libre, sobre todo grupos sensibles; en nivel malo Ajusco Medio, Benito Juárez, Camarones y Pedregal; ninguna estación del Edomex en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
-    "aire_estado": "bad",
+    "ahora": 8,
+    "max": 25,
+    "min": 8,
+    "texto": "Mañana fría con bruma y mínima de 8 a 10 °C; por la tarde, máxima de 23 a 25 °C sin lluvia. Viento del norte y noreste de 10 a 20 km/h con rachas de hasta 40 km/h y niebla en zonas altas del Valle de México (SMN, vía Uno TV).",
+    "aire": "Corte de las 05:00 h: calidad aceptable y riesgo moderado en la CDMX y el Edomex; nueve estaciones capitalinas en nivel bueno, Merced en aceptable y ninguna en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,57 +16,61 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Por la mañana hubo desalojos y retrasos en las líneas A y B; el STC retiró un tren de la Línea A para revisión. Para el desfile del viernes no se anunciaron cierres de estaciones (vía Publimetro e Infobae)",
+      "estado": "Estación Zócalo/Tenochtitlan (Línea 2) cerrada desde el inicio del servicio y hasta nuevo aviso por el desfile; alternativas: Allende, Pino Suárez, San Juan de Letrán y Bellas Artes (vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Corte de la tarde: retrasos en las líneas 1 y 7 tras el bloqueo en Reforma e Insurgentes; congestión en la Línea 2 e intervenciones en Tlacotal (L3) y Poniente 128 (L4); líneas 5 y 6 regulares. El viernes, posibles desvíos en rutas que cruzan el Centro por el desfile (vía Infobae)",
+      "estado": "De 9:00 a 14:00, sin servicio en Hidalgo, Juárez y Balderas (L3); entre Plaza de la República y Pino Suárez y entre Buenavista y Bellas Artes (L4); y en Hidalgo, El Caballito y Amajac (L7). Mercados San Juan (L4) cerrada por mantenimiento (vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "El bloqueo de Reforma e Insurgentes terminó tras unas tres horas. Viernes 20: cierres escalonados por el desfile en el Zócalo, 5 de Mayo, Eje Central, Juárez, Reforma (El Caballito) y av. de la República; alternativas Eje 1 Norte, Circuito Interior, Izazaga, Fray Servando, Chapultepec, Eje 2 y Eje 3 Oriente (vía Infobae y Crónica)",
+      "estado": "Desfile desde las 10:00: cierres en Zócalo, 5 de Mayo, Eje Central, avenida Juárez, Paseo de la Reforma y avenida de la República hasta el Monumento a la Revolución; hasta 100 mil asistentes. Por la tarde, Corona Capital en el Autódromo Hermanos Rodríguez desde las 14:00 (vía La Razón e Infobae)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado verde (jueves 19)",
-    "color": "#16a34a",
-    "placas": "Hoy no circulan placas terminadas en 1 y 2, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
+    "engomado": "Engomado azul (viernes 20)",
+    "color": "#1f5fbf",
+    "placas": "Hoy no circulan placas terminadas en 9 y 0, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
   },
   "marchas": [
     {
       "hora": "06:30",
-      "texto": "Colectivo Hasta Encontrarles, en Metro Chabacano, rumbo a una jornada de búsqueda en las Lagunas de Zempoala (SSC, vía SinEmbargo)"
+      "texto": "Hasta Encontrarles CDMX, en Metro Chabacano"
     },
     {
-      "hora": "09:00",
-      "texto": "Comité de Lucha contra el Plan General de Desarrollo: bloqueo en Insurgentes Sur y Paseo de la Reforma, col. Juárez; unas 150 personas (SSC, vía SinEmbargo)"
+      "hora": "09:30",
+      "texto": "Freedom Souls-Kids & Paws, afuera de los Juzgados Penales, calle Doctor Lavista"
     },
     {
       "hora": "10:00",
-      "texto": "Colectiva Somos Ellas pinta un mural contra la violencia sexual infantil frente a la Fiscalía CDMX, col. Doctores (SSC, vía SinEmbargo)"
+      "texto": "Desfile cívico-militar del Zócalo al Monumento a la Revolución; Alianza Nacional Ciudadana Anticorrupción en el Monumento a la Revolución; trabajadores de PILARES en la Sectei, col. Florida"
     },
     {
-      "hora": "12:00",
-      "texto": "Sorece A.C. en Metro Pino Suárez; a las 14:00 en el Kiosco Morisco, Santa María la Ribera (SSC, vía SinEmbargo)"
+      "hora": "11:00",
+      "texto": "Bloque de Organizaciones Sociales en la Secretaría de Gobierno, Plaza de la Constitución; Justicia Histórica Trans en Metro Copilco"
     },
     {
-      "hora": "13:00",
-      "texto": "Alianza Mexicana de Trabajadoras Sexuales en el Monumento a la Mexicanidad, Centro Histórico (SSC, vía SinEmbargo)"
+      "hora": "15:00",
+      "texto": "Coalición Nacional de Trabajadores de la Salud, de Barranca del Muerto al IMSS-Bienestar en Gustavo E. Campa"
     },
     {
       "hora": "16:00",
-      "texto": "Evento Multiverso Nestlé en el Estadio Alfredo Harp Helú; aforo estimado de 35 mil personas (vía Infobae)"
+      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel (posibles bloqueos); comerciantes en el Mercado 204 de San Juan de Aragón"
+    },
+    {
+      "hora": "17:00",
+      "texto": "Vecinos en la sede de la alcaldía Tláhuac (posibles bloqueos); sindicatos cerca de Metro Juárez"
     },
     {
       "hora": "20:00",
-      "texto": "Concierto de Dimash en el Palacio de los Deportes; aforo estimado de 20 mil personas (vía Infobae)"
+      "texto": "Centro de Apoyo a las Identidades Trans en el Hemiciclo a Juárez (SSC, vía Infobae)"
     }
   ]
 }
