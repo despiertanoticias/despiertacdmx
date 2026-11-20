@@ -1,13 +1,13 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 11,
     "max": 23,
     "min": 11,
-    "texto": "Mañana fría y nublada con niebla en zonas altas; chubascos por la tarde (5 a 25 mm) y viento del norte con rachas de 30 km/h. Mínima de 11 a 13 y máxima de 21 a 23 °C. Alerta amarilla por frío de 4 a 6 °C entre las 4:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SMN y SGIRPC, vía N+).",
-    "aire": "Corte de las 05:00 h: aceptable en la CDMX y el Edomex, riesgo moderado para grupos sensibles; 14 de 16 estaciones capitalinas en nivel bueno, Cuajimalpa sin datos (Dirección de Monitoreo Atmosférico, vía Infobae)",
-    "aire_estado": "ok",
+    "texto": "Jueves con máxima de 21 a 23 °C y chubascos intermitentes por la tarde (SMN, vía Infobae). Para el viernes 20 se esperan mínima de 11 y máxima de 23 °C con cielo mayormente nublado (SMN, vía El Financiero), y alerta amarilla por frío de 4 a 6 °C entre las 2:00 y las 8:00 en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC, vía Diario de México).",
+    "aire": "Corte de las 15:00 h: calidad mala y riesgo alto para actividades al aire libre, sobre todo grupos sensibles; en nivel malo Ajusco Medio, Benito Juárez, Camarones y Pedregal; ninguna estación del Edomex en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones con normalidad este jueves; sin incidentes reportados al primer corte (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Por la mañana hubo desalojos y retrasos en las líneas A y B; el STC retiró un tren de la Línea A para revisión. Para el desfile del viernes no se anunciaron cierres de estaciones (vía Publimetro e Infobae)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició operaciones este jueves; sin afectaciones reportadas al primer corte. Posibles desvíos por el bloqueo en Insurgentes y Reforma desde las 9:30 (vía Infobae)",
+      "estado": "Corte de la tarde: retrasos en las líneas 1 y 7 tras el bloqueo en Reforma e Insurgentes; congestión en la Línea 2 e intervenciones en Tlacotal (L3) y Poniente 128 (L4); líneas 5 y 6 regulares. El viernes, posibles desvíos en rutas que cruzan el Centro por el desfile (vía Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Bloqueo vecinal previsto en Insurgentes y Reforma (col. Juárez) desde las 9:00-9:30; cierre de la lateral de av. Universidad, alternativas Insurgentes y División del Norte; alcaldías más afectadas: Cuauhtémoc, Iztacalco, Miguel Hidalgo y Benito Juárez (vía Infobae y SinEmbargo)",
+      "estado": "El bloqueo de Reforma e Insurgentes terminó tras unas tres horas. Viernes 20: cierres escalonados por el desfile en el Zócalo, 5 de Mayo, Eje Central, Juárez, Reforma (El Caballito) y av. de la República; alternativas Eje 1 Norte, Circuito Interior, Izazaga, Fray Servando, Chapultepec, Eje 2 y Eje 3 Oriente (vía Infobae y Crónica)",
       "nivel": "warn"
     }
   ],
@@ -59,6 +59,14 @@
     {
       "hora": "13:00",
       "texto": "Alianza Mexicana de Trabajadoras Sexuales en el Monumento a la Mexicanidad, Centro Histórico (SSC, vía SinEmbargo)"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Evento Multiverso Nestlé en el Estadio Alfredo Harp Helú; aforo estimado de 35 mil personas (vía Infobae)"
+    },
+    {
+      "hora": "20:00",
+      "texto": "Concierto de Dimash en el Palacio de los Deportes; aforo estimado de 20 mil personas (vía Infobae)"
     }
   ]
 }
