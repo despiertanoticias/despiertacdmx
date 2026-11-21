@@ -1,13 +1,13 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "06:20 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 8,
     "max": 25,
     "min": 8,
-    "texto": "Mañana fría con bruma y mínima de 8 a 10 °C; por la tarde, máxima de 23 a 25 °C sin lluvia. Viento del norte y noreste de 10 a 20 km/h con rachas de hasta 40 km/h y niebla en zonas altas del Valle de México (SMN, vía Uno TV).",
-    "aire": "Corte de las 05:00 h: calidad aceptable y riesgo moderado en la CDMX y el Edomex; nueve estaciones capitalinas en nivel bueno, Merced en aceptable y ninguna en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
-    "aire_estado": "ok",
+    "texto": "Tarde de medio nublado a nublado, sin lluvia y máxima de 23 a 25 °C; por la noche, de 13 a 15 °C. Alerta amarilla por frío de 3:00 a 8:00 del sábado 21, con 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía N+ y UnoTV).",
+    "aire": "Corte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; estaciones en nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, GAM, Venustiano Carranza, Álvaro Obregón e Iztapalapa (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,61 +16,45 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Estación Zócalo/Tenochtitlan (Línea 2) cerrada desde el inicio del servicio y hasta nuevo aviso por el desfile; alternativas: Allende, Pino Suárez, San Juan de Letrán y Bellas Artes (vía Infobae)",
+      "estado": "Infobae y El Heraldo reportan la reapertura de Zócalo/Tenochtitlan (L2) tras el desfile. Por el Corona Capital, las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30; estación más cercana: Ciudad Deportiva (L9). Por la mañana hubo alta afluencia en las líneas B y 3 (vía Expansión y Publimetro)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "De 9:00 a 14:00, sin servicio en Hidalgo, Juárez y Balderas (L3); entre Plaza de la República y Pino Suárez y entre Buenavista y Bellas Artes (L4); y en Hidalgo, El Caballito y Amajac (L7). Mercados San Juan (L4) cerrada por mantenimiento (vía Infobae)",
+      "estado": "Por la tarde, retrasos en las líneas 3 y 7, manifestación en Olivo (L1) y trabajos en Tlacotal (L2) y Poniente 128; Mercados San Juan (L4) sigue cerrada por mantenimiento. Líneas 1, 2 y 7 operan hasta la 1:00 (vía Infobae y Eje Central)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Desfile desde las 10:00: cierres en Zócalo, 5 de Mayo, Eje Central, avenida Juárez, Paseo de la Reforma y avenida de la República hasta el Monumento a la Revolución; hasta 100 mil asistentes. Por la tarde, Corona Capital en el Autódromo Hermanos Rodríguez desde las 14:00 (vía La Razón e Infobae)",
+      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez hasta el domingo, con 2 mil policías desplegados y unos 255 mil asistentes esperados en tres días (vía Diario de México y El Gráfico)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado azul (viernes 20)",
+    "engomado": "Sábado 21: holograma 2 y holograma 1 impar",
     "color": "#1f5fbf",
-    "placas": "Hoy no circulan placas terminadas en 9 y 0, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía Expansión)"
+    "placas": "Mañana sábado 21 no circulan todos los autos con holograma 2 ni los de holograma 1 con terminación impar (1, 3, 5, 7 y 9), de 5:00 a 22:00 h (vía El Financiero)"
   },
   "marchas": [
     {
-      "hora": "06:30",
-      "texto": "Hasta Encontrarles CDMX, en Metro Chabacano"
-    },
-    {
-      "hora": "09:30",
-      "texto": "Freedom Souls-Kids & Paws, afuera de los Juzgados Penales, calle Doctor Lavista"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Desfile cívico-militar del Zócalo al Monumento a la Revolución; Alianza Nacional Ciudadana Anticorrupción en el Monumento a la Revolución; trabajadores de PILARES en la Sectei, col. Florida"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Bloque de Organizaciones Sociales en la Secretaría de Gobierno, Plaza de la Constitución; Justicia Histórica Trans en Metro Copilco"
-    },
-    {
       "hora": "15:00",
-      "texto": "Coalición Nacional de Trabajadores de la Salud, de Barranca del Muerto al IMSS-Bienestar en Gustavo E. Campa"
+      "texto": "Coalición Nacional de Trabajadores de la Salud, de Metro Barranca del Muerto al IMSS-Bienestar en Gustavo E. Campa 54"
     },
     {
       "hora": "16:00",
-      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel (posibles bloqueos); comerciantes en el Mercado 204 de San Juan de Aragón"
+      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel (posibles bloqueos); comerciantes en el Mercado 204 San Juan de Aragón"
     },
     {
       "hora": "17:00",
-      "texto": "Vecinos en la sede de la alcaldía Tláhuac (posibles bloqueos); sindicatos cerca de Metro Juárez"
+      "texto": "Vecinos en la sede de la alcaldía Tláhuac (posibles bloqueos); Sindicatos Democráticos e Independientes en Metro Juárez"
     },
     {
       "hora": "20:00",
-      "texto": "Centro de Apoyo a las Identidades Trans en el Hemiciclo a Juárez (SSC, vía Infobae)"
+      "texto": "Centro de Apoyo a las Identidades Trans en el Hemiciclo a Juárez, por el Día de la Remembranza Trans (SSC, vía La Razón)"
     }
   ]
 }

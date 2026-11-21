@@ -1,0 +1,22 @@
+{
+  "titulo": "Viernes de retrasos en el transporte: alta afluencia en las líneas B y 3 del Metro y demoras en el Metrobús",
+  "seccion": "ciudad",
+  "fecha": "2026-11-20T18:24",
+  "resumen": "Por la mañana, el Metro reconoció alta afluencia en las líneas B y 3, mientras usuarios reportaron esperas de hasta 15 minutos en la Línea 7. Por la tarde, el Metrobús informó retrasos en las líneas 3 y 7, una manifestación en la estación Olivo de la Línea 1 y trabajos en Tlacotal y Poniente 128.",
+  "cuerpo": "",
+  "imagen_tema": "metrobus",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "Publimetro",
+      "enlace": "https://www.publimetro.com.mx/noticias/2026/11/20/metro-cdmx-hoy-20-de-noviembre-trenes-detenidos-desatan-enojo-en-lineas-b-y-7/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/20/metrobus-cdmx-estaciones-cerradas-en-esta-ultima-hora-del-20-de-noviembre/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
