@@ -1,12 +1,12 @@
 {
-  "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Sábado 21 de noviembre de 2026",
+  "actualizado": "06:45 h",
   "clima": {
     "ahora": 8,
     "max": 25,
     "min": 8,
-    "texto": "Tarde de medio nublado a nublado, sin lluvia y máxima de 23 a 25 °C; por la noche, de 13 a 15 °C. Alerta amarilla por frío de 3:00 a 8:00 del sábado 21, con 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía N+ y UnoTV).",
-    "aire": "Corte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; estaciones en nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, GAM, Venustiano Carranza, Álvaro Obregón e Iztapalapa (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "texto": "Mañana despejada con bruma y muy fría en zonas altas; tarde templada con 40% de probabilidad de lluvias aisladas y rachas de hasta 30 km/h; noche de 13 a 15 °C. Alerta amarilla por frío de 3:00 a 8:00, con 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SMN y SGIRPC, vía N+ y UnoTV).",
+    "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto; nivel malo en Gustavo A. Madero, Iztacalco e Iztapalapa, y en Tultitlán, Edomex (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,28 +16,28 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Infobae y El Heraldo reportan la reapertura de Zócalo/Tenochtitlan (L2) tras el desfile. Por el Corona Capital, las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30; estación más cercana: Ciudad Deportiva (L9). Por la mañana hubo alta afluencia en las líneas B y 3 (vía Expansión y Publimetro)",
+      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el Corona Capital (estaciones Ciudad Deportiva, Velódromo y Puebla, L9). La estación Zócalo/Tenochtitlan (L2) aparece cerrada hasta nuevo aviso en avisos recientes; alternativas: Pino Suárez y Allende (vía Dónde Ir e Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Por la tarde, retrasos en las líneas 3 y 7, manifestación en Olivo (L1) y trabajos en Tlacotal (L2) y Poniente 128; Mercados San Juan (L4) sigue cerrada por mantenimiento. Líneas 1, 2 y 7 operan hasta la 1:00 (vía Infobae y Eje Central)",
+      "estado": "Sin avisos específicos para el sábado al corte; el viernes, Mercados San Juan (L4) seguía sin servicio por mantenimiento (vía Infobae). El Aerotrén del AICM está suspendido; hay autobuses gratis entre T1 y T2 de 5:00 a 23:00 (vía La Silla Rota)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez hasta el domingo, con 2 mil policías desplegados y unos 255 mil asistentes esperados en tres días (vía Diario de México y El Gráfico)",
+      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez sábado y domingo; el viernes asistieron 72,344 personas (vía La Razón). Domingo: NFL 49ers-Vikings en el Estadio Banorte",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
     "engomado": "Sábado 21: holograma 2 y holograma 1 impar",
     "color": "#1f5fbf",
-    "placas": "Mañana sábado 21 no circulan todos los autos con holograma 2 ni los de holograma 1 con terminación impar (1, 3, 5, 7 y 9), de 5:00 a 22:00 h (vía El Financiero)"
+    "placas": "Hoy no circulan los autos con holograma 2 ni los de holograma 1 con terminación impar (1, 3, 5, 7 y 9), de 5:00 a 22:00 h (vía Telediario y UnoTV)"
   },
   "marchas": [
     {
