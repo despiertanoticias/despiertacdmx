@@ -1,12 +1,12 @@
 {
-  "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "18:27 h",
+  "fecha": "Domingo 22 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
     "ahora": 18,
-    "max": 23,
-    "min": 8,
-    "texto": "Tarde cálida y medio nublada, de 18 a 23 °C, con lluvias ligeras aisladas (0.1 a 5 mm) en la CDMX y el Edomex; viento de 5 a 20 km/h con rachas de hasta 35 km/h. Para las 6:00 del domingo se esperan 13 °C (SGIRPC, vía Infobae).",
-    "aire": "Reporte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, Coyoacán, GAM, Iztacalco, Venustiano Carranza, Miguel Hidalgo, Álvaro Obregón e Iztapalapa (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "max": 25,
+    "min": 10,
+    "texto": "Mañana nublada, con niebla y fría (10 a 12 °C); tarde de 23 a 25 °C con chubascos dispersos y posibles descargas eléctricas. Viento de 10 a 20 km/h con rachas de hasta 40 km/h (SMN, vía UnoTV). La SGIRPC reportó 18 °C y noche templada a fresca.",
+    "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; en la capital, seis estaciones en nivel bueno y ocho aceptable; Tultitlán (Edomex) en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,7 +16,7 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el Corona Capital. El Metro confirmó que Zócalo/Tenochtitlan (L2) está abierta y con servicio normal; en la L7 se reportó un tren con una puerta mal asegurada cerca de Polanco (vía TV Azteca y Publimetro)",
+      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el último día del Corona Capital (vía N+)",
       "nivel": "warn"
     },
     {
@@ -30,35 +30,19 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez (Twenty One Pilots cierra a la 1:00); Pumas-Monterrey a las 19:00 en CU; Carrera Nocturna en Chapultepec a las 18:00. Domingo: NFL 49ers-Vikings en el Estadio Banorte",
+      "estado": "Último día del Corona Capital en el Autódromo Hermanos Rodríguez; NFL 49ers-Vikings a las 19:20 en el Estadio Banorte (Calzada de Tlalpan), con 87 mil asistentes esperados y cierres viales en la zona (vía N+)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Sábado 21: holograma 2 y holograma 1 impar",
-    "color": "#1f5fbf",
-    "placas": "Hoy no circulan los autos con holograma 2 ni los de holograma 1 con terminación impar (1, 3, 5, 7 y 9), de 5:00 a 22:00 h (vía Telediario y UnoTV)"
+    "engomado": "Domingo 22: circulan todos",
+    "color": "#16a34a",
+    "placas": "Sin restricción: los domingos el Hoy No Circula no aplica, salvo contingencia ambiental (no hay contingencia activa)"
   },
   "marchas": [
     {
-      "hora": "08:00",
-      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel, contra viviendas del INVI"
-    },
-    {
-      "hora": "11:30",
-      "texto": "Abriendo Jaulas y Mentes frente al Zoológico de San Juan de Aragón, contra el cautiverio de animales"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Ollin Koatl en la Embajada de Honduras (Alfonso Reyes 220, Condesa)"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Comuneros de Eloxochitlán de Flores Magón frente a la Suprema Corte (Pino Suárez 2, Centro)"
-    },
-    {
-      "hora": "17:00",
-      "texto": "Anonymous for the Voiceless en el corredor Madero; 17:30, rodada de motociclistas desde el Monumento a la Revolución (SSC, vía Eje Central y La Razón)"
+      "hora": "—",
+      "texto": "La SSC no había publicado la agenda de movilizaciones del domingo al corte de esta actualización; consulta @SSC_CDMX antes de salir"
     }
   ]
 }
