@@ -1,12 +1,12 @@
 {
   "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "06:45 h",
+  "actualizado": "18:27 h",
   "clima": {
-    "ahora": 8,
-    "max": 25,
+    "ahora": 18,
+    "max": 23,
     "min": 8,
-    "texto": "Mañana despejada con bruma y muy fría en zonas altas; tarde templada con 40% de probabilidad de lluvias aisladas y rachas de hasta 30 km/h; noche de 13 a 15 °C. Alerta amarilla por frío de 3:00 a 8:00, con 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SMN y SGIRPC, vía N+ y UnoTV).",
-    "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto; nivel malo en Gustavo A. Madero, Iztacalco e Iztapalapa, y en Tultitlán, Edomex (vía Infobae)",
+    "texto": "Tarde cálida y medio nublada, de 18 a 23 °C, con lluvias ligeras aisladas (0.1 a 5 mm) en la CDMX y el Edomex; viento de 5 a 20 km/h con rachas de hasta 35 km/h. Para las 6:00 del domingo se esperan 13 °C (SGIRPC, vía Infobae).",
+    "aire": "Reporte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, Coyoacán, GAM, Iztacalco, Venustiano Carranza, Miguel Hidalgo, Álvaro Obregón e Iztapalapa (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el Corona Capital (estaciones Ciudad Deportiva, Velódromo y Puebla, L9). La estación Zócalo/Tenochtitlan (L2) aparece cerrada hasta nuevo aviso en avisos recientes; alternativas: Pino Suárez y Allende (vía Dónde Ir e Infobae)",
+      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el Corona Capital. El Metro confirmó que Zócalo/Tenochtitlan (L2) está abierta y con servicio normal; en la L7 se reportó un tren con una puerta mal asegurada cerca de Polanco (vía TV Azteca y Publimetro)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin avisos específicos para el sábado al corte; el viernes, Mercados San Juan (L4) seguía sin servicio por mantenimiento (vía Infobae). El Aerotrén del AICM está suspendido; hay autobuses gratis entre T1 y T2 de 5:00 a 23:00 (vía La Silla Rota)",
+      "estado": "Intervenciones en las estaciones La Bombilla (L1), Tlacotal (L2), Cuauhtémoc (L3) y Mercados de San Juan (L4); las líneas 5, 6 y 7 operan con normalidad (vía Infobae). Aerotrén del AICM suspendido, con autobuses gratis entre T1 y T2",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez sábado y domingo; el viernes asistieron 72,344 personas (vía La Razón). Domingo: NFL 49ers-Vikings en el Estadio Banorte",
+      "estado": "Corona Capital en el Autódromo Hermanos Rodríguez (Twenty One Pilots cierra a la 1:00); Pumas-Monterrey a las 19:00 en CU; Carrera Nocturna en Chapultepec a las 18:00. Domingo: NFL 49ers-Vikings en el Estadio Banorte",
       "nivel": "warn"
     }
   ],
@@ -41,20 +41,24 @@
   },
   "marchas": [
     {
-      "hora": "15:00",
-      "texto": "Coalición Nacional de Trabajadores de la Salud, de Metro Barranca del Muerto al IMSS-Bienestar en Gustavo E. Campa 54"
+      "hora": "08:00",
+      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel, contra viviendas del INVI"
+    },
+    {
+      "hora": "11:30",
+      "texto": "Abriendo Jaulas y Mentes frente al Zoológico de San Juan de Aragón, contra el cautiverio de animales"
+    },
+    {
+      "hora": "12:00",
+      "texto": "Ollin Koatl en la Embajada de Honduras (Alfonso Reyes 220, Condesa)"
     },
     {
       "hora": "16:00",
-      "texto": "Vecinos de Prado y Floresta Coyoacán en División del Norte y Rancho El Vergel (posibles bloqueos); comerciantes en el Mercado 204 San Juan de Aragón"
+      "texto": "Comuneros de Eloxochitlán de Flores Magón frente a la Suprema Corte (Pino Suárez 2, Centro)"
     },
     {
       "hora": "17:00",
-      "texto": "Vecinos en la sede de la alcaldía Tláhuac (posibles bloqueos); Sindicatos Democráticos e Independientes en Metro Juárez"
-    },
-    {
-      "hora": "20:00",
-      "texto": "Centro de Apoyo a las Identidades Trans en el Hemiciclo a Juárez, por el Día de la Remembranza Trans (SSC, vía La Razón)"
+      "texto": "Anonymous for the Voiceless en el corredor Madero; 17:30, rodada de motociclistas desde el Monumento a la Revolución (SSC, vía Eje Central y La Razón)"
     }
   ]
 }
