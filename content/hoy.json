@@ -1,12 +1,12 @@
 {
-  "fecha": "Domingo 22 de noviembre de 2026",
-  "actualizado": "18:30 h",
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "actualizado": "06:40 h",
   "clima": {
-    "ahora": 18,
-    "max": 25,
-    "min": 10,
-    "texto": "Tarde templada con chubascos dispersos de 5 a 25 mm y posibles descargas eléctricas por el frente frío 8; máxima de 22 a 25 °C y mínima de 10 a 12 °C. Para la noche se prevé lluvia débil (40% de probabilidad hacia las 20:00) que se retira después de las 23:00 (SMN, vía UnoTV, Maya Comunicación e Infobae).",
-    "aire": "Reporte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; en la capital, 11 estaciones en nivel malo (entre ellas Tlalpan, Benito Juárez, Iztacalco, Miguel Hidalgo e Iztapalapa); en el Edomex, Naucalpan y Nezahualcóyotl en nivel malo (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "ahora": 12,
+    "max": 24,
+    "min": 11,
+    "texto": "Mañana nublada, con niebla y ambiente frío (mínima de 11 a 13 °C); por la tarde, máxima de 22 a 24 °C con lluvias ligeras aisladas. Viento del oeste de 10 a 20 km/h con rachas de hasta 35 km/h; 59% de probabilidad de lluvia (SMN, vía UnoTV e Infobae).",
+    "aire": "Reporte de las 05:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; en la capital, nivel malo en Ajusco Medio (Tlalpan), Pedregal (Álvaro Obregón) y UAM Xochimilco (Coyoacán); la mayoría de las estaciones del Edomex, en nivel bueno (Dirección de Monitoreo Atmosférico, vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,49 +16,49 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Las líneas 1, 2, 3 y 9 dan servicio hasta la 1:30 por el último día del Corona Capital (vía N+)",
-      "nivel": "warn"
+      "estado": "Inició operaciones a las 5:00 con todas sus estaciones abiertas; sin reportes de retrasos al inicio del día (vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "La Bombilla (L1, hacia El Caminero), Tlacotal (L2, hacia Tepalcates) y Cuauhtémoc (L3) cerradas hasta hoy 22; Mercados de San Juan (L4) sin servicio por mantenimiento y Línea 7 sin servicio entre Chapultepec y Campo Marte (vía Maya Comunicación). Aerotrén del AICM suspendido, con autobuses gratis entre T1 y T2",
-      "nivel": "warn"
+      "estado": "Inició servicio a las 4:30 en sus siete líneas; ya concluyeron los cierres de fin de semana en La Bombilla, Tlacotal y Cuauhtémoc (vía Infobae)",
+      "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Último día del Corona Capital en el Autódromo Hermanos Rodríguez (The Strokes cierran de 23:00 a 1:00); NFL 49ers-Vikings en el Estadio Banorte (Calzada de Tlalpan) por la noche, con cierres viales en la zona (vía N+, Infobae y Maya Comunicación)",
+      "estado": "Marcha estudiantil a las 12:00 de la Prepa 8 a la Rectoría de la UNAM; concentración de motociclistas a las 13:00 en Semovi (Roma Norte); concierto de Soda Stereo a las 20:00 en el Palacio de los Deportes (vía SSC y SinEmbargo)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Domingo 22: circulan todos",
-    "color": "#16a34a",
-    "placas": "Sin restricción hoy domingo (no hay contingencia ambiental). Lunes 23: no circulan engomado amarillo, placas 5 y 6"
+    "engomado": "Engomado amarillo (lunes 23)",
+    "color": "#eab308",
+    "placas": "Hoy no circulan placas terminadas en 5 y 6, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía UnoTV y La Razón)"
   },
   "marchas": [
     {
+      "hora": "08:00",
+      "texto": "Vecinos de Bosque Residencial del Sur: concentración por desabasto de agua en la Glorieta de Vaqueritos (Periférico y Canal de Miramontes, Tlalpan)"
+    },
+    {
+      "hora": "09:00",
+      "texto": "Colectivo Salvemos Cuyutlán: concentración en el Ángel de la Independencia"
+    },
+    {
+      "hora": "12:00",
+      "texto": "Colectivo Estudiantil Señal de Alarma: marcha de la Prepa 8 (Álvaro Obregón) a la Rectoría de la UNAM"
+    },
+    {
       "hora": "13:00",
-      "texto": "Colectivo MIGALA: marcha contra la violencia de la Glorieta del Ahuehuete (Reforma y Niza) al Hemiciclo a Juárez; unas 70 personas"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Colectiva Hilos: evento contra la violencia de género en la Glorieta del Ahuehuete y el Jardín Hidalgo de Coyoacán"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Clan Mariposas Negras: concentración por espacios seguros para comunidades trans en la Cineteca Nacional (Xoco)"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Mazatecas por la Libertad: concentración frente a la Suprema Corte (Pino Suárez 2, Centro)"
+      "texto": "Consejo Nacional Motociclista y repartidores: concentración en la Secretaría de Movilidad (Álvaro Obregón 269, Roma Norte)"
     },
     {
       "hora": "—",
-      "texto": "Otras concentraciones en la UPN (Tlalpan), Torre Caballito (Reforma) y la Fuente de la Templanza (Miguel Hidalgo). Fuente: SSC, vía La Razón"
+      "texto": "Además: concentraciones en los Juzgados Penales (Doctores), la FGR y la UPN; rodada ciclista a las 19:50 de la Alameda del Sur a Plaza Miyana, y 19 plantones. Fuente: SSC, vía SinEmbargo"
     }
   ]
 }

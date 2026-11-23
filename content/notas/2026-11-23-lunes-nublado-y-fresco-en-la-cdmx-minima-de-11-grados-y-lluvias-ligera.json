@@ -1,0 +1,22 @@
+{
+  "titulo": "Lunes nublado y fresco en la CDMX: mínima de 11 grados y lluvias ligeras por la tarde",
+  "seccion": "ciudad",
+  "fecha": "2026-11-23T06:35",
+  "resumen": "El SMN prevé para este lunes una mañana nublada, con niebla y temperaturas de 11 a 13 grados en la capital, y una tarde con máximas de 22 a 24 grados y lluvias ligeras aisladas. El viento soplará del oeste a 10-20 km/h, con rachas de hasta 35 km/h. Infobae calcula 59% de probabilidad de lluvia y 80% de nubosidad.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "UnoTV",
+      "enlace": "https://www.unotv.com/clima/pronostico-clima-cdmx-lluvia/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/23/pronostico-del-clima-en-ciudad-de-mexico-este-23-de-noviembre-temperatura-lluvias-y-viento/"
+    }
+  ],
+  "destacada": false,
+  "autor": "Redacción"
+}
