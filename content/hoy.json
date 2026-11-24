@@ -1,12 +1,12 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "18:40 h",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "06:25 h",
   "clima": {
     "ahora": 12,
-    "max": 24,
-    "min": 11,
-    "texto": "Tarde templada con máxima de 22 a 24 °C y lluvias aisladas de hasta 5 mm (SMN). Para la madrugada del martes 24, alerta amarilla por frío de 4 a 6 °C de 4:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC, vía Infobae).",
-    "aire": "Reporte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; 11 de 16 estaciones de la capital en nivel malo (entre ellas Tlalpan, Benito Juárez, Azcapotzalco, GAM, Iztapalapa y Coyoacán); solo Merced y Tláhuac, aceptable (vía Infobae)",
+    "max": 23,
+    "min": 4,
+    "texto": "Mañana nublada con niebla, máxima de 21 a 23 °C y chubascos por la tarde; viento del oeste de 10 a 20 km/h con rachas de hasta 40 km/h. Alerta amarilla por frío con mínimas de 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía UnoTV).",
+    "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; nivel malo en Ajusco Medio (Tlalpan), Pedregal (Álvaro Obregón) y Santa Catarina (Iztapalapa); la mayoría de las demás estaciones, buena o aceptable (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,49 +16,57 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Opera con todas sus estaciones abiertas; la Línea B registró alta afluencia y se enviaron trenes vacíos a las estaciones más cargadas (vía Teleurban)",
+      "estado": "Abrió a las 5:00 h; sin afectaciones reportadas al inicio del servicio (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Estación Goma (Línea 2) cerrada hasta el 28 de noviembre por obras; Tlacotal sin servicio hacia Tepalcates; Eduardo Molina (Línea 4) cerrada en ambos sentidos y Lindavista-Vallejo (Línea 6) sin servicio hacia Villa de Aragón (vía Teleurban)",
-      "nivel": "ok"
+      "estado": "Estación Robles Domínguez (Línea 7) sin servicio en ambos sentidos hasta nuevo aviso; Goma (Línea 2) sigue cerrada hasta el 28 de noviembre por obras (vía Infobae y Teleurban)",
+      "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Concierto de Soda Stereo a las 20:00 en el Palacio de los Deportes (unas 20 mil personas); rodada ciclista a las 19:50 de la Alameda del Sur a Plaza Miyana por Canal de Miramontes, Tlalpan, Viaducto y Circuito Interior (vía SSC e Infobae)",
+      "estado": "Marcha de la Fundación Diana Sánchez Barrios a las 15:00 del Hemiciclo a Juárez al Zócalo y de la UGT a las 17:00 desde Eje Central y Fray Servando; seis rodadas ciclistas por la noche (vía SSC y SinEmbargo)",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado amarillo (lunes 23)",
-    "color": "#eab308",
-    "placas": "Hoy no circulan placas terminadas en 5 y 6, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados (vía UnoTV y La Razón)"
+    "engomado": "Engomado rosa (martes 24)",
+    "color": "#ec4899",
+    "placas": "Hoy no circulan placas terminadas en 7 y 8, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados; exentos hologramas 0 y 00, eléctricos e híbridos (vía Expansión)"
   },
   "marchas": [
     {
-      "hora": "08:00",
-      "texto": "Vecinos de Bosque Residencial del Sur: concentración por desabasto de agua en la Glorieta de Vaqueritos (Periférico y Canal de Miramontes, Tlalpan)"
+      "hora": "07:00",
+      "texto": "Trabajadores del IMSS: concentración en el Zócalo"
     },
     {
       "hora": "09:00",
-      "texto": "Colectivo Salvemos Cuyutlán: concentración en el Ángel de la Independencia"
+      "texto": "Jubilados: concentración en el Centro Nacional de Control de Energía (Periférico Sur 2157, Álvaro Obregón)"
     },
     {
-      "hora": "12:00",
-      "texto": "Colectivo Estudiantil Señal de Alarma: marcha de la Prepa 8 (Álvaro Obregón) a la Rectoría de la UNAM"
+      "hora": "10:00",
+      "texto": "Colectiva: concentración en la Fiscalía de Feminicidio (Dr. Río de la Loza 156, Doctores)"
     },
     {
-      "hora": "13:00",
-      "texto": "Consejo Nacional Motociclista y repartidores: concentración en la Secretaría de Movilidad (Álvaro Obregón 269, Roma Norte)"
+      "hora": "15:00",
+      "texto": "Fundación Diana Sánchez Barrios: marcha del Hemiciclo a Juárez al Zócalo"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Trabajadores del Gobierno capitalino: concentración en Av. 20 de Noviembre y Venustiano Carranza"
+    },
+    {
+      "hora": "17:00",
+      "texto": "UGT: marcha desde Eje Central y Fray Servando (Doctores)"
     },
     {
       "hora": "—",
-      "texto": "Además: concentraciones en los Juzgados Penales (Doctores), la FGR y la UPN; rodada ciclista a las 19:50 de la Alameda del Sur a Plaza Miyana, y 19 plantones. Fuente: SSC, vía SinEmbargo"
+      "texto": "Además: concentraciones en los Juzgados del Reclusorio Oriente y el Edificio de Gobierno, cita de comerciantes del Mercado San Lorenzo en el Zócalo y seis rodadas ciclistas. Total: 20 eventos. Fuente: SSC, vía SinEmbargo"
     }
   ]
 }
