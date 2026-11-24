@@ -1,12 +1,12 @@
 {
   "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "06:40 h",
+  "actualizado": "18:40 h",
   "clima": {
     "ahora": 12,
     "max": 24,
     "min": 11,
-    "texto": "Mañana nublada, con niebla y ambiente frío (mínima de 11 a 13 °C); por la tarde, máxima de 22 a 24 °C con lluvias ligeras aisladas. Viento del oeste de 10 a 20 km/h con rachas de hasta 35 km/h; 59% de probabilidad de lluvia (SMN, vía UnoTV e Infobae).",
-    "aire": "Reporte de las 05:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; en la capital, nivel malo en Ajusco Medio (Tlalpan), Pedregal (Álvaro Obregón) y UAM Xochimilco (Coyoacán); la mayoría de las estaciones del Edomex, en nivel bueno (Dirección de Monitoreo Atmosférico, vía Infobae)",
+    "texto": "Tarde templada con máxima de 22 a 24 °C y lluvias aisladas de hasta 5 mm (SMN). Para la madrugada del martes 24, alerta amarilla por frío de 4 a 6 °C de 4:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC, vía Infobae).",
+    "aire": "Reporte de las 15:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; 11 de 16 estaciones de la capital en nivel malo (entre ellas Tlalpan, Benito Juárez, Azcapotzalco, GAM, Iztapalapa y Coyoacán); solo Merced y Tláhuac, aceptable (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Inició operaciones a las 5:00 con todas sus estaciones abiertas; sin reportes de retrasos al inicio del día (vía Infobae)",
+      "estado": "Opera con todas sus estaciones abiertas; la Línea B registró alta afluencia y se enviaron trenes vacíos a las estaciones más cargadas (vía Teleurban)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició servicio a las 4:30 en sus siete líneas; ya concluyeron los cierres de fin de semana en La Bombilla, Tlacotal y Cuauhtémoc (vía Infobae)",
+      "estado": "Estación Goma (Línea 2) cerrada hasta el 28 de noviembre por obras; Tlacotal sin servicio hacia Tepalcates; Eduardo Molina (Línea 4) cerrada en ambos sentidos y Lindavista-Vallejo (Línea 6) sin servicio hacia Villa de Aragón (vía Teleurban)",
       "nivel": "ok"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha estudiantil a las 12:00 de la Prepa 8 a la Rectoría de la UNAM; concentración de motociclistas a las 13:00 en Semovi (Roma Norte); concierto de Soda Stereo a las 20:00 en el Palacio de los Deportes (vía SSC y SinEmbargo)",
+      "estado": "Concierto de Soda Stereo a las 20:00 en el Palacio de los Deportes (unas 20 mil personas); rodada ciclista a las 19:50 de la Alameda del Sur a Plaza Miyana por Canal de Miramontes, Tlalpan, Viaducto y Circuito Interior (vía SSC e Infobae)",
       "nivel": "warn"
     }
   ],
