@@ -1,11 +1,11 @@
 {
   "fecha": "Martes 24 de noviembre de 2026",
-  "actualizado": "06:25 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 23,
     "min": 4,
-    "texto": "Mañana nublada con niebla, máxima de 21 a 23 °C y chubascos por la tarde; viento del oeste de 10 a 20 km/h con rachas de hasta 40 km/h. Alerta amarilla por frío con mínimas de 4 a 6 °C en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (SGIRPC y SMN, vía UnoTV).",
+    "texto": "Tarde fresca con nubosidad y posibles chubascos. Para el miércoles 25, el SMN prevé cielo medio nublado a nublado, mínima de 11 a 13 °C, máxima de 19 a 21 °C y 40% de probabilidad de lluvia por la tarde y la noche; viento de 5 a 15 km/h con rachas de hasta 30 km/h (SMN y Conagua, vía N+).",
     "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; nivel malo en Ajusco Medio (Tlalpan), Pedregal (Álvaro Obregón) y Santa Catarina (Iztapalapa); la mayoría de las demás estaciones, buena o aceptable (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Abrió a las 5:00 h; sin afectaciones reportadas al inicio del servicio (vía Infobae)",
+      "estado": "Circulación constante en las 12 líneas según el corte de las 10:00 h; alta afluencia en la Línea 7 por la mañana (vía Teleurban)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Estación Robles Domínguez (Línea 7) sin servicio en ambos sentidos hasta nuevo aviso; Goma (Línea 2) sigue cerrada hasta el 28 de noviembre por obras (vía Infobae y Teleurban)",
+      "estado": "Sin servicio: Centro Cultural Universitario (L1) hacia El Caminero hasta el 27 de noviembre, Goma (L2) hacia Tepalcates hasta el 28, Eduardo Molina (L4) por obstrucción y Robles Domínguez (L7); un tráiler dañó el techo de una estación en Eje 4 Sur, Iztapalapa (vía Teleurban e Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha de la Fundación Diana Sánchez Barrios a las 15:00 del Hemiciclo a Juárez al Zócalo y de la UGT a las 17:00 desde Eje Central y Fray Servando; seis rodadas ciclistas por la noche (vía SSC y SinEmbargo)",
+      "estado": "Por la tarde: marcha de la UGT desde Eje Central y Fray Servando, concentración de trabajadores del Gobierno en 20 de Noviembre y Venustiano Carranza y comerciantes en la colonia Obrera (18:00); rodadas ciclistas a partir de las 20:00 (vía SSC e Infobae)",
       "nivel": "warn"
     }
   ],
