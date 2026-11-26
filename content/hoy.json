@@ -1,12 +1,12 @@
 {
-  "fecha": "Martes 24 de noviembre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Jueves 26 de noviembre de 2026",
+  "actualizado": "06:20 h",
   "clima": {
     "ahora": 12,
-    "max": 23,
-    "min": 4,
-    "texto": "Tarde fresca con nubosidad y posibles chubascos. Para el miércoles 25, el SMN prevé cielo medio nublado a nublado, mínima de 11 a 13 °C, máxima de 19 a 21 °C y 40% de probabilidad de lluvia por la tarde y la noche; viento de 5 a 15 km/h con rachas de hasta 30 km/h (SMN y Conagua, vía N+).",
-    "aire": "Reporte de las 5:00 h: calidad mala y riesgo alto en la CDMX y el Edomex; nivel malo en Ajusco Medio (Tlalpan), Pedregal (Álvaro Obregón) y Santa Catarina (Iztapalapa); la mayoría de las demás estaciones, buena o aceptable (vía Infobae)",
+    "max": 21,
+    "min": 10,
+    "texto": "Jueves medio nublado a nublado con chubascos por la tarde (5 a 25 mm), mínima de 10 a 12 °C y máxima de 19 a 21 °C; viento del norte de 10 a 20 km/h con rachas de 30 a 40 km/h (vía UnoTV). Alerta amarilla por frío de 1:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco, con 4 a 6 °C; aviso especial del viernes 27 al domingo 29 por lluvias de hasta 70 mm y posible aguanieve en zonas altas (Protección Civil, vía El Financiero).",
+    "aire": "Reporte de las 5:00 h: índice Aire y Salud malo y riesgo alto en la CDMX y el Edomex; las estaciones de la capital, buenas o aceptables, y nivel malo en Nezahualcóyotl (FAR), Ecatepec (SAG) y Coacalco (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,57 +16,37 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Circulación constante en las 12 líneas según el corte de las 10:00 h; alta afluencia en la Línea 7 por la mañana (vía Teleurban)",
+      "estado": "Todas las estaciones iniciaron servicio a las 5:00 h, según el Metro; por la tarde, posible bloqueo de trabajadores del IMSS junto a la estación Viaducto (L2) (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Sin servicio: Centro Cultural Universitario (L1) hacia El Caminero hasta el 27 de noviembre, Goma (L2) hacia Tepalcates hasta el 28, Eduardo Molina (L4) por obstrucción y Robles Domínguez (L7); un tráiler dañó el techo de una estación en Eje 4 Sur, Iztapalapa (vía Teleurban e Infobae)",
+      "estado": "Inició servicio a las 4:30 h. Siguen sin servicio Centro Cultural Universitario (L1) hacia El Caminero hasta el 27 de noviembre y Goma (L2) hacia Tepalcates hasta el 28 (vía Infobae y Teleurban)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Por la tarde: marcha de la UGT desde Eje Central y Fray Servando, concentración de trabajadores del Gobierno en 20 de Noviembre y Venustiano Carranza y comerciantes en la colonia Obrera (18:00); rodadas ciclistas a partir de las 20:00 (vía SSC e Infobae)",
+      "estado": "Por la tarde, posibles afectaciones en Calzada de Tlalpan y Viaducto por el bloqueo del IMSS (alternativas: Eje Central y Eje 3 Oriente); chubascos y rachas de viento por la tarde",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado rosa (martes 24)",
-    "color": "#ec4899",
-    "placas": "Hoy no circulan placas terminadas en 7 y 8, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y municipios conurbados; exentos hologramas 0 y 00, eléctricos e híbridos (vía Expansión)"
+    "engomado": "Engomado verde (jueves 26)",
+    "color": "#16a34a",
+    "placas": "Hoy no circulan placas terminadas en 1 y 2, holograma 1 y 2, de 5:00 a 22:00 h, en las 16 alcaldías y los municipios conurbados; sin doble Hoy No Circula (vía Infobae)"
   },
   "marchas": [
     {
-      "hora": "07:00",
-      "texto": "Trabajadores del IMSS: concentración en el Zócalo"
-    },
-    {
-      "hora": "09:00",
-      "texto": "Jubilados: concentración en el Centro Nacional de Control de Energía (Periférico Sur 2157, Álvaro Obregón)"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Colectiva: concentración en la Fiscalía de Feminicidio (Dr. Río de la Loza 156, Doctores)"
-    },
-    {
-      "hora": "15:00",
-      "texto": "Fundación Diana Sánchez Barrios: marcha del Hemiciclo a Juárez al Zócalo"
-    },
-    {
-      "hora": "16:00",
-      "texto": "Trabajadores del Gobierno capitalino: concentración en Av. 20 de Noviembre y Venustiano Carranza"
-    },
-    {
-      "hora": "17:00",
-      "texto": "UGT: marcha desde Eje Central y Fray Servando (Doctores)"
+      "hora": "14:00",
+      "texto": "Trabajadores del IMSS: bloqueo junto a la estación Viaducto de la Línea 2 del Metro (hora por confirmar: 14:00 o 15:00)"
     },
     {
       "hora": "—",
-      "texto": "Además: concentraciones en los Juzgados del Reclusorio Oriente y el Edificio de Gobierno, cita de comerciantes del Mercado San Lorenzo en el Zócalo y seis rodadas ciclistas. Total: 20 eventos. Fuente: SSC, vía SinEmbargo"
+      "texto": "La agenda completa de movilizaciones de la SSC para este jueves no estaba disponible al corte de esta actualización."
     }
   ]
 }
