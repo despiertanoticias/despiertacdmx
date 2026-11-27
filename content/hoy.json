@@ -1,11 +1,11 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "06:20 h",
+  "actualizado": "18:25 h",
   "clima": {
     "ahora": 12,
     "max": 21,
     "min": 10,
-    "texto": "Jueves medio nublado a nublado con chubascos por la tarde (5 a 25 mm), mínima de 10 a 12 °C y máxima de 19 a 21 °C; viento del norte de 10 a 20 km/h con rachas de 30 a 40 km/h (vía UnoTV). Alerta amarilla por frío de 1:00 a 8:00 h en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco, con 4 a 6 °C; aviso especial del viernes 27 al domingo 29 por lluvias de hasta 70 mm y posible aguanieve en zonas altas (Protección Civil, vía El Financiero).",
+    "texto": "Jueves medio nublado a nublado con chubascos por la tarde, máxima de 19 a 21 °C (vía UnoTV). Aviso especial de la SGIRPC del viernes 27 al domingo 29: máximas de 8 a 13 °C, mínimas de hasta -2 °C, rachas de hasta 50 km/h, lluvias fuertes a muy fuertes de más de 70 mm el viernes y sábado, y posible aguanieve o nieve solo en zonas por encima de 2,800 m (Ajusco, Chichinautzin, Cerro del Pelado); no se prevé en la zona urbana (vía Infobae).",
     "aire": "Reporte de las 5:00 h: índice Aire y Salud malo y riesgo alto en la CDMX y el Edomex; las estaciones de la capital, buenas o aceptables, y nivel malo en Nezahualcóyotl (FAR), Ecatepec (SAG) y Coacalco (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
@@ -16,21 +16,21 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones iniciaron servicio a las 5:00 h, según el Metro; por la tarde, posible bloqueo de trabajadores del IMSS junto a la estación Viaducto (L2) (vía Infobae)",
+      "estado": "Todas las estaciones dan servicio; alta afluencia en las líneas 3 y B, con trenes vacíos enviados a las estaciones de mayor demanda; el resto de las líneas con avance regular (vía Teleurban)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Inició servicio a las 4:30 h. Siguen sin servicio Centro Cultural Universitario (L1) hacia El Caminero hasta el 27 de noviembre y Goma (L2) hacia Tepalcates hasta el 28 (vía Infobae y Teleurban)",
+      "estado": "Eduardo Molina (L4) sin servicio en ambos sentidos por obstrucción del carril confinado; Centro Cultural Universitario (L1) sin servicio hacia El Caminero hasta el 27 de noviembre y Goma (L2) hacia Tepalcates hasta el 28; retrasos entre Doctor Vértiz y Amores (vía Teleurban)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Por la tarde, posibles afectaciones en Calzada de Tlalpan y Viaducto por el bloqueo del IMSS (alternativas: Eje Central y Eje 3 Oriente); chubascos y rachas de viento por la tarde",
+      "estado": "Marcha por Ayotzinapa a las 16:00 h del Ángel al Hemiciclo a Juárez: posibles afectaciones en Reforma y avenida Juárez; concentración en Calzada de Tlalpan y Coruña (estación Viaducto) desde las 14:00 h; lluvias por la tarde",
       "nivel": "warn"
     }
   ],
@@ -41,12 +41,28 @@
   },
   "marchas": [
     {
-      "hora": "14:00",
-      "texto": "Trabajadores del IMSS: bloqueo junto a la estación Viaducto de la Línea 2 del Metro (hora por confirmar: 14:00 o 15:00)"
+      "hora": "10:00",
+      "texto": "Movimiento Plural de Maquineros: de la estación Juanacatlán (L1) a la Secretaría de Economía (Pachuca 189, Condesa), contra la Ley de Economía Digital"
     },
     {
-      "hora": "—",
-      "texto": "La agenda completa de movilizaciones de la SSC para este jueves no estaba disponible al corte de esta actualización."
+      "hora": "11:00",
+      "texto": "Rodada de repartidores de Uber Eats: de Galerías Plaza de las Estrellas a las oficinas de Uber (Hamburgo 206)"
+    },
+    {
+      "hora": "14:00",
+      "texto": "Sindicatos Unidos: concentración en la estación Viaducto de la L2 (Calzada de Tlalpan y Coruña, Iztacalco), aforo estimado de 1,000 personas"
+    },
+    {
+      "hora": "14:00",
+      "texto": "Familiares de menores desaparecidos: Fiscalía de Desaparición Forzada (Río de la Loza 114, Doctores)"
+    },
+    {
+      "hora": "16:00",
+      "texto": "Acción Global por Ayotzinapa: madres y padres de los 43, del Ángel de la Independencia al Hemiciclo a Juárez"
+    },
+    {
+      "hora": "Todo el día",
+      "texto": "Concentraciones en la Secretaría de Gobierno y el Zócalo (Ruta 100, Antorcha Campesina de Tláhuac, comerciantes indígenas, Comité contra el Plan General de Desarrollo) (vía UnoTV)"
     }
   ]
 }
