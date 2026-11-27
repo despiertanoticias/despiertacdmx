@@ -36,8 +36,8 @@ function imagen(key,tag,w,eager,foto){
   var m=IMG[key]||{};var src=foto||imgSrc(key,w);
   return '<div class="img">'+(src?'<img src="'+esc(src)+'" alt="'+esc(m.alt||"")+'" loading="'+(eager?"eager":"lazy")+'" decoding="async" referrerpolicy="no-referrer">':'')+(tag?'<span class="tagimg">'+esc(tag)+'</span>':'')+'</div>';
 }
-function rel(n){return n.p?"sponsored noopener":"noopener"}
-function fuentes(n){return '<div class="fuentes">Fuentes: '+n.src.map(function(s){return '<a href="'+esc(s[1])+'" target="_blank" rel="'+rel(n)+'">'+esc(s[0])+'</a>'}).join("")+'</div>'}
+function relDe(n){return n.p?"sponsored noopener":"noopener"}
+function fuentes(n){return '<div class="fuentes">Fuentes: '+n.src.map(function(s){return '<a href="'+esc(s[1])+'" target="_blank" rel="'+relDe(n)+'">'+esc(s[0])+'</a>'}).join("")+'</div>'}
 function tarjeta(n,conResumen){
   return '<article><a class="t" href="'+url(n)+'">'+imagen(n.img,CATS[n.c],640,false,n.foto)+'</a>'+
     '<a class="cat" href="'+urlSec(n.c)+'">'+esc(CATS[n.c])+'</a>'+
@@ -54,7 +54,7 @@ function fila(n){
 function parrafos(n){
   var t=n.b||"";var out=n.r?'<p><strong>'+esc(n.r)+'</strong></p>':'';
   t.split(/\n\s*\n/).forEach(function(p){p=p.trim();if(!p)return;
-    var h=esc(p).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="'+rel(n)+'" style="text-decoration:underline">$1</a>').replace(/\n/g,"<br>");
+    var h=esc(p).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g,'<a href="$2" target="_blank" rel="'+relDe(n)+'" style="text-decoration:underline">$1</a>').replace(/\n/g,"<br>");
     out+=/^#{1,3} /.test(p)?'<h2 style="font-size:24px;margin:24px 0 10px">'+h.replace(/^#{1,3} /,"")+'</h2>':'<p>'+h+'</p>'});
   if(!n.b&&n.r)out='<p>'+esc(n.r)+'</p>';
   return out;
@@ -161,7 +161,7 @@ function nota(){
     (n.p?'<p class="patrocinado" style="display:inline-block;margin:0 0 12px;padding:4px 10px;border:1px solid currentColor;border-radius:4px;font:700 12px/1.4 Montserrat,sans-serif;letter-spacing:.06em;text-transform:uppercase">Contenido patrocinado</p>':'')+'<h1>'+esc(n.t)+'</h1><div class="meta"><a class="cat" href="'+urlSec(n.c)+'">'+CATS[n.c]+'</a><span>'+esc(n.a)+' · '+fecha(n.d)+'</span></div>'+
     '<figure>'+imagen(n.img,"",1400,true,n.foto)+'<figcaption>'+credito+'</figcaption></figure>'+
     '<div class="texto">'+parrafos(n)+'</div>'+
-    '<div class="caja-fuentes"><b>Fuentes</b><ul>'+n.src.map(function(s){return '<li><a href="'+esc(s[1])+'" target="_blank" rel="'+rel(n)+'">'+esc(s[0])+'</a></li>'}).join("")+'</ul></div>'+
+    '<div class="caja-fuentes"><b>Fuentes</b><ul>'+n.src.map(function(s){return '<li><a href="'+esc(s[1])+'" target="_blank" rel="'+relDe(n)+'">'+esc(s[0])+'</a></li>'}).join("")+'</ul></div>'+
     '<div class="compartir"><button class="btn sec" type="button" id="copiar">Copiar enlace</button><span id="copiado" role="status"></span></div>'+
     (rel.length?'<div class="cabeza"><h2>Más de '+CATS[n.c]+'</h2><a class="mas" href="'+urlSec(n.c)+'">Ver todas →</a></div><div class="tarjetas">'+rel.map(function(x){return tarjeta(x,false)}).join("")+'</div>':'')+
     '</article>'+rail()+'</main></div>';
