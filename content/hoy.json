@@ -1,12 +1,12 @@
 {
-  "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "18:25 h",
+  "fecha": "Viernes 27 de noviembre de 2026",
+  "actualizado": "06:30 h",
   "clima": {
-    "ahora": 12,
-    "max": 21,
-    "min": 10,
-    "texto": "Jueves medio nublado a nublado con chubascos por la tarde, máxima de 19 a 21 °C (vía UnoTV). Aviso especial de la SGIRPC del viernes 27 al domingo 29: máximas de 8 a 13 °C, mínimas de hasta -2 °C, rachas de hasta 50 km/h, lluvias fuertes a muy fuertes de más de 70 mm el viernes y sábado, y posible aguanieve o nieve solo en zonas por encima de 2,800 m (Ajusco, Chichinautzin, Cerro del Pelado); no se prevé en la zona urbana (vía Infobae).",
-    "aire": "Reporte de las 5:00 h: índice Aire y Salud malo y riesgo alto en la CDMX y el Edomex; las estaciones de la capital, buenas o aceptables, y nivel malo en Nezahualcóyotl (FAR), Ecatepec (SAG) y Coacalco (vía Infobae)",
+    "ahora": 9,
+    "max": 14,
+    "min": 8,
+    "texto": "Viernes frío, nublado y con lluvia ligera por la mañana; por la tarde y noche, lluvias más intensas con acumulados de 50 a 75 mm y posible aguanieve o nieve en partes altas. Máxima de 12 a 14 °C y mínima de 8 a 10 °C (vía UnoTV). Aviso especial de la SGIRPC del 27 al 29: mínimas de hasta -2 °C en zonas altas, rachas de hasta 50 km/h y nieve solo por encima de 2,800 m (Ajusco, Chichinautzin, El Pelado); no se prevé en la zona urbana (vía Infobae).",
+    "aire": "Reporte de las 5:00 h: índice Aire y Salud malo y riesgo alto en la CDMX y el Edomex; nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, Venustiano Carranza y Álvaro Obregón, y en Ecatepec y Coacalco (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,53 +16,53 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Todas las estaciones dan servicio; alta afluencia en las líneas 3 y B, con trenes vacíos enviados a las estaciones de mayor demanda; el resto de las líneas con avance regular (vía Teleurban)",
+      "estado": "El Metro inició operaciones a las 5:00 h y reporta que todas sus estaciones dan servicio este viernes (vía Infobae)",
       "nivel": "ok"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "Eduardo Molina (L4) sin servicio en ambos sentidos por obstrucción del carril confinado; Centro Cultural Universitario (L1) sin servicio hacia El Caminero hasta el 27 de noviembre y Goma (L2) hacia Tepalcates hasta el 28; retrasos entre Doctor Vértiz y Amores (vía Teleurban)",
+      "estado": "El Metrobús inició servicio a las 4:30 h; Goma (L2) sin servicio hacia Tepalcates hasta el 28 de noviembre, según el último reporte (vía Teleurban/Infobae)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha por Ayotzinapa a las 16:00 h del Ángel al Hemiciclo a Juárez: posibles afectaciones en Reforma y avenida Juárez; concentración en Calzada de Tlalpan y Coruña (estación Viaducto) desde las 14:00 h; lluvias por la tarde",
+      "estado": "Marcha del sindicato del IEMS a las 10:00 h de la colonia Doctores a Eje Central y Madero; concentraciones en el Senado (Reforma 135) y Roma Norte a las 11:00 h; lluvias intensas por la tarde y noche",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado verde (jueves 26)",
-    "color": "#16a34a",
-    "placas": "Hoy no circulan placas terminadas en 1 y 2, holograma 1 y 2, de 5:00 a 22:00 h, en las 16 alcaldías y los municipios conurbados; sin doble Hoy No Circula (vía Infobae)"
+    "engomado": "Engomado azul (viernes 27)",
+    "color": "#2563eb",
+    "placas": "Hoy no circulan placas terminadas en 9 y 0, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y 18 municipios del Edomex; exentos holograma 0 y 00, eléctricos e híbridos (vía UnoTV)"
   },
   "marchas": [
     {
+      "hora": "08:00",
+      "texto": "Familiares de víctima de feminicidio: Tribunal Superior de Justicia (Niños Héroes 119, Doctores)"
+    },
+    {
       "hora": "10:00",
-      "texto": "Movimiento Plural de Maquineros: de la estación Juanacatlán (L1) a la Secretaría de Economía (Pachuca 189, Condesa), contra la Ley de Economía Digital"
+      "texto": "Sindicato de trabajadores del IEMS: marcha de la Junta Local de Conciliación y Arbitraje (Río de la Loza 68, Doctores) a Eje Central y Madero, aforo estimado de 250 personas"
     },
     {
       "hora": "11:00",
-      "texto": "Rodada de repartidores de Uber Eats: de Galerías Plaza de las Estrellas a las oficinas de Uber (Hamburgo 206)"
+      "texto": "Frente Nacional por las 40 Horas: Senado (Reforma 135, Tabacalera)"
     },
     {
-      "hora": "14:00",
-      "texto": "Sindicatos Unidos: concentración en la estación Viaducto de la L2 (Calzada de Tlalpan y Coruña, Iztacalco), aforo estimado de 1,000 personas"
+      "hora": "11:00",
+      "texto": "Sindicato Nacional de Trabajadores de la Secretaría de Salud: Av. Oaxaca 58, Roma Norte, aforo estimado de 300 personas"
     },
     {
-      "hora": "14:00",
-      "texto": "Familiares de menores desaparecidos: Fiscalía de Desaparición Forzada (Río de la Loza 114, Doctores)"
+      "hora": "12:00",
+      "texto": "Colectivos: Embajada de Perú (Reforma 2601) y juzgados del Reclusorio Oriente"
     },
     {
-      "hora": "16:00",
-      "texto": "Acción Global por Ayotzinapa: madres y padres de los 43, del Ángel de la Independencia al Hemiciclo a Juárez"
-    },
-    {
-      "hora": "Todo el día",
-      "texto": "Concentraciones en la Secretaría de Gobierno y el Zócalo (Ruta 100, Antorcha Campesina de Tláhuac, comerciantes indígenas, Comité contra el Plan General de Desarrollo) (vía UnoTV)"
+      "hora": "17:00",
+      "texto": "Colectivo antipatriarcal: Hemiciclo a Juárez (Av. Juárez 50) (vía SinEmbargo con datos de la SSC)"
     }
   ]
 }

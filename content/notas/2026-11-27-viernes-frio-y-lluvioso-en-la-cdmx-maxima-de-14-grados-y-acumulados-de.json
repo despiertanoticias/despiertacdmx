@@ -1,0 +1,22 @@
+{
+  "titulo": "Viernes frío y lluvioso en la CDMX: máxima de 14 grados y acumulados de hasta 75 mm",
+  "seccion": "ciudad",
+  "fecha": "2026-11-27T06:20",
+  "resumen": "La capital amanece fría y con lluvia ligera; por la tarde y la noche se esperan lluvias más intensas, con acumulados de 50 a 75 milímetros en 24 horas, y posible aguanieve o nieve en las partes altas. La temperatura máxima será de 12 a 14 grados y la mínima de 8 a 10; Protección Civil prevé mínimas de hasta -2 grados en zonas altas y rachas de hasta 50 km/h.",
+  "cuerpo": "",
+  "imagen_tema": "lluvia",
+  "imagen": "",
+  "credito": "",
+  "fuentes": [
+    {
+      "medio": "UnoTV",
+      "enlace": "https://www.unotv.com/clima/viernes-con-una-manana-fria-y-lluvias-ligeras-por-la-tarde-se-preve-aguanieve/"
+    },
+    {
+      "medio": "Infobae",
+      "enlace": "https://www.infobae.com/mexico/2026/11/27/tormenta-invernal-en-cdmx-que-dias-se-esperan-temperaturas-minimas-de-hasta-2-grados/"
+    }
+  ],
+  "destacada": true,
+  "autor": "Redacción"
+}
