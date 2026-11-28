@@ -1,12 +1,12 @@
 {
   "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "06:30 h",
+  "actualizado": "18:20 h",
   "clima": {
     "ahora": 9,
-    "max": 14,
+    "max": 13,
     "min": 8,
-    "texto": "Viernes frío, nublado y con lluvia ligera por la mañana; por la tarde y noche, lluvias más intensas con acumulados de 50 a 75 mm y posible aguanieve o nieve en partes altas. Máxima de 12 a 14 °C y mínima de 8 a 10 °C (vía UnoTV). Aviso especial de la SGIRPC del 27 al 29: mínimas de hasta -2 °C en zonas altas, rachas de hasta 50 km/h y nieve solo por encima de 2,800 m (Ajusco, Chichinautzin, El Pelado); no se prevé en la zona urbana (vía Infobae).",
-    "aire": "Reporte de las 5:00 h: índice Aire y Salud malo y riesgo alto en la CDMX y el Edomex; nivel malo en Tlalpan, Benito Juárez, Azcapotzalco, Venustiano Carranza y Álvaro Obregón, y en Ecatepec y Coacalco (vía Infobae)",
+    "texto": "Tarde y noche con lluvias fuertes por la primera tormenta invernal: Protección Civil activó alerta roja en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (50 a 70 mm) y naranja en las otras diez alcaldías (30 a 49 mm), de las 14:00 h del viernes a las 6:00 h del sábado (vía López-Dóriga). Máximas de 8 a 13 °C y mínimas de -2 a 6 °C; el SMN prevé nieve o aguanieve por la noche en zonas altas. La lluvia seguiría el sábado, según Clara Brugada (vía El Financiero).",
+    "aire": "Reporte de las 15:00 h: calidad del aire mala y riesgo alto en la CDMX; nivel malo en Tlalpan, Gustavo A. Madero, Iztacalco, Venustiano Carranza y Coyoacán, aceptable en Benito Juárez, Azcapotzalco y Álvaro Obregón (vía Infobae)",
     "aire_estado": "bad",
     "contingencia": "No",
     "contingencia_estado": "ok"
@@ -16,8 +16,8 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "El Metro inició operaciones a las 5:00 h y reporta que todas sus estaciones dan servicio este viernes (vía Infobae)",
-      "nivel": "ok"
+      "estado": "Tarde con retrasos: tren detenido unos 20 minutos en Centro Médico (L3) hacia las 17:40 h, esperas de 10 minutos en la L4 hacia Santa Anita y alta afluencia en las líneas 3 y B (vía TV Azteca)",
+      "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
@@ -30,7 +30,7 @@
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Marcha del sindicato del IEMS a las 10:00 h de la colonia Doctores a Eje Central y Madero; concentraciones en el Senado (Reforma 135) y Roma Norte a las 11:00 h; lluvias intensas por la tarde y noche",
+      "estado": "Lluvias fuertes con alertas roja y naranja hasta las 6:00 h del sábado: se prevén encharcamientos y caída de árboles; reportes al 911 y al 55 5683 2222",
       "nivel": "warn"
     }
   ],
