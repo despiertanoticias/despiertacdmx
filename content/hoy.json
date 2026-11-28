@@ -1,13 +1,13 @@
 {
-  "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "18:20 h",
+  "fecha": "Sábado 28 de noviembre de 2026",
+  "actualizado": "06:20 h",
   "clima": {
-    "ahora": 9,
-    "max": 13,
-    "min": 8,
-    "texto": "Tarde y noche con lluvias fuertes por la primera tormenta invernal: Protección Civil activó alerta roja en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco (50 a 70 mm) y naranja en las otras diez alcaldías (30 a 49 mm), de las 14:00 h del viernes a las 6:00 h del sábado (vía López-Dóriga). Máximas de 8 a 13 °C y mínimas de -2 a 6 °C; el SMN prevé nieve o aguanieve por la noche en zonas altas. La lluvia seguiría el sábado, según Clara Brugada (vía El Financiero).",
-    "aire": "Reporte de las 15:00 h: calidad del aire mala y riesgo alto en la CDMX; nivel malo en Tlalpan, Gustavo A. Madero, Iztacalco, Venustiano Carranza y Coyoacán, aceptable en Benito Juárez, Azcapotzalco y Álvaro Obregón (vía Infobae)",
-    "aire_estado": "bad",
+    "ahora": 6,
+    "max": 12,
+    "min": 4,
+    "texto": "Sábado nublado, frío y con lluvias fuertes por la primera tormenta invernal: mínima de 4 a 6 °C y máxima de 10 a 12 °C, rachas de viento de 30 a 50 km/h y posible nieve o aguanieve por encima de 2,800 metros (vía Uno TV). Protección Civil mantiene alerta naranja por frío en Álvaro Obregón, Cuajimalpa, Magdalena Contreras, Milpa Alta, Tlalpan y Xochimilco, y amarilla en Azcapotzalco, Coyoacán, GAM, Iztapalapa, Miguel Hidalgo y Tláhuac (vía Maya Comunicación).",
+    "aire": "Reporte de las 5:00 h: calidad del aire buena y riesgo bajo en todas las estaciones con datos de la CDMX y el Edomex (vía Infobae)",
+    "aire_estado": "ok",
     "contingencia": "No",
     "contingencia_estado": "ok"
   },
@@ -16,53 +16,33 @@
       "nombre": "Metro",
       "icono": "M",
       "color": "#f37021",
-      "estado": "Tarde con retrasos: tren detenido unos 20 minutos en Centro Médico (L3) hacia las 17:40 h, esperas de 10 minutos en la L4 hacia Santa Anita y alta afluencia en las líneas 3 y B (vía TV Azteca)",
+      "estado": "Marcha de seguridad en todas las líneas por la lluvia este sábado (vía El Heraldo de México)",
       "nivel": "warn"
     },
     {
       "nombre": "Metrobús",
       "icono": "MB",
       "color": "#b9272b",
-      "estado": "El Metrobús inició servicio a las 4:30 h; Goma (L2) sin servicio hacia Tepalcates hasta el 28 de noviembre, según el último reporte (vía Teleurban/Infobae)",
+      "estado": "Goma (L2) sin servicio hacia Tepalcates hasta este 28 de noviembre, según el último reporte; por el Bolo Fest se recomienda llegar en Metro o Metrobús a Reforma (vía Teleurban/Infobae y Maya Comunicación)",
       "nivel": "warn"
     },
     {
       "nombre": "Vialidades",
       "icono": "V",
       "color": "#6b7280",
-      "estado": "Lluvias fuertes con alertas roja y naranja hasta las 6:00 h del sábado: se prevén encharcamientos y caída de árboles; reportes al 911 y al 55 5683 2222",
+      "estado": "Cierres en Paseo de la Reforma desde las 15:00 h por el Bolo Fest (Ángel a Monumento a la Revolución); alternativas: Circuito Interior, Eje 1 Norte, Chapultepec, Río de la Loza, Eje Central y Arcos de Belén. Posibles encharcamientos por lluvia",
       "nivel": "warn"
     }
   ],
   "hoy_no_circula": {
-    "engomado": "Engomado azul (viernes 27)",
-    "color": "#2563eb",
-    "placas": "Hoy no circulan placas terminadas en 9 y 0, holograma 1 y 2, de 5:00 a 22:00 h, en la CDMX y 18 municipios del Edomex; exentos holograma 0 y 00, eléctricos e híbridos (vía UnoTV)"
+    "engomado": "Sabatino (cuarto sábado)",
+    "color": "#6b7280",
+    "placas": "De 5:00 a 22:00 h no circulan holograma 2 (todas las terminaciones), holograma 1 con placa par (0, 2, 4, 6 y 8) y foráneos sin verificación; circulan holograma 0 y 00 y holograma 1 con placa impar (vía Récord)"
   },
   "marchas": [
     {
-      "hora": "08:00",
-      "texto": "Familiares de víctima de feminicidio: Tribunal Superior de Justicia (Niños Héroes 119, Doctores)"
-    },
-    {
-      "hora": "10:00",
-      "texto": "Sindicato de trabajadores del IEMS: marcha de la Junta Local de Conciliación y Arbitraje (Río de la Loza 68, Doctores) a Eje Central y Madero, aforo estimado de 250 personas"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Frente Nacional por las 40 Horas: Senado (Reforma 135, Tabacalera)"
-    },
-    {
-      "hora": "11:00",
-      "texto": "Sindicato Nacional de Trabajadores de la Secretaría de Salud: Av. Oaxaca 58, Roma Norte, aforo estimado de 300 personas"
-    },
-    {
-      "hora": "12:00",
-      "texto": "Colectivos: Embajada de Perú (Reforma 2601) y juzgados del Reclusorio Oriente"
-    },
-    {
-      "hora": "17:00",
-      "texto": "Colectivo antipatriarcal: Hemiciclo a Juárez (Av. Juárez 50) (vía SinEmbargo con datos de la SSC)"
+      "hora": "15:00",
+      "texto": "Bolo Fest, desfile navideño: del Ángel de la Independencia al Monumento a la Revolución por Reforma, con 2,221 policías de la SSC (vía Maya Comunicación). No se encontró la agenda de marchas de la SSC para este sábado"
     }
   ]
 }
